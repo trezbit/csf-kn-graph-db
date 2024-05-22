@@ -1,0 +1,17 @@
+
+{ "Standard": [{"id":10, "name":"NIST_CSF_version_1.1", "display_name": "NIST CSF Version 1.1", "role":"map_2_0"},
+{"id":11,"name":"NIST_CSF_version_2.0", "display_name": "NIST CSF Version 2.0", "role":"core"},
+{"id":12,"name":"62443-2-1-2009", "display_name": "IEC 62443-2-1:2009", "role":"map_1_1"},
+{"id":13,"name":"CIS_CSC", "display_name": "CIS Critical Security Controls (CSC)", "role":"map_1_1"},
+{"id":14,"name":"COBIT_5", "display_name": "Control Objectives for Information and Related Technologies (COBIT) 5", "role":"map_1_1"},
+{"id":15,"name":"ISA_62443-2-1-2009", "display_name": "ISA 62443-2-1:2009", "role":"map_1_1"},
+{"id":16,"name":"ISA_62443-3-3-2013_SR", "display_name": "ISA 62443-3-3:2013 - Security Requirements (SR)", "role":"map_1_1"},
+{"id":18,"name":"ISO-IEC_27001-2013", "display_name": "ISO/IEC 27001:2013", "role":"map_1_1"},
+{"id":19,"name":"NIST_SP_800-53_Rev_4", "display_name": "NIST SP 800-53 Rev. 4", "role":"map_1_1"},
+{"id":20,"name":"CIS_Controls_v8.0", "display_name": "CIS Controls v8.0", "role":"map_2_0"},
+{"id":21,"name":"CRI_Profile_v2.0", "display_name": "Cyber Resilience Index (CRI) Profile v2.0 ", "role":"map_2_0"},
+{"id":22,"name":"SP_800-221A", "display_name": "NIST SP 800-221A", "role":"map_2_0"},
+{"id":23,"name":"SP_800-53_Rev_5.1.1", "display_name": "NIST SP 800-53 Rev. 5.1.1", "role":"map_2_0"},
+{"id":24,"name":"SSDF_v1.1", "display_name": "Secure Software Development Framework SSDF v1.1", "role":"map_2_0"}
+]
+}
