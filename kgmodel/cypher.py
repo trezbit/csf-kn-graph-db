@@ -1,21 +1,36 @@
 '''Cypher Queries for the KG Graph'''
-
+from config.includes import PUBLIC_GRAPH_DATA_ROOT
 CLEANUP_GRAPH = """
 	MATCH (n)
 	OPTIONAL MATCH (n)-[r]-()
 	DELETE n,r
 """
 
-'''Node Load'''
-LOAD_STANDARD="""LOAD CSV WITH HEADERS FROM ($uri) AS row
-WITH row
+'''Node Load CYBHER Queries'''
+LOAD_STANDARD="""
+    LOAD CSV WITH HEADERS FROM '""" +  PUBLIC_GRAPH_DATA_ROOT + """/standard.csv'
+    AS row WITH row
+    WHERE NOT toInteger(trim(row.`id`)) IS NULL
+    CALL {
+    WITH row
+    MERGE (n: `STANDARD` { `id`: toInteger(trim(row.`id`)) })
+    SET n.`id` = toInteger(trim(row.`id`))
+    SET n.`name` = row.`name`
+    SET n.`display_name` = row.`display_name`
+    SET n.`role` = row.`role`
+    } IN TRANSACTIONS OF 10000 ROWS;
+"""
+LOAD_CONTROL="""
+LOAD CSV WITH HEADERS FROM '""" +  PUBLIC_GRAPH_DATA_ROOT + """/control.csv'
+AS row WITH row
 WHERE NOT toInteger(trim(row.`id`)) IS NULL
 CALL {
   WITH row
-  MERGE (n: `STANDARD` { `id`: toInteger(trim(row.`id`)) })
+  MERGE (n: `CONTROL` { `id`: toInteger(trim(row.`id`)) })
   SET n.`id` = toInteger(trim(row.`id`))
-  SET n.`name` = row.`name`
-  SET n.`display_name` = row.`display_name`
-  SET n.`role` = row.`role`
+  SET n.`functional_category` = row.`functional_category`
+  SET n.`control` = row.`control`
 } IN TRANSACTIONS OF 10000 ROWS;
 """
+
+CREATE_CONSTRAINT ="""CREATE CONSTRAINT id___LABEL___uniq IF NOT EXISTS FOR (n: __LABEL__) REQUIRE (n.`id`) IS UNIQUE;"""

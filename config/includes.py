@@ -11,6 +11,8 @@ KEYBERT_CONFIG=os.path.abspath(Path(__file__).parent) + "/keybert.json"
 # Corpus, mappings, samples
 MODEL_CORPUS_BASE= ROOT_DIR + "/corpus"
 
+# Graph data public sets
+PUBLIC_GRAPH_DATA_ROOT = "https://raw.githubusercontent.com/trezbit/csf-kn-graph-db/master/kgmodel/csv"
 
 # Constants
 class CorpusType(Enum):

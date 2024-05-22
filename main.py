@@ -4,6 +4,8 @@ import json
 import extractor.extract as extract
 import config.includes as includes
 import connector.graphdb as graphdb
+import gprocessor.process as process
+import kgmodel.kgtypes as kgtypes
 
 def extract_keyphrase(file,config):
     '''Extract keyphrases from a text file using KeyBERT'''
@@ -43,11 +45,16 @@ def extract_keyphrase_patternrank(file,config):
     for res in result:
         print("Key phrase: ", res)
 
-def test_neo4j(config):
+def test_neo4j(params):
     '''Test Neo4j connectivity'''
-    print("Test Neo4j connectivity - Config:", config)
+    print("Test Neo4j connectivity - Config:", params)
     neocl = graphdb.NEO4JConnector()
-    neocl.verify_connectivity()
+    if params == '{}':
+        neocl.verify_connectivity()
+    elif params == 'clean':
+        neocl.cleanup_full()
+    elif params == 'loadcsv':
+        process.GraphProcessor().build_graph()
     neocl.close()
 
 

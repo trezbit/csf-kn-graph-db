@@ -1,7 +1,8 @@
 '''Graph database connector for Neo4j'''
 import os
 from neo4j import GraphDatabase
-from kgmodel.cypher import CLEANUP_FULL
+from neo4j.exceptions import Neo4jError
+from kgmodel.cypher import CLEANUP_GRAPH
 
 
 class NEO4JConnector(object):
@@ -33,13 +34,12 @@ class NEO4JConnector(object):
         with self.driver.session() as session:
             result = session.run(query, params)
             return result
-        
     def cleanup_full(self):
         '''Cleanup the database'''
         with self.driver.session() as session:
-            result = session.run(CLEANUP_FULL)
-            # check for errors in execution
-            if result.has_error():
-                print("Error in cleanup: " + result.error())
-                result = None
-            return result
+            try:
+                session.run(CLEANUP_GRAPH)
+            except Neo4jError as e:
+                print("Error in cleanup: " + str(e))
+
+            
