@@ -28,6 +28,7 @@ class GraphProcessor():
         self.cleanup_graph()
         self.build_node(NodeType.STANDARD)
         self.build_node(NodeType.CONTROL)
+        self.build_relation(RelationType.HAS_CONTROL)
         # self.build_node(NodeType.KEYCONCEPT)
         # self.build_node(NodeType.QUESTION)
         # self.build_relation(RelationType.IN_STANDARD.reltype, RelationType.IN_STANDARD.from_node, RelationType.IN_STANDARD.to_node, RelationType.IN_STANDARD.props)
@@ -45,9 +46,10 @@ class GraphProcessor():
         
         return
     
-    def build_relation(self, direction, reltype, props):
+    def build_relation(self, reltype:RelationType):
         '''Main method for building relations for batch upload'''
-        print("Build Relations - Direction:", direction, ", Type: ", reltype, ", Properties (dict): ", props)
+        print("Build Relations -  Type: ", reltype)
+        self.connector.run_query(reltype.load)
 
         return
     def batch_key_concept_extract(self, corpuspath):

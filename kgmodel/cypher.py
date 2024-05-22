@@ -29,7 +29,20 @@ CALL {
   MERGE (n: `CONTROL` { `id`: toInteger(trim(row.`id`)) })
   SET n.`id` = toInteger(trim(row.`id`))
   SET n.`functional_category` = row.`functional_category`
-  SET n.`control` = row.`control`
+  SET n.`name` = row.`name`
+} IN TRANSACTIONS OF 10000 ROWS;
+"""
+
+'''Relation Load CYBHER Queries'''
+
+LOAD_HAS_CONTROL="""
+LOAD CSV WITH HEADERS FROM '""" +  PUBLIC_GRAPH_DATA_ROOT + """/standard2control.csv'
+AS row WITH row 
+CALL {
+  WITH row
+  MATCH (source: `STANDARD` { `id`: toInteger(trim(row.`from_id`)) })
+  MATCH (target: `CONTROL` { `id`: toInteger(trim(row.`to_id`)) })
+  MERGE (source)-[r: `HAS_CONTROL`]->(target)
 } IN TRANSACTIONS OF 10000 ROWS;
 """
 
