@@ -22,6 +22,6 @@ class RelationType(Enum):
         self.load = load
 
     HAS_CONTROL='HAS_CONTROL', cypher.LOAD_HAS_CONTROL
-    MAPS_TO_='MAPS_TO',  cypher.LOAD_HAS_CONTROL
+    MAPS_TO='MAPS_TO',  cypher.LOAD_MAPS_TO
     CAPTURES='CAPTURES',  cypher.LOAD_HAS_CONTROL
     ASSESSES='ASSESSES',  cypher.LOAD_HAS_CONTROL

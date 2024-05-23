@@ -1,4 +1,3 @@
-
 {"standard_id":"10", "standard_name":"csf-v1.1",
 "controls": [
  {"id": 1001, "functional_category": "IDENTIFY-Asset Management (ID.AM)", "control": "ID.AM-1"},   

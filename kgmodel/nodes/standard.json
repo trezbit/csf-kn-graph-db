@@ -1,5 +1,5 @@
 
-{ "Standard": [{"id":10, "name":"NIST_CSF_version_1.1", "display_name": "NIST CSF Version 1.1", "role":"map_2_0"},
+{ "standards": [{"id":10, "name":"NIST_CSF_version_1.1", "display_name": "NIST CSF Version 1.1", "role":"map_2_0"},
 {"id":11,"name":"NIST_CSF_version_2.0", "display_name": "NIST CSF Version 2.0", "role":"core"},
 {"id":12,"name":"62443-2-1-2009", "display_name": "IEC 62443-2-1:2009", "role":"map_1_1"},
 {"id":13,"name":"CIS_CSC", "display_name": "CIS Critical Security Controls (CSC)", "role":"map_1_1"},

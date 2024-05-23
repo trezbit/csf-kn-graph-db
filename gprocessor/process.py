@@ -29,10 +29,10 @@ class GraphProcessor():
         self.build_node(NodeType.STANDARD)
         self.build_node(NodeType.CONTROL)
         self.build_relation(RelationType.HAS_CONTROL)
+        self.build_relation(RelationType.MAPS_TO)
+
         # self.build_node(NodeType.KEYCONCEPT)
         # self.build_node(NodeType.QUESTION)
-        # self.build_relation(RelationType.IN_STANDARD.reltype, RelationType.IN_STANDARD.from_node, RelationType.IN_STANDARD.to_node, RelationType.IN_STANDARD.props)
-        # self.build_relation(RelationType.MAPPED_TO_CONTROL.reltype, RelationType.MAPPED_TO_CONTROL.from_node, RelationType.MAPPED_TO_CONTROL.to_node, RelationType.MAPPED_TO_CONTROL.props)
         # self.build_relation(RelationType.CAPTURES_CONTROL.reltype, RelationType.CAPTURES_CONTROL.from_node, RelationType.CAPTURES_CONTROL.to_node, RelationType.CAPTURES_CONTROL.props)
         # self.build_relation(RelationType.ASSESSES_CONTROL.reltype, RelationType.ASSESSES_CONTROL.from_node, RelationType.ASSESSES_CONTROL.to_node, RelationType.ASSESSES_CONTROL.props)
         return
