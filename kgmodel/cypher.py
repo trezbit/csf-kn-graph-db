@@ -53,7 +53,7 @@ CALL {
   WITH row
   MATCH (source: `CONTROL` { `id`: toInteger(trim(row.`from_id`)) })
   MATCH (target: `CONTROL` { `id`: toInteger(trim(row.`to_id`)) })
-  MERGE (source)-[r: `HAS_CONTROL`]->(target)
+  MERGE (source)-[r: `MAPS_TO`]->(target)
 } IN TRANSACTIONS OF 10000 ROWS;
 """
 

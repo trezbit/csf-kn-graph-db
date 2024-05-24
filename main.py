@@ -1,5 +1,6 @@
 '''Main entry point for the application'''
 import argparse
+import os
 import json
 import extractor.extract as extract
 import config.includes as includes
@@ -57,6 +58,16 @@ def test_neo4j(params):
         process.GraphProcessor().build_graph()
     neocl.close()
 
+def generate_key_concept_graph(params):
+    '''Generate CSF key concept nodes and edges in JSON'''
+    print("Generate CSF Key Concept Graph - Config:", params)
+
+    process.GraphProcessor().batch_key_concept_extract(params)
+
+    if os.path.exists(kgtypes.NodeType.KEYCONCEPT.modelpath):
+        print("Key concept nodes and edges created at:", kgtypes.NodeType.KEYCONCEPT.modelpath)
+    
+    print("Completed running generate_key_concept_graph.")
 
 def parse_args():
     '''CLI Argument parser for the application'''
@@ -64,7 +75,7 @@ def parse_args():
     subparser = parser.add_subparsers(dest='command')
 
     kwext = subparser.add_parser('extract', help='KeyPhrase(from text) Extraction')
-    csfmod = subparser.add_parser('csfmod', help='Demo functionality for CSF taxonomy extraction')
+    csfmod = subparser.add_parser('csfmod', help='CSF key concept extraction for graph model')
 
     tester = subparser.add_parser('tester', help='Graph database utilities')
 
@@ -86,12 +97,12 @@ def parse_args():
                                , nargs='?', const='{}', type=str)
     
     convertgroup3 = csfmod.add_mutually_exclusive_group(required=True)
-    convertgroup3.add_argument('--json'
-                               , help='Build CSF taxonomy as JSON with optional parameters'
+    convertgroup3.add_argument('--keyconcept'
+                               , help='Generate CSF key concept nodes and edges in JSON with optional parameters'
                                , nargs='?', const='{}', type=str)
-    convertgroup3.add_argument('--csv', help='Build CSF taxonomy as CSV with optional parameters'
+    convertgroup3.add_argument('--dump', help='Dump JSOM CSF nodes and edges to CSV with optional parameters'
                                , nargs='?', const='{}', type=str)
-    csfmod.add_argument('--outdir', help='File written to directory', type=str, required=True)
+    csfmod.add_argument('--outdir', help='File written to directory', type=str, required=False)
 
     args = parser.parse_args()
     return args
@@ -105,8 +116,8 @@ def run_session (args):
         extract_keyphrase_patternrank(args.file, args.patternrank)
     elif (args.command == 'extract' and args.keyphrase is not None):
         extract_keyphrase(args.file, args.keyphrase)
-    elif (args.command == 'csfmod' and args.json is not None):
-        print("Graph model build utility not implemented.")
+    elif (args.command == 'csfmod' and args.keyconcept is not None):
+        generate_key_concept_graph(args.keyconcept)
     elif (args.command == 'csfmod' and args.csv is not None):
         # csf2csv(args.file, args.txt)
         print("Graph model build utility not implemented.")

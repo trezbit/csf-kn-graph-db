@@ -1,0 +1,6233 @@
+{
+    "supply_chain_risk_management": {
+        "text": "supply chain risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.5715,
+            "GV.OC-02": 0.5476,
+            "GV.OC-04": 0.5967,
+            "GV.OC-05": 0.5397,
+            "GV.RM-01": 0.6634,
+            "GV.RM-02": 0.599,
+            "GV.RM-04": 0.6442,
+            "GV.RM-06": 0.6512,
+            "GV.RM-07": 0.638,
+            "GV.RR-01": 0.5496,
+            "GV.RR-03": 0.5352,
+            "GV.RR-04": 0.53,
+            "GV.OV-01": 0.523,
+            "GV.OV-02": 0.4888,
+            "GV.SC-03": 0.7175,
+            "GV.SC-05": 0.6518,
+            "GV.SC-07": 0.6252,
+            "ID.AM-02": 0.4361,
+            "ID.RA-01": 0.7551,
+            "ID.RA-02": 0.6239,
+            "ID.RA-03": 0.6117,
+            "ID.RA-04": 0.6366,
+            "ID.RA-05": 0.6137,
+            "ID.RA-06": 0.6447,
+            "ID.RA-07": 0.6496,
+            "ID.RA-09": 0.5472,
+            "PR.PS-06": 0.5127,
+            "RC.RP-06": 0.4229
+        },
+        "id": 10000,
+        "name": "supply_chain_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_awareness": {
+        "text": "cybersecurity awareness",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.5706,
+            "GV.OV-01": 0.6055,
+            "GV.SC-09": 0.5172,
+            "PR.AT-01": 0.6945,
+            "PR.AT-02": 0.697,
+            "RS.MA-01": 0.565
+        },
+        "id": 10001,
+        "name": "cybersecurity_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_integration": {
+        "text": "governance integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.513,
+            "GV.RM-03": 0.6901,
+            "GV.RR-02": 0.336
+        },
+        "id": 10002,
+        "name": "governance_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_asset_management": {
+        "text": "comprehensive asset management",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.4688,
+            "GV.RM-05": 0.3559,
+            "GV.SC-08": 0.4482,
+            "GV.SC-09": 0.447,
+            "GV.SC-10": 0.4032
+        },
+        "id": 10003,
+        "name": "comprehensive_asset_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_risk_quantification": {
+        "text": "cyber risk quantification",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.4606
+        },
+        "id": 10004,
+        "name": "cyber_risk_quantification",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity_management": {
+        "text": "identity management",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.4403
+        },
+        "id": 10005,
+        "name": "identity_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_threat_intelligence_sharing": {
+        "text": "advanced threat intelligence sharing",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.4212,
+            "GV.SC-10": 0.4553,
+            "PR.IR-01": 0.5222,
+            "PR.IR-02": 0.4549,
+            "RC.RP-03": 0.5035
+        },
+        "id": 10006,
+        "name": "advanced_threat_intelligence_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_improvement_process": {
+        "text": "continuous improvement process",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.3988,
+            "GV.OC-04": 0.3759,
+            "GV.RR-01": 0.4318,
+            "GV.RR-02": 0.3671,
+            "DE.CM-02": 0.2787,
+            "DE.AE-03": 0.3086,
+            "RC.RP-06": 0.3983
+        },
+        "id": 10007,
+        "name": "continuous_improvement_process",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response": {
+        "text": "incident response",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.3496,
+            "GV.OV-01": 0.3443,
+            "GV.SC-07": 0.3165,
+            "GV.SC-09": 0.3527,
+            "PR.PS-01": 0.3966,
+            "PR.PS-03": 0.393,
+            "PR.PS-04": 0.4567
+        },
+        "id": 10008,
+        "name": "incident_response",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational_communication": {
+        "text": "organizational communication",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-01": 0.3198,
+            "GV.PO-02": 0.3464
+        },
+        "id": 10009,
+        "name": "organizational_communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote_workforce_security": {
+        "text": "remote workforce security",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.466,
+            "PR.PS-06": 0.5739
+        },
+        "id": 10010,
+        "name": "remote_workforce_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_framework_integration": {
+        "text": "governance framework integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.4547
+        },
+        "id": 10011,
+        "name": "governance_framework_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_prioritization": {
+        "text": "data protection prioritization",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.4254
+        },
+        "id": 10012,
+        "name": "data_protection_prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_monitoring": {
+        "text": "security monitoring",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.4217,
+            "GV.SC-08": 0.4413
+        },
+        "id": 10013,
+        "name": "security_monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_compliance": {
+        "text": "regulatory compliance",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.4004,
+            "GV.OC-03": 0.3943,
+            "GV.OC-05": 0.4388,
+            "GV.RM-01": 0.2787,
+            "GV.RM-03": 0.5093,
+            "GV.RR-01": 0.4488,
+            "GV.RR-04": 0.3434,
+            "GV.PO-01": 0.4501,
+            "GV.PO-02": 0.5261,
+            "GV.OV-01": 0.3351,
+            "PR.AT-02": 0.2758,
+            "PR.IR-01": 0.2614,
+            "PR.IR-02": 0.2857,
+            "RS.MA-05": 0.3181,
+            "RS.CO-02": 0.3049,
+            "RS.CO-03": 0.3264,
+            "RS.MI-02": 0.3638,
+            "RC.RP-01": 0.2718,
+            "RC.RP-02": 0.4329,
+            "RC.RP-04": 0.3543
+        },
+        "id": 10014,
+        "name": "regulatory_compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_objectives": {
+        "text": "business objectives",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.3921,
+            "GV.OC-03": 0.4108,
+            "GV.RM-02": 0.3224
+        },
+        "id": 10015,
+        "name": "business_objectives",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity_verification": {
+        "text": "identity verification",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.2994,
+            "GV.RM-05": 0.2901,
+            "PR.AA-02": 0.4862,
+            "PR.AA-06": 0.2448,
+            "PR.PS-04": 0.3706
+        },
+        "id": 10016,
+        "name": "identity_verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience": {
+        "text": "resilience",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.2828,
+            "GV.RR-04": 0.4633,
+            "ID.RA-01": 0.2483,
+            "PR.PS-05": 0.3203,
+            "RS.MA-05": 0.3518,
+            "RS.MI-02": 0.3823,
+            "RC.RP-01": 0.4198
+        },
+        "id": 10017,
+        "name": "resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "mapping": {
+        "text": "mapping",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-02": 0.2075
+        },
+        "id": 10018,
+        "name": "mapping",
+        "typedef": "KEYCONCEPT"
+    },
+    "holistic_cybersecurity_policy_development": {
+        "text": "holistic cybersecurity policy development",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.612
+        },
+        "id": 10019,
+        "name": "holistic_cybersecurity_policy_development",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_management_strategy_integration": {
+        "text": "risk management strategy integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.5107
+        },
+        "id": 10020,
+        "name": "risk_management_strategy_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_structure_optimization": {
+        "text": "governance structure optimization",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.451
+        },
+        "id": 10021,
+        "name": "governance_structure_optimization",
+        "typedef": "KEYCONCEPT"
+    },
+    "security": {
+        "text": "security",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.4374,
+            "GV.RM-05": 0.386,
+            "PR.PS-04": 0.5827
+        },
+        "id": 10022,
+        "name": "security",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_improvement": {
+        "text": "continuous improvement",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.3835,
+            "GV.RM-02": 0.3344,
+            "GV.RM-03": 0.4099,
+            "GV.PO-01": 0.3849,
+            "GV.PO-02": 0.4398,
+            "GV.OV-02": 0.4301,
+            "DE.AE-02": 0.2138,
+            "DE.AE-06": 0.217,
+            "DE.AE-08": 0.2642,
+            "RS.MA-03": 0.3536,
+            "RS.AN-03": 0.287,
+            "RC.RP-01": 0.328,
+            "RC.RP-02": 0.4584,
+            "RC.CO-03": 0.3431,
+            "RC.CO-04": 0.4152
+        },
+        "id": 10023,
+        "name": "continuous_improvement",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_engagement": {
+        "text": "stakeholder engagement",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.3773,
+            "GV.RM-07": 0.3634,
+            "GV.PO-01": 0.407,
+            "GV.PO-02": 0.5844,
+            "GV.OV-01": 0.4017,
+            "GV.OV-02": 0.382,
+            "ID.RA-04": 0.3668
+        },
+        "id": 10024,
+        "name": "stakeholder_engagement",
+        "typedef": "KEYCONCEPT"
+    },
+    "performance_metrics": {
+        "text": "performance metrics",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.3183,
+            "GV.RM-03": 0.2941,
+            "GV.RR-01": 0.3587,
+            "GV.PO-02": 0.3418
+        },
+        "id": 10025,
+        "name": "performance_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "alignment": {
+        "text": "alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-03": 0.182
+        },
+        "id": 10026,
+        "name": "alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_leadership": {
+        "text": "cybersecurity leadership",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.6015
+        },
+        "id": 10027,
+        "name": "cybersecurity_leadership",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience_planning": {
+        "text": "resilience planning",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.5758,
+            "GV.SC-03": 0.38,
+            "GV.SC-08": 0.389,
+            "GV.SC-10": 0.4772,
+            "RS.CO-03": 0.4284
+        },
+        "id": 10028,
+        "name": "resilience_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_threat_intelligence_integration": {
+        "text": "advanced threat intelligence integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.4784,
+            "PR.IR-03": 0.568
+        },
+        "id": 10029,
+        "name": "advanced_threat_intelligence_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_threat": {
+        "text": "proactive threat",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.4343,
+            "DE.CM-06": 0.3543
+        },
+        "id": 10030,
+        "name": "proactive_threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_risk_assessment_models": {
+        "text": "adaptive risk assessment models",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.4253
+        },
+        "id": 10031,
+        "name": "adaptive_risk_assessment_models",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_asset_management": {
+        "text": "proactive asset management",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.4131,
+            "PR.AA-04": 0.303
+        },
+        "id": 10032,
+        "name": "proactive_asset_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_communication": {
+        "text": "stakeholder communication",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.3073,
+            "GV.OC-05": 0.4811,
+            "GV.RM-02": 0.3278,
+            "GV.RM-06": 0.3278,
+            "GV.RR-01": 0.4225,
+            "GV.RR-04": 0.3797,
+            "GV.OV-03": 0.3853,
+            "ID.RA-05": 0.3133,
+            "ID.RA-06": 0.2954,
+            "ID.RA-07": 0.3967,
+            "ID.RA-10": 0.3045,
+            "RS.MI-02": 0.3816,
+            "RC.RP-01": 0.3822,
+            "RC.RP-02": 0.4538,
+            "RC.RP-03": 0.2343,
+            "RC.RP-04": 0.4227
+        },
+        "id": 10033,
+        "name": "stakeholder_communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection": {
+        "text": "data protection",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-04": 0.2919,
+            "GV.RM-07": 0.3256,
+            "GV.SC-01": 0.3543
+        },
+        "id": 10034,
+        "name": "data_protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_awareness": {
+        "text": "security awareness",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.593,
+            "ID.RA-10": 0.5925,
+            "PR.AA-05": 0.5171,
+            "PR.PS-01": 0.5829
+        },
+        "id": 10035,
+        "name": "security_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_cybersecurity_investments": {
+        "text": "strategic cybersecurity investments",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.5069
+        },
+        "id": 10036,
+        "name": "strategic_cybersecurity_investments",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_coordination": {
+        "text": "incident response coordination",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.4666,
+            "GV.SC-04": 0.4659,
+            "GV.SC-05": 0.3717
+        },
+        "id": 10037,
+        "name": "incident_response_coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_alignment": {
+        "text": "risk assessment alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.4255
+        },
+        "id": 10038,
+        "name": "risk_assessment_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_improvement_mechanism": {
+        "text": "continuous improvement mechanism",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.4226,
+            "RS.MA-01": 0.3057
+        },
+        "id": 10039,
+        "name": "continuous_improvement_mechanism",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_protection_strategies": {
+        "text": "adaptive protection strategies",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.4017
+        },
+        "id": 10040,
+        "name": "adaptive_protection_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "technology_innovation": {
+        "text": "technology innovation",
+        "occurrence": 0,
+        "controls": {
+            "GV.OC-05": 0.4003
+        },
+        "id": 10041,
+        "name": "technology_innovation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_risk_management_lifecycle": {
+        "text": "comprehensive risk management lifecycle",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.6553
+        },
+        "id": 10042,
+        "name": "comprehensive_risk_management_lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_management_practices": {
+        "text": "risk management practices",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.6359
+        },
+        "id": 10043,
+        "name": "risk_management_practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment": {
+        "text": "risk assessment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.5538,
+            "ID.RA-02": 0.5089
+        },
+        "id": 10044,
+        "name": "risk_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity": {
+        "text": "cybersecurity",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.479
+        },
+        "id": 10045,
+        "name": "cybersecurity",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_impact_analysis": {
+        "text": "incident impact analysis",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.3847,
+            "ID.RA-01": 0.4127,
+            "RS.MI-01": 0.6207
+        },
+        "id": 10046,
+        "name": "incident_impact_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_strategy": {
+        "text": "business strategy",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.3643
+        },
+        "id": 10047,
+        "name": "business_strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_collaboration": {
+        "text": "stakeholder collaboration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.3639,
+            "GV.RM-03": 0.6331,
+            "GV.RM-04": 0.3447,
+            "ID.RA-01": 0.3502,
+            "ID.RA-03": 0.3573,
+            "RS.CO-03": 0.4095,
+            "RC.RP-05": 0.3947,
+            "RC.CO-04": 0.5645
+        },
+        "id": 10048,
+        "name": "stakeholder_collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_monitoring": {
+        "text": "continuous monitoring",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-01": 0.2958,
+            "GV.OV-01": 0.253,
+            "GV.SC-01": 0.3085,
+            "GV.SC-09": 0.2838,
+            "ID.AM-01": 0.3266,
+            "ID.RA-01": 0.264,
+            "ID.RA-07": 0.3297,
+            "ID.RA-09": 0.2795,
+            "ID.RA-10": 0.311,
+            "PR.AA-03": 0.3256,
+            "DE.CM-03": 0.4392,
+            "DE.CM-06": 0.4525
+        },
+        "id": 10049,
+        "name": "continuous_monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence_incorporation": {
+        "text": "threat intelligence incorporation",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.5881
+        },
+        "id": 10050,
+        "name": "threat_intelligence_incorporation",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_risk_management": {
+        "text": "collaborative risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.5637
+        },
+        "id": 10051,
+        "name": "collaborative_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_culture": {
+        "text": "cybersecurity culture",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.533,
+            "GV.OV-02": 0.6097,
+            "PR.AT-02": 0.6063
+        },
+        "id": 10052,
+        "name": "cybersecurity_culture",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic_risk_assessment_models": {
+        "text": "dynamic risk assessment models",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.5225,
+            "ID.RA-05": 0.5744
+        },
+        "id": 10053,
+        "name": "dynamic_risk_assessment_models",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience_measures": {
+        "text": "resilience measures",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.4187
+        },
+        "id": 10054,
+        "name": "resilience_measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "legal_compliance_integration": {
+        "text": "legal compliance integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-02": 0.2778
+        },
+        "id": 10055,
+        "name": "legal_compliance_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_planning_integration": {
+        "text": "strategic planning integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-03": 0.5547
+        },
+        "id": 10056,
+        "name": "strategic_planning_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_management": {
+        "text": "risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-03": 0.5501,
+            "ID.RA-09": 0.4441
+        },
+        "id": 10057,
+        "name": "risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource_allocation": {
+        "text": "resource allocation",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-03": 0.2763,
+            "GV.OV-01": 0.1213
+        },
+        "id": 10058,
+        "name": "resource_allocation",
+        "typedef": "KEYCONCEPT"
+    },
+    "awareness": {
+        "text": "awareness",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-03": 0.2265,
+            "GV.PO-01": 0.2463,
+            "GV.OV-03": 0.2756,
+            "ID.RA-09": 0.2064,
+            "PR.IR-02": 0.1823,
+            "RC.CO-03": 0.3396
+        },
+        "id": 10059,
+        "name": "awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "training": {
+        "text": "training",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-03": 0.1645,
+            "GV.OV-01": 0.1358
+        },
+        "id": 10060,
+        "name": "training",
+        "typedef": "KEYCONCEPT"
+    },
+    "enterprise_risk_management": {
+        "text": "enterprise risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.6628,
+            "GV.RR-02": 0.5327,
+            "ID.RA-01": 0.627,
+            "ID.RA-03": 0.5686
+        },
+        "id": 10061,
+        "name": "enterprise_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_risk_assessment": {
+        "text": "comprehensive risk assessment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.5985,
+            "ID.RA-05": 0.5948
+        },
+        "id": 10062,
+        "name": "comprehensive_risk_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_metrics": {
+        "text": "cybersecurity metrics",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.5537,
+            "GV.PO-01": 0.5431,
+            "GV.SC-06": 0.5538,
+            "ID.RA-02": 0.5572,
+            "ID.RA-06": 0.5155,
+            "DE.CM-03": 0.475
+        },
+        "id": 10063,
+        "name": "cybersecurity_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_risk_management_frameworks": {
+        "text": "adaptive risk management frameworks",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.5355,
+            "GV.RM-06": 0.5079,
+            "ID.RA-06": 0.4646
+        },
+        "id": 10064,
+        "name": "adaptive_risk_management_frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_preparedness": {
+        "text": "incident preparedness",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.5346,
+            "GV.RM-05": 0.5133,
+            "ID.RA-06": 0.5151
+        },
+        "id": 10065,
+        "name": "incident_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_threat_intelligence": {
+        "text": "advanced threat intelligence",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.4756
+        },
+        "id": 10066,
+        "name": "advanced_threat_intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_risk_appetite_alignment": {
+        "text": "strategic risk appetite alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.4161
+        },
+        "id": 10067,
+        "name": "strategic_risk_appetite_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "integration": {
+        "text": "integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-04": 0.1023,
+            "GV.RR-04": 0.153,
+            "GV.OV-03": 0.158,
+            "GV.SC-03": 0.1303,
+            "GV.SC-07": 0.1376,
+            "ID.AM-01": 0.0742,
+            "ID.AM-04": 0.0694,
+            "PR.AA-04": 0.1721,
+            "PR.IR-03": 0.1989,
+            "DE.CM-02": 0.0631,
+            "DE.AE-03": 0.1556,
+            "DE.AE-04": 0.0802,
+            "RS.AN-06": 0.1113,
+            "RC.RP-02": 0.165,
+            "RC.RP-03": 0.14,
+            "RC.RP-05": 0.0802
+        },
+        "id": 10068,
+        "name": "integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_risk_management_integration": {
+        "text": "supply chain risk management integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.6162,
+            "GV.SC-06": 0.6519,
+            "GV.SC-08": 0.6225,
+            "GV.SC-09": 0.686,
+            "GV.SC-10": 0.7719
+        },
+        "id": 10069,
+        "name": "supply_chain_risk_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_awareness_training": {
+        "text": "cybersecurity awareness training",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.5147,
+            "GV.RM-06": 0.5285,
+            "GV.RR-01": 0.4314,
+            "GV.OV-02": 0.596
+        },
+        "id": 10070,
+        "name": "cybersecurity_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence_sharing": {
+        "text": "threat intelligence sharing",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.4664,
+            "GV.RM-07": 0.5167,
+            "GV.OV-03": 0.5832,
+            "GV.SC-06": 0.4301,
+            "ID.RA-09": 0.5034
+        },
+        "id": 10071,
+        "name": "threat_intelligence_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_adaptation": {
+        "text": "cloud security adaptation",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.4644
+        },
+        "id": 10072,
+        "name": "cloud_security_adaptation",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_management": {
+        "text": "vulnerability management",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.4459,
+            "GV.SC-07": 0.5606,
+            "ID.AM-03": 0.5407,
+            "ID.RA-07": 0.5632
+        },
+        "id": 10073,
+        "name": "vulnerability_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_privacy": {
+        "text": "data privacy",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-05": 0.2568
+        },
+        "id": 10074,
+        "name": "data_privacy",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_risk_management_strategy": {
+        "text": "comprehensive risk management strategy",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.582
+        },
+        "id": 10075,
+        "name": "comprehensive_risk_management_strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_risk_assessment": {
+        "text": "regular risk assessment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.4324
+        },
+        "id": 10076,
+        "name": "regular_risk_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_processes": {
+        "text": "business processes",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.3776
+        },
+        "id": 10077,
+        "name": "business_processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "compliance": {
+        "text": "compliance",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.2226
+        },
+        "id": 10078,
+        "name": "compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_technologies": {
+        "text": "advanced technologies",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.2015
+        },
+        "id": 10079,
+        "name": "advanced_technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_alignment": {
+        "text": "regulatory alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-06": 0.1834
+        },
+        "id": 10080,
+        "name": "regulatory_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_management_integration": {
+        "text": "risk management integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.6095,
+            "GV.RR-01": 0.6116,
+            "GV.PO-01": 0.465,
+            "GV.PO-02": 0.4735
+        },
+        "id": 10081,
+        "name": "risk_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_recovery_planning": {
+        "text": "incident recovery planning",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.4609,
+            "GV.RR-01": 0.4563,
+            "GV.OV-03": 0.4297,
+            "GV.SC-01": 0.4678
+        },
+        "id": 10082,
+        "name": "incident_recovery_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_improvement_cycle": {
+        "text": "continuous improvement cycle",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.3927,
+            "GV.SC-08": 0.4185,
+            "PR.IR-01": 0.3173,
+            "RS.MA-02": 0.2196,
+            "RS.MI-02": 0.3772
+        },
+        "id": 10083,
+        "name": "continuous_improvement_cycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_alignment": {
+        "text": "strategic alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.3632,
+            "GV.PO-01": 0.4735
+        },
+        "id": 10084,
+        "name": "strategic_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "metrics": {
+        "text": "metrics",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.2022
+        },
+        "id": 10085,
+        "name": "metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable_implementation": {
+        "text": "customizable implementation",
+        "occurrence": 0,
+        "controls": {
+            "GV.RM-07": 0.1029
+        },
+        "id": 10086,
+        "name": "customizable_implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_organizational_planning": {
+        "text": "strategic organizational planning",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-01": 0.508
+        },
+        "id": 10087,
+        "name": "strategic_organizational_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance": {
+        "text": "governance",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-01": 0.45,
+            "GV.SC-05": 0.2578
+        },
+        "id": 10088,
+        "name": "governance",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_response": {
+        "text": "comprehensive incident response",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.528
+        },
+        "id": 10089,
+        "name": "comprehensive_incident_response",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_events": {
+        "text": "cybersecurity events",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.5077
+        },
+        "id": 10090,
+        "name": "cybersecurity_events",
+        "typedef": "KEYCONCEPT"
+    },
+    "infrastructure_resilience": {
+        "text": "infrastructure resilience",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.4182
+        },
+        "id": 10091,
+        "name": "infrastructure_resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence_platforms": {
+        "text": "threat intelligence platforms",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.4151
+        },
+        "id": 10092,
+        "name": "threat_intelligence_platforms",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_awareness_training": {
+        "text": "user awareness training",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.4077
+        },
+        "id": 10093,
+        "name": "user_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_methods": {
+        "text": "data protection methods",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.3052
+        },
+        "id": 10094,
+        "name": "data_protection_methods",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery_time_objectives_alignment": {
+        "text": "recovery time objectives alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-02": 0.2497
+        },
+        "id": 10095,
+        "name": "recovery_time_objectives_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_vulnerability_management": {
+        "text": "comprehensive vulnerability management",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.5287,
+            "ID.RA-06": 0.5355
+        },
+        "id": 10096,
+        "name": "comprehensive_vulnerability_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_readiness": {
+        "text": "incident readiness",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.4969
+        },
+        "id": 10097,
+        "name": "incident_readiness",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative_risk_metrics": {
+        "text": "quantitative risk metrics",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.4897
+        },
+        "id": 10098,
+        "name": "quantitative_risk_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_considerations": {
+        "text": "cloud security considerations",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.478
+        },
+        "id": 10099,
+        "name": "cloud_security_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_enhancements": {
+        "text": "data protection enhancements",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.4535
+        },
+        "id": 10100,
+        "name": "data_protection_enhancements",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence": {
+        "text": "threat intelligence",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.4508,
+            "ID.AM-03": 0.4673,
+            "ID.AM-08": 0.3381,
+            "ID.RA-08": 0.5551,
+            "DE.CM-02": 0.4773,
+            "DE.CM-03": 0.5501,
+            "DE.AE-03": 0.6457,
+            "DE.AE-04": 0.5635,
+            "DE.AE-06": 0.493,
+            "DE.AE-07": 0.5214,
+            "DE.AE-08": 0.5233,
+            "RS.MA-01": 0.5761,
+            "RS.MA-04": 0.5604,
+            "RS.AN-03": 0.5279,
+            "RS.AN-06": 0.6032,
+            "RS.AN-07": 0.5736,
+            "RS.AN-08": 0.5468,
+            "RS.CO-02": 0.4663,
+            "RS.CO-03": 0.5391,
+            "RS.MI-01": 0.5306,
+            "RC.CO-04": 0.4347
+        },
+        "id": 10101,
+        "name": "threat_intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_visibility": {
+        "text": "asset visibility",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.3933
+        },
+        "id": 10102,
+        "name": "asset_visibility",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_complexities": {
+        "text": "access complexities",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.2832
+        },
+        "id": 10103,
+        "name": "access_complexities",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity": {
+        "text": "identity",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-03": 0.2007,
+            "GV.SC-08": 0.1715,
+            "PR.PS-06": 0.233
+        },
+        "id": 10104,
+        "name": "identity",
+        "typedef": "KEYCONCEPT"
+    },
+    "disaster_recovery_capabilities": {
+        "text": "disaster recovery capabilities",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-04": 0.6756
+        },
+        "id": 10105,
+        "name": "disaster_recovery_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_response_strategies": {
+        "text": "risk response strategies",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-04": 0.5567,
+            "ID.RA-07": 0.5655
+        },
+        "id": 10106,
+        "name": "risk_response_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_continuity_planning": {
+        "text": "business continuity planning",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-04": 0.5301,
+            "PR.IR-02": 0.5398
+        },
+        "id": 10107,
+        "name": "business_continuity_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_insurance_considerations": {
+        "text": "cyber insurance considerations",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-04": 0.4715
+        },
+        "id": 10108,
+        "name": "cyber_insurance_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "incidents": {
+        "text": "incidents",
+        "occurrence": 0,
+        "controls": {
+            "GV.RR-04": 0.2454
+        },
+        "id": 10109,
+        "name": "incidents",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_framework_enhancement": {
+        "text": "governance framework enhancement",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-01": 0.6057
+        },
+        "id": 10110,
+        "name": "governance_framework_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_culture": {
+        "text": "security culture",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-01": 0.4777,
+            "ID.RA-09": 0.5447
+        },
+        "id": 10111,
+        "name": "security_culture",
+        "typedef": "KEYCONCEPT"
+    },
+    "board_level_involvement": {
+        "text": "board level involvement",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-01": 0.4013
+        },
+        "id": 10112,
+        "name": "board_level_involvement",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_incorporation": {
+        "text": "governance incorporation",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-02": 0.5992
+        },
+        "id": 10113,
+        "name": "governance_incorporation",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_planning_alignment": {
+        "text": "strategic planning alignment",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-02": 0.5053
+        },
+        "id": 10114,
+        "name": "strategic_planning_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "standard_development": {
+        "text": "standard development",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-02": 0.3705
+        },
+        "id": 10115,
+        "name": "standard_development",
+        "typedef": "KEYCONCEPT"
+    },
+    "policy": {
+        "text": "policy",
+        "occurrence": 0,
+        "controls": {
+            "GV.PO-02": 0.2557
+        },
+        "id": 10116,
+        "name": "policy",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational_cybersecurity_governance": {
+        "text": "organizational cybersecurity governance",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-01": 0.6855
+        },
+        "id": 10117,
+        "name": "organizational_cybersecurity_governance",
+        "typedef": "KEYCONCEPT"
+    },
+    "technologies": {
+        "text": "technologies",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-01": 0.2503,
+            "ID.RA-03": 0.2279,
+            "RS.MA-05": 0.3539,
+            "RC.RP-05": 0.2425
+        },
+        "id": 10118,
+        "name": "technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_risk_management_integration": {
+        "text": "cybersecurity risk management integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-02": 0.7051
+        },
+        "id": 10119,
+        "name": "cybersecurity_risk_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "leadership_commitment": {
+        "text": "leadership commitment",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-02": 0.3373
+        },
+        "id": 10120,
+        "name": "leadership_commitment",
+        "typedef": "KEYCONCEPT"
+    },
+    "information_sharing": {
+        "text": "information sharing",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-02": 0.2804,
+            "GV.SC-03": 0.3324,
+            "GV.SC-05": 0.2893,
+            "ID.AM-05": 0.322,
+            "RS.MA-05": 0.3434,
+            "RC.CO-03": 0.5241
+        },
+        "id": 10121,
+        "name": "information_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "civil_liberties": {
+        "text": "civil liberties",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-02": 0.1748
+        },
+        "id": 10122,
+        "name": "civil_liberties",
+        "typedef": "KEYCONCEPT"
+    },
+    "measurements": {
+        "text": "measurements",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-02": 0.0964
+        },
+        "id": 10123,
+        "name": "measurements",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_security": {
+        "text": "supply chain security",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-03": 0.6295,
+            "ID.RA-10": 0.6751
+        },
+        "id": 10124,
+        "name": "supply_chain_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance_scope": {
+        "text": "governance scope",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-03": 0.4566
+        },
+        "id": 10125,
+        "name": "governance_scope",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_risk_management": {
+        "text": "adaptive risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-03": 0.4135
+        },
+        "id": 10126,
+        "name": "adaptive_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy_controls": {
+        "text": "privacy controls",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-03": 0.3369
+        },
+        "id": 10127,
+        "name": "privacy_controls",
+        "typedef": "KEYCONCEPT"
+    },
+    "employee_training": {
+        "text": "employee training",
+        "occurrence": 0,
+        "controls": {
+            "GV.OV-03": 0.2783,
+            "PR.AA-06": 0.3132,
+            "PR.IR-02": 0.2837
+        },
+        "id": 10128,
+        "name": "employee_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_risk_management_enhancement": {
+        "text": "supply chain risk management enhancement",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.6436
+        },
+        "id": 10129,
+        "name": "supply_chain_risk_management_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence_integration": {
+        "text": "threat intelligence integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.5355,
+            "ID.RA-01": 0.4838,
+            "ID.RA-02": 0.5128,
+            "ID.RA-04": 0.61,
+            "ID.RA-05": 0.6163,
+            "ID.RA-06": 0.5849,
+            "PR.AT-02": 0.5334,
+            "PR.PS-06": 0.6071,
+            "DE.CM-01": 0.5834,
+            "RS.MA-02": 0.6532,
+            "RS.MA-03": 0.6195
+        },
+        "id": 10130,
+        "name": "threat_intelligence_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_awareness_training": {
+        "text": "security awareness training",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.5345,
+            "PR.PS-02": 0.5143
+        },
+        "id": 10131,
+        "name": "security_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_management_program": {
+        "text": "vulnerability management program",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.4662,
+            "ID.RA-08": 0.4775
+        },
+        "id": 10132,
+        "name": "vulnerability_management_program",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_focus": {
+        "text": "cloud security focus",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.4493,
+            "ID.RA-10": 0.529
+        },
+        "id": 10133,
+        "name": "cloud_security_focus",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_identity_verification": {
+        "text": "comprehensive identity verification",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.408
+        },
+        "id": 10134,
+        "name": "comprehensive_identity_verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_management_refinement": {
+        "text": "asset management refinement",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-01": 0.3757
+        },
+        "id": 10135,
+        "name": "asset_management_refinement",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_supply_chain_risk_management": {
+        "text": "cyber supply chain risk management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.6973
+        },
+        "id": 10136,
+        "name": "cyber_supply_chain_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_management_integration": {
+        "text": "vulnerability management integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.4711,
+            "ID.AM-02": 0.3522
+        },
+        "id": 10137,
+        "name": "vulnerability_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_role": {
+        "text": "cybersecurity role",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.4358
+        },
+        "id": 10138,
+        "name": "cybersecurity_role",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_inventory_accuracy": {
+        "text": "asset inventory accuracy",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.4167
+        },
+        "id": 10139,
+        "name": "asset_inventory_accuracy",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_decommissioning": {
+        "text": "asset decommissioning",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.3302,
+            "ID.AM-07": 0.5105
+        },
+        "id": 10140,
+        "name": "asset_decommissioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_security": {
+        "text": "data security",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.3276,
+            "ID.AM-08": 0.5247,
+            "ID.RA-09": 0.5548,
+            "PR.DS-01": 0.6494,
+            "PR.DS-02": 0.7338,
+            "PR.DS-10": 0.6697,
+            "PR.PS-01": 0.5285
+        },
+        "id": 10141,
+        "name": "data_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_dependencies_management": {
+        "text": "external dependencies management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.3141
+        },
+        "id": 10142,
+        "name": "external_dependencies_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource_classification": {
+        "text": "resource classification",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.313,
+            "ID.AM-08": 0.3646
+        },
+        "id": 10143,
+        "name": "resource_classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_association": {
+        "text": "asset association",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.2798
+        },
+        "id": 10144,
+        "name": "asset_association",
+        "typedef": "KEYCONCEPT"
+    },
+    "c_scrm": {
+        "text": "c scrm",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-02": 0.2061
+        },
+        "id": 10145,
+        "name": "c_scrm",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_transparency": {
+        "text": "supply chain transparency",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.6281,
+            "GV.SC-05": 0.5822
+        },
+        "id": 10146,
+        "name": "supply_chain_transparency",
+        "typedef": "KEYCONCEPT"
+    },
+    "vendor_risk_assessments": {
+        "text": "vendor risk assessments",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.5942
+        },
+        "id": 10147,
+        "name": "vendor_risk_assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_requirements": {
+        "text": "security requirements",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.4503
+        },
+        "id": 10148,
+        "name": "security_requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "suppliers": {
+        "text": "suppliers",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.4135
+        },
+        "id": 10149,
+        "name": "suppliers",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_security_performance": {
+        "text": "third party security performance",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.3713
+        },
+        "id": 10150,
+        "name": "third_party_security_performance",
+        "typedef": "KEYCONCEPT"
+    },
+    "threats": {
+        "text": "threats",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-03": 0.2495
+        },
+        "id": 10151,
+        "name": "threats",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_standards": {
+        "text": "cybersecurity standards",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.584
+        },
+        "id": 10152,
+        "name": "cybersecurity_standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_activities": {
+        "text": "cybersecurity activities",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.5728
+        },
+        "id": 10153,
+        "name": "cybersecurity_activities",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience_frameworks": {
+        "text": "resilience frameworks",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.4694
+        },
+        "id": 10154,
+        "name": "resilience_frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_risk": {
+        "text": "supply chain risk",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.3985
+        },
+        "id": 10155,
+        "name": "supply_chain_risk",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_management": {
+        "text": "asset management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.3185,
+            "ID.AM-04": 0.5281,
+            "PR.PS-01": 0.4307,
+            "PR.PS-03": 0.388
+        },
+        "id": 10156,
+        "name": "asset_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "implementation": {
+        "text": "implementation",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.2612
+        },
+        "id": 10157,
+        "name": "implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity_verification_methods": {
+        "text": "identity verification methods",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.2278
+        },
+        "id": 10158,
+        "name": "identity_verification_methods",
+        "typedef": "KEYCONCEPT"
+    },
+    "visibility": {
+        "text": "visibility",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.1499
+        },
+        "id": 10159,
+        "name": "visibility",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_evaluation": {
+        "text": "regular evaluation",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-04": 0.0978
+        },
+        "id": 10160,
+        "name": "regular_evaluation",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_security": {
+        "text": "third party security",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-05": 0.5268
+        },
+        "id": 10161,
+        "name": "third_party_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_enhancement": {
+        "text": "cloud security enhancement",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-05": 0.5172
+        },
+        "id": 10162,
+        "name": "cloud_security_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_security_monitoring": {
+        "text": "continuous security monitoring",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-05": 0.4261
+        },
+        "id": 10163,
+        "name": "continuous_security_monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "robust_encryption_standards": {
+        "text": "robust encryption standards",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-05": 0.3599
+        },
+        "id": 10164,
+        "name": "robust_encryption_standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategy_integration": {
+        "text": "strategy integration",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-05": 0.2968
+        },
+        "id": 10165,
+        "name": "strategy_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_cyber_incident_preparedness": {
+        "text": "comprehensive cyber incident preparedness",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.5689
+        },
+        "id": 10166,
+        "name": "comprehensive_cyber_incident_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_strategy": {
+        "text": "cloud security strategy",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.5217
+        },
+        "id": 10167,
+        "name": "cloud_security_strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "systematic_security_control_reviews": {
+        "text": "systematic security control reviews",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.4705
+        },
+        "id": 10168,
+        "name": "systematic_security_control_reviews",
+        "typedef": "KEYCONCEPT"
+    },
+    "authentication": {
+        "text": "authentication",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.2982
+        },
+        "id": 10169,
+        "name": "authentication",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_governance_frameworks": {
+        "text": "adaptive governance frameworks",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.2738
+        },
+        "id": 10170,
+        "name": "adaptive_governance_frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_endpoint_detection": {
+        "text": "advanced endpoint detection",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.1944
+        },
+        "id": 10171,
+        "name": "advanced_endpoint_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy_considerations": {
+        "text": "privacy considerations",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-06": 0.1926,
+            "ID.RA-03": 0.3274,
+            "ID.RA-09": 0.251
+        },
+        "id": 10172,
+        "name": "privacy_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_security_awareness": {
+        "text": "comprehensive security awareness",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.5882
+        },
+        "id": 10173,
+        "name": "comprehensive_security_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic_cybersecurity_investment": {
+        "text": "strategic cybersecurity investment",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.4886
+        },
+        "id": 10174,
+        "name": "strategic_cybersecurity_investment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security": {
+        "text": "cloud security",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.417
+        },
+        "id": 10175,
+        "name": "cloud_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "project_management": {
+        "text": "project management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.3664
+        },
+        "id": 10176,
+        "name": "project_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "trust_architecture": {
+        "text": "trust architecture",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.3604,
+            "ID.RA-10": 0.3607,
+            "PR.PS-06": 0.3855,
+            "PR.IR-04": 0.3042
+        },
+        "id": 10177,
+        "name": "trust_architecture",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_management_iam": {
+        "text": "access management iam",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-07": 0.3566
+        },
+        "id": 10178,
+        "name": "access_management_iam",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_emphasis": {
+        "text": "cloud security emphasis",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-08": 0.4618
+        },
+        "id": 10179,
+        "name": "cloud_security_emphasis",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_detection": {
+        "text": "incident detection",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-08": 0.3205
+        },
+        "id": 10180,
+        "name": "incident_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_management": {
+        "text": "access management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-08": 0.3166
+        },
+        "id": 10181,
+        "name": "access_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_update": {
+        "text": "regular update",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-08": 0.2209,
+            "PR.IR-02": 0.1348
+        },
+        "id": 10182,
+        "name": "regular_update",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_services_security_considerations": {
+        "text": "cloud services security considerations",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-09": 0.4279
+        },
+        "id": 10183,
+        "name": "cloud_services_security_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "systematic_risk_assessments": {
+        "text": "systematic risk assessments",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-09": 0.4177
+        },
+        "id": 10184,
+        "name": "systematic_risk_assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_vendor_assessment": {
+        "text": "third party vendor assessment",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-09": 0.4162
+        },
+        "id": 10185,
+        "name": "third_party_vendor_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_security": {
+        "text": "adaptive security",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-09": 0.3505
+        },
+        "id": 10186,
+        "name": "adaptive_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "legal_compliance": {
+        "text": "legal compliance",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-09": 0.2203
+        },
+        "id": 10187,
+        "name": "legal_compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_vulnerability_management": {
+        "text": "proactive vulnerability management",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.4798
+        },
+        "id": 10188,
+        "name": "proactive_vulnerability_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_coordination": {
+        "text": "incident coordination",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.4568
+        },
+        "id": 10189,
+        "name": "incident_coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "systemic_risk_identification": {
+        "text": "systemic risk identification",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.4268
+        },
+        "id": 10190,
+        "name": "systemic_risk_identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_engagement_enhancement": {
+        "text": "stakeholder engagement enhancement",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.3042
+        },
+        "id": 10191,
+        "name": "stakeholder_engagement_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable_framework_application": {
+        "text": "customizable framework application",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.1165
+        },
+        "id": 10192,
+        "name": "customizable_framework_application",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_control_implementation": {
+        "text": "adaptive control implementation",
+        "occurrence": 0,
+        "controls": {
+            "GV.SC-10": 0.0905
+        },
+        "id": 10193,
+        "name": "adaptive_control_implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "virtual_asset_inventory": {
+        "text": "virtual asset inventory",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.6351
+        },
+        "id": 10194,
+        "name": "virtual_asset_inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_service_asset_management": {
+        "text": "third party service asset management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.605
+        },
+        "id": 10195,
+        "name": "third_party_service_asset_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle_management": {
+        "text": "lifecycle management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.5141,
+            "ID.AM-03": 0.4759,
+            "ID.AM-05": 0.4673,
+            "ID.AM-07": 0.4771
+        },
+        "id": 10196,
+        "name": "lifecycle_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_prioritization": {
+        "text": "asset prioritization",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.4888,
+            "ID.AM-02": 0.472
+        },
+        "id": 10197,
+        "name": "asset_prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_discovery": {
+        "text": "asset discovery",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.3932,
+            "ID.AM-05": 0.4746
+        },
+        "id": 10198,
+        "name": "asset_discovery",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational_risk_management": {
+        "text": "organizational risk management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.3668,
+            "RC.RP-05": 0.473
+        },
+        "id": 10199,
+        "name": "organizational_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "decommissioning": {
+        "text": "decommissioning",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.3097
+        },
+        "id": 10200,
+        "name": "decommissioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud": {
+        "text": "cloud",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-01": 0.176,
+            "ID.AM-02": 0.245,
+            "ID.AM-05": 0.2203,
+            "ID.AM-07": 0.1893,
+            "DE.CM-09": 0.2027,
+            "RC.RP-03": 0.1468
+        },
+        "id": 10201,
+        "name": "cloud",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_classification": {
+        "text": "asset classification",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.6042,
+            "ID.AM-03": 0.3309,
+            "ID.AM-07": 0.5519
+        },
+        "id": 10202,
+        "name": "asset_classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "software_inventory_management": {
+        "text": "software inventory management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.5033
+        },
+        "id": 10203,
+        "name": "software_inventory_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "iot": {
+        "text": "iot",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.378
+        },
+        "id": 10204,
+        "name": "iot",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_information_system": {
+        "text": "external information system",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.2726
+        },
+        "id": 10205,
+        "name": "external_information_system",
+        "typedef": "KEYCONCEPT"
+    },
+    "mobile_considerations": {
+        "text": "mobile considerations",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.1731,
+            "ID.AM-07": 0.1625
+        },
+        "id": 10206,
+        "name": "mobile_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "configuration": {
+        "text": "configuration",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-02": 0.0966
+        },
+        "id": 10207,
+        "name": "configuration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_orchestration_automation": {
+        "text": "security orchestration automation",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.6195,
+            "DE.CM-01": 0.5166,
+            "DE.CM-03": 0.5347,
+            "DE.CM-06": 0.5624,
+            "RS.MA-01": 0.5553
+        },
+        "id": 10208,
+        "name": "security_orchestration_automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_information_management": {
+        "text": "security information management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.5304
+        },
+        "id": 10209,
+        "name": "security_information_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_training": {
+        "text": "cybersecurity training",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.4781
+        },
+        "id": 10210,
+        "name": "cybersecurity_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_information_system_inventory": {
+        "text": "external information system inventory",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.382
+        },
+        "id": 10211,
+        "name": "external_information_system_inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "entity_behavior_analytics": {
+        "text": "entity behavior analytics",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.3075,
+            "DE.CM-01": 0.4263,
+            "DE.CM-02": 0.4624,
+            "DE.CM-03": 0.4605,
+            "DE.CM-09": 0.3862,
+            "DE.AE-02": 0.3613,
+            "DE.AE-03": 0.491,
+            "DE.AE-04": 0.5426,
+            "DE.AE-06": 0.4785,
+            "DE.AE-07": 0.5022,
+            "DE.AE-08": 0.5081,
+            "RS.MA-02": 0.5074,
+            "RS.MA-03": 0.5055,
+            "RS.AN-03": 0.539,
+            "RS.AN-06": 0.4956,
+            "RS.AN-07": 0.4876,
+            "RS.AN-08": 0.4877,
+            "RS.CO-02": 0.3579,
+            "RS.MI-01": 0.4912
+        },
+        "id": 10212,
+        "name": "entity_behavior_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "hardware_approvals": {
+        "text": "hardware approvals",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-03": 0.294
+        },
+        "id": 10213,
+        "name": "hardware_approvals",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_decommissioning_procedures": {
+        "text": "asset decommissioning procedures",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.5016
+        },
+        "id": 10214,
+        "name": "asset_decommissioning_procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "software_assets": {
+        "text": "software assets",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.4511
+        },
+        "id": 10215,
+        "name": "software_assets",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle_management_emphasis": {
+        "text": "lifecycle management emphasis",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.4442
+        },
+        "id": 10216,
+        "name": "lifecycle_management_emphasis",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_risk_assessment": {
+        "text": "asset risk assessment",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.4174
+        },
+        "id": 10217,
+        "name": "asset_risk_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "inventory_accuracy": {
+        "text": "inventory accuracy",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.3012,
+            "ID.AM-08": 0.329
+        },
+        "id": 10218,
+        "name": "inventory_accuracy",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical_systems": {
+        "text": "physical systems",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.2496
+        },
+        "id": 10219,
+        "name": "physical_systems",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber": {
+        "text": "cyber",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.1733
+        },
+        "id": 10220,
+        "name": "cyber",
+        "typedef": "KEYCONCEPT"
+    },
+    "completeness": {
+        "text": "completeness",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-04": 0.0852
+        },
+        "id": 10221,
+        "name": "completeness",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_management_integration": {
+        "text": "asset management integration",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.6015,
+            "ID.RA-02": 0.3522
+        },
+        "id": 10222,
+        "name": "asset_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_services_management": {
+        "text": "third party services management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.4989
+        },
+        "id": 10223,
+        "name": "third_party_services_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic_asset_categorization": {
+        "text": "dynamic asset categorization",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.4004
+        },
+        "id": 10224,
+        "name": "dynamic_asset_categorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_identification": {
+        "text": "vulnerability identification",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.3288
+        },
+        "id": 10225,
+        "name": "vulnerability_identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "prioritization": {
+        "text": "prioritization",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.322
+        },
+        "id": 10226,
+        "name": "prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "valuation": {
+        "text": "valuation",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-05": 0.2841
+        },
+        "id": 10227,
+        "name": "valuation",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_management_automation": {
+        "text": "asset management automation",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-07": 0.6163
+        },
+        "id": 10228,
+        "name": "asset_management_automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_asset_inventory": {
+        "text": "comprehensive asset inventory",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-07": 0.5409
+        },
+        "id": 10229,
+        "name": "comprehensive_asset_inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_asset_management": {
+        "text": "external asset management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-07": 0.5216
+        },
+        "id": 10230,
+        "name": "external_asset_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "monitoring": {
+        "text": "monitoring",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-07": 0.2757,
+            "PR.AA-01": 0.288,
+            "PR.AA-04": 0.2402
+        },
+        "id": 10231,
+        "name": "monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability": {
+        "text": "vulnerability",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-07": 0.1763
+        },
+        "id": 10232,
+        "name": "vulnerability",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_vulnerability_management": {
+        "text": "asset vulnerability management",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.6283
+        },
+        "id": 10233,
+        "name": "asset_vulnerability_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle_management_integration": {
+        "text": "lifecycle management integration",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.4568
+        },
+        "id": 10234,
+        "name": "lifecycle_management_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "things_iot_security": {
+        "text": "things iot security",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.4393
+        },
+        "id": 10235,
+        "name": "things_iot_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_software_inventory": {
+        "text": "comprehensive software inventory",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.4089
+        },
+        "id": 10236,
+        "name": "comprehensive_software_inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "disposal_policies": {
+        "text": "disposal policies",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.2987
+        },
+        "id": 10237,
+        "name": "disposal_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "transit": {
+        "text": "transit",
+        "occurrence": 0,
+        "controls": {
+            "ID.AM-08": 0.1147
+        },
+        "id": 10238,
+        "name": "transit",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_expansion": {
+        "text": "risk assessment expansion",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-01": 0.5395
+        },
+        "id": 10239,
+        "name": "risk_assessment_expansion",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset_vulnerability_identification": {
+        "text": "asset vulnerability identification",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-01": 0.3789
+        },
+        "id": 10240,
+        "name": "asset_vulnerability_identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_compliance_considerations": {
+        "text": "regulatory compliance considerations",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-01": 0.2879
+        },
+        "id": 10241,
+        "name": "regulatory_compliance_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_management_lifecycle": {
+        "text": "vulnerability management lifecycle",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-02": 0.4761
+        },
+        "id": 10242,
+        "name": "vulnerability_management_lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "geopolitical_risk_awareness": {
+        "text": "geopolitical risk awareness",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-02": 0.4594
+        },
+        "id": 10243,
+        "name": "geopolitical_risk_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative_risk_analysis": {
+        "text": "quantitative risk analysis",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-02": 0.4312
+        },
+        "id": 10244,
+        "name": "quantitative_risk_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy_impact": {
+        "text": "privacy impact",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-02": 0.228
+        },
+        "id": 10245,
+        "name": "privacy_impact",
+        "typedef": "KEYCONCEPT"
+    },
+    "climate": {
+        "text": "climate",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-02": 0.2184
+        },
+        "id": 10246,
+        "name": "climate",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_threat_intelligence": {
+        "text": "comprehensive threat intelligence",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-03": 0.5328
+        },
+        "id": 10247,
+        "name": "comprehensive_threat_intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "qualitative_risk_analysis": {
+        "text": "qualitative risk analysis",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-03": 0.5027
+        },
+        "id": 10248,
+        "name": "qualitative_risk_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_frequency": {
+        "text": "risk assessment frequency",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-03": 0.4757
+        },
+        "id": 10249,
+        "name": "risk_assessment_frequency",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational_changes": {
+        "text": "organizational changes",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-03": 0.2189
+        },
+        "id": 10250,
+        "name": "organizational_changes",
+        "typedef": "KEYCONCEPT"
+    },
+    "inclusive": {
+        "text": "inclusive",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-03": 0.0644
+        },
+        "id": 10251,
+        "name": "inclusive",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_risk_assessment_cycle": {
+        "text": "continuous risk assessment cycle",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.5334
+        },
+        "id": 10252,
+        "name": "continuous_risk_assessment_cycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_frameworks": {
+        "text": "risk frameworks",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.5331
+        },
+        "id": 10253,
+        "name": "risk_frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_vulnerability_management": {
+        "text": "advanced vulnerability management",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.5004,
+            "ID.RA-05": 0.5161
+        },
+        "id": 10254,
+        "name": "advanced_vulnerability_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_reporting": {
+        "text": "risk reporting",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.4905
+        },
+        "id": 10255,
+        "name": "risk_reporting",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic_threat": {
+        "text": "dynamic threat",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.4415
+        },
+        "id": 10256,
+        "name": "dynamic_threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_compliance_integration": {
+        "text": "regulatory compliance integration",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.3937
+        },
+        "id": 10257,
+        "name": "regulatory_compliance_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "visualization": {
+        "text": "visualization",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-04": 0.2449
+        },
+        "id": 10258,
+        "name": "visualization",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_management_frameworks": {
+        "text": "risk management frameworks",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-05": 0.5611
+        },
+        "id": 10259,
+        "name": "risk_management_frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy_risk_considerations": {
+        "text": "privacy risk considerations",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-05": 0.4633
+        },
+        "id": 10260,
+        "name": "privacy_risk_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_appetite": {
+        "text": "risk appetite",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-05": 0.281
+        },
+        "id": 10261,
+        "name": "risk_appetite",
+        "typedef": "KEYCONCEPT"
+    },
+    "reporting": {
+        "text": "reporting",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-05": 0.2381
+        },
+        "id": 10262,
+        "name": "reporting",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_automation": {
+        "text": "risk assessment automation",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-06": 0.5363,
+            "ID.RA-09": 0.4923
+        },
+        "id": 10263,
+        "name": "risk_assessment_automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_security_framework": {
+        "text": "collaborative security framework",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-06": 0.4517
+        },
+        "id": 10264,
+        "name": "collaborative_security_framework",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_resilience": {
+        "text": "cyber resilience",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-06": 0.443
+        },
+        "id": 10265,
+        "name": "cyber_resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_integration": {
+        "text": "risk assessment integration",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-07": 0.6297,
+            "ID.RA-10": 0.4897
+        },
+        "id": 10266,
+        "name": "risk_assessment_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat_intelligence_utilization": {
+        "text": "threat intelligence utilization",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-07": 0.5382,
+            "RS.MI-02": 0.5595
+        },
+        "id": 10267,
+        "name": "threat_intelligence_utilization",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_compliance_consideration": {
+        "text": "regulatory compliance consideration",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-07": 0.382
+        },
+        "id": 10268,
+        "name": "regulatory_compliance_consideration",
+        "typedef": "KEYCONCEPT"
+    },
+    "impact_analysis_enhancement": {
+        "text": "impact analysis enhancement",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-07": 0.2982
+        },
+        "id": 10269,
+        "name": "impact_analysis_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_appetite_alignment": {
+        "text": "risk appetite alignment",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-07": 0.2424
+        },
+        "id": 10270,
+        "name": "risk_appetite_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_plan_integration": {
+        "text": "incident response plan integration",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.5676,
+            "RS.MI-02": 0.6544
+        },
+        "id": 10271,
+        "name": "incident_response_plan_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_security_considerations": {
+        "text": "supply chain security considerations",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.4988
+        },
+        "id": 10272,
+        "name": "supply_chain_security_considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_cybersecurity_training": {
+        "text": "regular cybersecurity training",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.491
+        },
+        "id": 10273,
+        "name": "regular_cybersecurity_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk_assessment_documentation": {
+        "text": "risk assessment documentation",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.4499
+        },
+        "id": 10274,
+        "name": "risk_assessment_documentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_monitoring_strategy": {
+        "text": "comprehensive monitoring strategy",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.4418
+        },
+        "id": 10275,
+        "name": "comprehensive_monitoring_strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_incident_analysis": {
+        "text": "collaborative incident analysis",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.4232
+        },
+        "id": 10276,
+        "name": "collaborative_incident_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_predictive_capabilities": {
+        "text": "advanced predictive capabilities",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.2972
+        },
+        "id": 10277,
+        "name": "advanced_predictive_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_compliance_alignment": {
+        "text": "regulatory compliance alignment",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-08": 0.2907,
+            "RC.RP-06": 0.3563
+        },
+        "id": 10278,
+        "name": "regulatory_compliance_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_preparedness": {
+        "text": "incident response preparedness",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-09": 0.489
+        },
+        "id": 10279,
+        "name": "incident_response_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_incident_response": {
+        "text": "advanced incident response",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-10": 0.4191
+        },
+        "id": 10280,
+        "name": "advanced_incident_response",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_configuration_management": {
+        "text": "secure configuration management",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-10": 0.4044,
+            "PR.PS-06": 0.4409
+        },
+        "id": 10281,
+        "name": "secure_configuration_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_confidentiality": {
+        "text": "data confidentiality",
+        "occurrence": 0,
+        "controls": {
+            "ID.RA-10": 0.3126
+        },
+        "id": 10282,
+        "name": "data_confidentiality",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_access": {
+        "text": "secure access",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.7448,
+            "PR.AA-05": 0.6256
+        },
+        "id": 10283,
+        "name": "secure_access",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_authorization_procedures": {
+        "text": "access authorization procedures",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.6857
+        },
+        "id": 10284,
+        "name": "access_authorization_procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_control_policies": {
+        "text": "access control policies",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.6321,
+            "PR.AA-06": 0.408
+        },
+        "id": 10285,
+        "name": "access_control_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_provisioning": {
+        "text": "access provisioning",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.6044
+        },
+        "id": 10286,
+        "name": "access_provisioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_credential_management": {
+        "text": "secure credential management",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.589
+        },
+        "id": 10287,
+        "name": "secure_credential_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_measures": {
+        "text": "data protection measures",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.5801
+        },
+        "id": 10288,
+        "name": "data_protection_measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_identity_verification": {
+        "text": "user identity verification",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.4301
+        },
+        "id": 10289,
+        "name": "user_identity_verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_access_reviews": {
+        "text": "regular access reviews",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.4283,
+            "PR.AA-02": 0.4078,
+            "PR.AA-03": 0.4976,
+            "PR.PS-02": 0.3972
+        },
+        "id": 10290,
+        "name": "regular_access_reviews",
+        "typedef": "KEYCONCEPT"
+    },
+    "role": {
+        "text": "role",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-01": 0.2411
+        },
+        "id": 10291,
+        "name": "role",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_authentication_protocols": {
+        "text": "secure authentication protocols",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.525,
+            "PR.AA-04": 0.4741
+        },
+        "id": 10292,
+        "name": "secure_authentication_protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "contextual_access_control": {
+        "text": "contextual access control",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.4886
+        },
+        "id": 10293,
+        "name": "contextual_access_control",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_behavior_analytics": {
+        "text": "user behavior analytics",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.4513,
+            "PR.IR-01": 0.3621
+        },
+        "id": 10294,
+        "name": "user_behavior_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "least_privilege_access": {
+        "text": "least privilege access",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.3555
+        },
+        "id": 10295,
+        "name": "least_privilege_access",
+        "typedef": "KEYCONCEPT"
+    },
+    "real_time_access": {
+        "text": "real time access",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.3481
+        },
+        "id": 10296,
+        "name": "real_time_access",
+        "typedef": "KEYCONCEPT"
+    },
+    "provisioning": {
+        "text": "provisioning",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.2022
+        },
+        "id": 10297,
+        "name": "provisioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "duties": {
+        "text": "duties",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.202,
+            "PR.AA-03": 0.2161
+        },
+        "id": 10298,
+        "name": "duties",
+        "typedef": "KEYCONCEPT"
+    },
+    "transparency": {
+        "text": "transparency",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-02": 0.1877
+        },
+        "id": 10299,
+        "name": "transparency",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_control_procedures": {
+        "text": "access control procedures",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.7053
+        },
+        "id": 10300,
+        "name": "access_control_procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "privileged_user_management": {
+        "text": "privileged user management",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.5977
+        },
+        "id": 10301,
+        "name": "privileged_user_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_authentication_enhancements": {
+        "text": "user authentication enhancements",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.5438
+        },
+        "id": 10302,
+        "name": "user_authentication_enhancements",
+        "typedef": "KEYCONCEPT"
+    },
+    "account_management": {
+        "text": "account management",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.5305
+        },
+        "id": 10303,
+        "name": "account_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_decommissioning": {
+        "text": "access decommissioning",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.4873
+        },
+        "id": 10304,
+        "name": "access_decommissioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_remote_access": {
+        "text": "secure remote access",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.4721
+        },
+        "id": 10305,
+        "name": "secure_remote_access",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_activities": {
+        "text": "access activities",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-03": 0.4177
+        },
+        "id": 10306,
+        "name": "access_activities",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity_management_systems": {
+        "text": "identity management systems",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.5759
+        },
+        "id": 10307,
+        "name": "identity_management_systems",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_access_security": {
+        "text": "cloud access security",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.5452
+        },
+        "id": 10308,
+        "name": "cloud_access_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_identity_verification": {
+        "text": "advanced identity verification",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.5389
+        },
+        "id": 10309,
+        "name": "advanced_identity_verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_anomaly_detection": {
+        "text": "access anomaly detection",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.5279
+        },
+        "id": 10310,
+        "name": "access_anomaly_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_authorization": {
+        "text": "access authorization",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.4866
+        },
+        "id": 10311,
+        "name": "access_authorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "policy_enforcement": {
+        "text": "policy enforcement",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-04": 0.3229
+        },
+        "id": 10312,
+        "name": "policy_enforcement",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote_access_management": {
+        "text": "remote access management",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.6715,
+            "PR.PS-04": 0.5361
+        },
+        "id": 10313,
+        "name": "remote_access_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_access_control_policies": {
+        "text": "comprehensive access control policies",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.6042
+        },
+        "id": 10314,
+        "name": "comprehensive_access_control_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "privileged_account_management": {
+        "text": "privileged account management",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.5885
+        },
+        "id": 10315,
+        "name": "privileged_account_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity_verification_processes": {
+        "text": "identity verification processes",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.5093
+        },
+        "id": 10316,
+        "name": "identity_verification_processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "information_flow_enforcement": {
+        "text": "information flow enforcement",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.4346
+        },
+        "id": 10317,
+        "name": "information_flow_enforcement",
+        "typedef": "KEYCONCEPT"
+    },
+    "service_idaas": {
+        "text": "service idaas",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.3046
+        },
+        "id": 10318,
+        "name": "service_idaas",
+        "typedef": "KEYCONCEPT"
+    },
+    "mobile_devices": {
+        "text": "mobile devices",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.2607
+        },
+        "id": 10319,
+        "name": "mobile_devices",
+        "typedef": "KEYCONCEPT"
+    },
+    "network_segmentation": {
+        "text": "network segmentation",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-05": 0.1674
+        },
+        "id": 10320,
+        "name": "network_segmentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "backups": {
+        "text": "backups",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.6457
+        },
+        "id": 10321,
+        "name": "backups",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_recovery_capabilities": {
+        "text": "data recovery capabilities",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.5636,
+            "PR.DS-10": 0.3949
+        },
+        "id": 10322,
+        "name": "data_recovery_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "version_control": {
+        "text": "version control",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.4707
+        },
+        "id": 10323,
+        "name": "version_control",
+        "typedef": "KEYCONCEPT"
+    },
+    "rapid_recovery_objectives": {
+        "text": "rapid recovery objectives",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.3476
+        },
+        "id": 10324,
+        "name": "rapid_recovery_objectives",
+        "typedef": "KEYCONCEPT"
+    },
+    "encryption": {
+        "text": "encryption",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.3376
+        },
+        "id": 10325,
+        "name": "encryption",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote_networks": {
+        "text": "remote networks",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.3082
+        },
+        "id": 10326,
+        "name": "remote_networks",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_activity": {
+        "text": "user activity",
+        "occurrence": 0,
+        "controls": {
+            "PR.AA-06": 0.242
+        },
+        "id": 10327,
+        "name": "user_activity",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_culture_building": {
+        "text": "security culture building",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.5823
+        },
+        "id": 10328,
+        "name": "security_culture_building",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_software_development_training": {
+        "text": "secure software development training",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.5782
+        },
+        "id": 10329,
+        "name": "secure_software_development_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_education": {
+        "text": "data protection education",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.5495
+        },
+        "id": 10330,
+        "name": "data_protection_education",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_awareness_training": {
+        "text": "comprehensive awareness training",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.5459
+        },
+        "id": 10331,
+        "name": "comprehensive_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "threats_briefing": {
+        "text": "threats briefing",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.5154
+        },
+        "id": 10332,
+        "name": "threats_briefing",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_team": {
+        "text": "incident response team",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.4351,
+            "PR.PS-02": 0.4904
+        },
+        "id": 10333,
+        "name": "incident_response_team",
+        "typedef": "KEYCONCEPT"
+    },
+    "training_effectiveness": {
+        "text": "training effectiveness",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.3896
+        },
+        "id": 10334,
+        "name": "training_effectiveness",
+        "typedef": "KEYCONCEPT"
+    },
+    "attack_exercises": {
+        "text": "attack exercises",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.3718
+        },
+        "id": 10335,
+        "name": "attack_exercises",
+        "typedef": "KEYCONCEPT"
+    },
+    "content_refinement": {
+        "text": "content refinement",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-01": 0.2895
+        },
+        "id": 10336,
+        "name": "content_refinement",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_security_awareness_training": {
+        "text": "comprehensive security awareness training",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.789
+        },
+        "id": 10337,
+        "name": "comprehensive_security_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "attack_scenarios": {
+        "text": "attack scenarios",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.4178
+        },
+        "id": 10338,
+        "name": "attack_scenarios",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_education_programs": {
+        "text": "continuous education programs",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.4074
+        },
+        "id": 10339,
+        "name": "continuous_education_programs",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_software_development_practices": {
+        "text": "secure software development practices",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.4062
+        },
+        "id": 10340,
+        "name": "secure_software_development_practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "functional_team": {
+        "text": "functional team",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.2609
+        },
+        "id": 10341,
+        "name": "functional_team",
+        "typedef": "KEYCONCEPT"
+    },
+    "personal_devices": {
+        "text": "personal devices",
+        "occurrence": 0,
+        "controls": {
+            "PR.AT-02": 0.194
+        },
+        "id": 10342,
+        "name": "personal_devices",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_sovereignty_compliance": {
+        "text": "data sovereignty compliance",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.6161,
+            "PR.DS-02": 0.638,
+            "PR.DS-11": 0.6604
+        },
+        "id": 10343,
+        "name": "data_sovereignty_compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "geographic_data_transfer_compliance": {
+        "text": "geographic data transfer compliance",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.4888
+        },
+        "id": 10344,
+        "name": "geographic_data_transfer_compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_lifecycle_management": {
+        "text": "data lifecycle management",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.4669,
+            "PR.DS-10": 0.5333,
+            "PR.DS-11": 0.4771
+        },
+        "id": 10345,
+        "name": "data_lifecycle_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "public_key_infrastructure_pki": {
+        "text": "public key infrastructure pki",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.4573
+        },
+        "id": 10346,
+        "name": "public_key_infrastructure_pki",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy_impact_assessments": {
+        "text": "privacy impact assessments",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.4388
+        },
+        "id": 10347,
+        "name": "privacy_impact_assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "global_standards_alignment": {
+        "text": "global standards alignment",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.3177
+        },
+        "id": 10348,
+        "name": "global_standards_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_plans": {
+        "text": "incident response plans",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.2868
+        },
+        "id": 10349,
+        "name": "incident_response_plans",
+        "typedef": "KEYCONCEPT"
+    },
+    "disposal": {
+        "text": "disposal",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.2472
+        },
+        "id": 10350,
+        "name": "disposal",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_data_classification": {
+        "text": "regular data classification",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-01": 0.2195
+        },
+        "id": 10351,
+        "name": "regular_data_classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_loss_prevention": {
+        "text": "data loss prevention",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.6142
+        },
+        "id": 10352,
+        "name": "data_loss_prevention",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_data_disposal": {
+        "text": "secure data disposal",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.6069,
+            "PR.PS-03": 0.4647
+        },
+        "id": 10353,
+        "name": "secure_data_disposal",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_retention_policies": {
+        "text": "data retention policies",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.5371
+        },
+        "id": 10354,
+        "name": "data_retention_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_data_transfer_protocols": {
+        "text": "secure data transfer protocols",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.5317
+        },
+        "id": 10355,
+        "name": "secure_data_transfer_protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_masking": {
+        "text": "data masking",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.495
+        },
+        "id": 10356,
+        "name": "data_masking",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_backup": {
+        "text": "data backup",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.4814
+        },
+        "id": 10357,
+        "name": "data_backup",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_continuity": {
+        "text": "business continuity",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.3755,
+            "PR.IR-03": 0.4461,
+            "RS.CO-02": 0.4361,
+            "RC.RP-02": 0.4821,
+            "RC.RP-03": 0.4363
+        },
+        "id": 10358,
+        "name": "business_continuity",
+        "typedef": "KEYCONCEPT"
+    },
+    "dlp_technologies": {
+        "text": "dlp technologies",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-02": 0.3495
+        },
+        "id": 10359,
+        "name": "dlp_technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_data_security": {
+        "text": "supply chain data security",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.6717
+        },
+        "id": 10360,
+        "name": "supply_chain_data_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_approaches": {
+        "text": "data protection approaches",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.6163
+        },
+        "id": 10361,
+        "name": "data_protection_approaches",
+        "typedef": "KEYCONCEPT"
+    },
+    "public_cloud_data_security": {
+        "text": "public cloud data security",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.5635
+        },
+        "id": 10362,
+        "name": "public_cloud_data_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_governance_framework": {
+        "text": "data governance framework",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.5575
+        },
+        "id": 10363,
+        "name": "data_governance_framework",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_threat_protection": {
+        "text": "advanced threat protection",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.4543
+        },
+        "id": 10364,
+        "name": "advanced_threat_protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "data": {
+        "text": "data",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.3281
+        },
+        "id": 10365,
+        "name": "data",
+        "typedef": "KEYCONCEPT"
+    },
+    "ai": {
+        "text": "ai",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-10": 0.2956
+        },
+        "id": 10366,
+        "name": "ai",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_integrity_protection": {
+        "text": "data integrity protection",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.7073
+        },
+        "id": 10367,
+        "name": "data_integrity_protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_data_destruction": {
+        "text": "secure data destruction",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.5617
+        },
+        "id": 10368,
+        "name": "secure_data_destruction",
+        "typedef": "KEYCONCEPT"
+    },
+    "anonymization": {
+        "text": "anonymization",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.4601
+        },
+        "id": 10369,
+        "name": "anonymization",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_control": {
+        "text": "access control",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.4585
+        },
+        "id": 10370,
+        "name": "access_control",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_encryption_techniques": {
+        "text": "advanced encryption techniques",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.4206
+        },
+        "id": 10371,
+        "name": "advanced_encryption_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "authorization": {
+        "text": "authorization",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.402
+        },
+        "id": 10372,
+        "name": "authorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_minimization_principles": {
+        "text": "data minimization principles",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.3201
+        },
+        "id": 10373,
+        "name": "data_minimization_principles",
+        "typedef": "KEYCONCEPT"
+    },
+    "backup": {
+        "text": "backup",
+        "occurrence": 0,
+        "controls": {
+            "PR.DS-11": 0.2396
+        },
+        "id": 10374,
+        "name": "backup",
+        "typedef": "KEYCONCEPT"
+    },
+    "personnel_security_policies": {
+        "text": "personnel security policies",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.6503
+        },
+        "id": 10375,
+        "name": "personnel_security_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "vendor_risk_management": {
+        "text": "vendor risk management",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.5661
+        },
+        "id": 10376,
+        "name": "vendor_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_security_requirements": {
+        "text": "third party security requirements",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.4793
+        },
+        "id": 10377,
+        "name": "third_party_security_requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_risk_assessments": {
+        "text": "regular risk assessments",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.3837
+        },
+        "id": 10378,
+        "name": "regular_risk_assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_background_verification": {
+        "text": "comprehensive background verification",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.3516
+        },
+        "id": 10379,
+        "name": "comprehensive_background_verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_awareness_training": {
+        "text": "continuous awareness training",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-01": 0.2732
+        },
+        "id": 10380,
+        "name": "continuous_awareness_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "insider_threat_programs": {
+        "text": "insider threat programs",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.6277,
+            "PR.PS-05": 0.5801
+        },
+        "id": 10381,
+        "name": "insider_threat_programs",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_role_definition": {
+        "text": "security role definition",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.5854
+        },
+        "id": 10382,
+        "name": "security_role_definition",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical_security_measures": {
+        "text": "physical security measures",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.5386
+        },
+        "id": 10383,
+        "name": "physical_security_measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "hr_practices": {
+        "text": "hr practices",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.4663
+        },
+        "id": 10384,
+        "name": "hr_practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "access_control_implementation": {
+        "text": "access control implementation",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.4579
+        },
+        "id": 10385,
+        "name": "access_control_implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_risk_management": {
+        "text": "third party risk management",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.4442,
+            "PR.PS-04": 0.4911
+        },
+        "id": 10386,
+        "name": "third_party_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "screening_prioritization": {
+        "text": "screening prioritization",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-02": 0.3857
+        },
+        "id": 10387,
+        "name": "screening_prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "workforce_security_awareness": {
+        "text": "workforce security awareness",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.652
+        },
+        "id": 10388,
+        "name": "workforce_security_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical_security_integration": {
+        "text": "physical security integration",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.5705,
+            "PR.PS-04": 0.6243
+        },
+        "id": 10389,
+        "name": "physical_security_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "third_party_vendor_risk_management": {
+        "text": "third party vendor risk management",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.5618
+        },
+        "id": 10390,
+        "name": "third_party_vendor_risk_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure_development_lifecycle": {
+        "text": "secure development lifecycle",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.5373
+        },
+        "id": 10391,
+        "name": "secure_development_lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_policies": {
+        "text": "data protection policies",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.5265,
+            "PR.PS-04": 0.5853
+        },
+        "id": 10392,
+        "name": "data_protection_policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_security_assessments": {
+        "text": "regular security assessments",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.5177
+        },
+        "id": 10393,
+        "name": "regular_security_assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_encryption_standards": {
+        "text": "advanced encryption standards",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-03": 0.3791
+        },
+        "id": 10394,
+        "name": "advanced_encryption_standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_personnel_security": {
+        "text": "comprehensive personnel security",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-04": 0.6872
+        },
+        "id": 10395,
+        "name": "comprehensive_personnel_security",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_training": {
+        "text": "security training",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-04": 0.5845
+        },
+        "id": 10396,
+        "name": "security_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "policy_development": {
+        "text": "policy development",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-04": 0.3044
+        },
+        "id": 10397,
+        "name": "policy_development",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_cyber_hygiene_practices": {
+        "text": "comprehensive cyber hygiene practices",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.5108
+        },
+        "id": 10398,
+        "name": "comprehensive_cyber_hygiene_practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "domain_security_collaboration": {
+        "text": "domain security collaboration",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.4846
+        },
+        "id": 10399,
+        "name": "domain_security_collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_risk_management_expansion": {
+        "text": "supply chain risk management expansion",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.4197
+        },
+        "id": 10400,
+        "name": "supply_chain_risk_management_expansion",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_identity_verification_techniques": {
+        "text": "advanced identity verification techniques",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.3258
+        },
+        "id": 10401,
+        "name": "advanced_identity_verification_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy": {
+        "text": "privacy",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.305,
+            "RC.RP-01": 0.2216
+        },
+        "id": 10402,
+        "name": "privacy",
+        "typedef": "KEYCONCEPT"
+    },
+    "artificial_intelligence": {
+        "text": "artificial intelligence",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.2854
+        },
+        "id": 10403,
+        "name": "artificial_intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "global_regulatory_alignment": {
+        "text": "global regulatory alignment",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.2469
+        },
+        "id": 10404,
+        "name": "global_regulatory_alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "sector": {
+        "text": "sector",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-05": 0.2047
+        },
+        "id": 10405,
+        "name": "sector",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_posture_management": {
+        "text": "cloud security posture management",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-06": 0.5959
+        },
+        "id": 10406,
+        "name": "cloud_security_posture_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_automation": {
+        "text": "incident response automation",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-06": 0.5212
+        },
+        "id": 10407,
+        "name": "incident_response_automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_privacy_protections": {
+        "text": "data privacy protections",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-06": 0.3191
+        },
+        "id": 10408,
+        "name": "data_privacy_protections",
+        "typedef": "KEYCONCEPT"
+    },
+    "endpoint_detection": {
+        "text": "endpoint detection",
+        "occurrence": 0,
+        "controls": {
+            "PR.PS-06": 0.2071
+        },
+        "id": 10409,
+        "name": "endpoint_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_incident_planning": {
+        "text": "proactive incident planning",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.6576
+        },
+        "id": 10410,
+        "name": "proactive_incident_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_resilience_integration": {
+        "text": "cyber resilience integration",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.5799
+        },
+        "id": 10411,
+        "name": "cyber_resilience_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_alerts": {
+        "text": "security alerts",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.4568
+        },
+        "id": 10412,
+        "name": "security_alerts",
+        "typedef": "KEYCONCEPT"
+    },
+    "authorization_techniques": {
+        "text": "authorization techniques",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.3633
+        },
+        "id": 10413,
+        "name": "authorization_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "agile_response_playbooks": {
+        "text": "agile response playbooks",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.3561
+        },
+        "id": 10414,
+        "name": "agile_response_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_capabilities": {
+        "text": "forensic capabilities",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-01": 0.3353,
+            "PR.IR-02": 0.381,
+            "PR.IR-03": 0.3618,
+            "RS.AN-03": 0.4533,
+            "RS.CO-02": 0.3698,
+            "RS.MI-01": 0.3592
+        },
+        "id": 10415,
+        "name": "forensic_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_management": {
+        "text": "incident management",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-02": 0.6677
+        },
+        "id": 10416,
+        "name": "incident_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "automation": {
+        "text": "automation",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-02": 0.3743,
+            "DE.CM-09": 0.3218,
+            "DE.AE-07": 0.2389,
+            "DE.AE-08": 0.2889,
+            "RS.AN-08": 0.201,
+            "RC.RP-01": 0.2721,
+            "RC.RP-03": 0.2722,
+            "RC.RP-04": 0.226
+        },
+        "id": 10417,
+        "name": "automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_impact_assessment": {
+        "text": "comprehensive impact assessment",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-02": 0.3087
+        },
+        "id": 10418,
+        "name": "comprehensive_impact_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_response_plan": {
+        "text": "comprehensive incident response plan",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.6534
+        },
+        "id": 10419,
+        "name": "comprehensive_incident_response_plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_training": {
+        "text": "stakeholder training",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.3724,
+            "RS.CO-02": 0.3203
+        },
+        "id": 10420,
+        "name": "stakeholder_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_simulation_exercises": {
+        "text": "regular simulation exercises",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.3191
+        },
+        "id": 10421,
+        "name": "regular_simulation_exercises",
+        "typedef": "KEYCONCEPT"
+    },
+    "communication_protocols": {
+        "text": "communication protocols",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.2968,
+            "RS.CO-02": 0.2759,
+            "RS.CO-03": 0.3122,
+            "RC.RP-06": 0.3616,
+            "RC.CO-04": 0.3508
+        },
+        "id": 10422,
+        "name": "communication_protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "log_aggregation": {
+        "text": "log aggregation",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.2743
+        },
+        "id": 10423,
+        "name": "log_aggregation",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous_learning": {
+        "text": "continuous learning",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-03": 0.217
+        },
+        "id": 10424,
+        "name": "continuous_learning",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_preparedness": {
+        "text": "comprehensive incident preparedness",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.6912
+        },
+        "id": 10425,
+        "name": "comprehensive_incident_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_playbooks": {
+        "text": "incident response playbooks",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.65
+        },
+        "id": 10426,
+        "name": "incident_response_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_threat_intelligence_sharing": {
+        "text": "proactive threat intelligence sharing",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.5408
+        },
+        "id": 10427,
+        "name": "proactive_threat_intelligence_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_protection_strategies": {
+        "text": "data protection strategies",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.4638
+        },
+        "id": 10428,
+        "name": "data_protection_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "ddos_attacks": {
+        "text": "ddos attacks",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.4114
+        },
+        "id": 10429,
+        "name": "ddos_attacks",
+        "typedef": "KEYCONCEPT"
+    },
+    "log_management": {
+        "text": "log management",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.3922,
+            "DE.CM-01": 0.366
+        },
+        "id": 10430,
+        "name": "log_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_capabilities_enhancement": {
+        "text": "forensic capabilities enhancement",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.3466,
+            "RC.RP-06": 0.5812
+        },
+        "id": 10431,
+        "name": "forensic_capabilities_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection_processes": {
+        "text": "detection processes",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.2202
+        },
+        "id": 10432,
+        "name": "detection_processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "response": {
+        "text": "response",
+        "occurrence": 0,
+        "controls": {
+            "PR.IR-04": 0.2017
+        },
+        "id": 10433,
+        "name": "response",
+        "typedef": "KEYCONCEPT"
+    },
+    "network_traffic_analysis": {
+        "text": "network traffic analysis",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.5991,
+            "DE.CM-06": 0.5079
+        },
+        "id": 10434,
+        "name": "network_traffic_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_persistent_threats_identification": {
+        "text": "advanced persistent threats identification",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.5456
+        },
+        "id": 10435,
+        "name": "advanced_persistent_threats_identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud_security_monitoring": {
+        "text": "cloud security monitoring",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.5141,
+            "RS.AN-07": 0.5012
+        },
+        "id": 10436,
+        "name": "cloud_security_monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_information": {
+        "text": "security information",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.3903,
+            "DE.AE-06": 0.3778,
+            "RS.MA-02": 0.398
+        },
+        "id": 10437,
+        "name": "security_information",
+        "typedef": "KEYCONCEPT"
+    },
+    "configurable_alert_thresholds": {
+        "text": "configurable alert thresholds",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.3053
+        },
+        "id": 10438,
+        "name": "configurable_alert_thresholds",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_data_preservation": {
+        "text": "forensic data preservation",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-01": 0.2485
+        },
+        "id": 10439,
+        "name": "forensic_data_preservation",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_persistent_threat": {
+        "text": "advanced persistent threat",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.5303,
+            "DE.CM-03": 0.504,
+            "DE.AE-06": 0.5055,
+            "RS.MA-01": 0.5326,
+            "RS.MA-03": 0.4956,
+            "RS.AN-07": 0.4954,
+            "RS.AN-08": 0.5272
+        },
+        "id": 10440,
+        "name": "advanced_persistent_threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_data_sharing": {
+        "text": "incident data sharing",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.3276,
+            "RS.MA-02": 0.4777
+        },
+        "id": 10441,
+        "name": "incident_data_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "custom_detection_algorithm_development": {
+        "text": "custom detection algorithm development",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.288
+        },
+        "id": 10442,
+        "name": "custom_detection_algorithm_development",
+        "typedef": "KEYCONCEPT"
+    },
+    "hybrid_environment": {
+        "text": "hybrid environment",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.1787
+        },
+        "id": 10443,
+        "name": "hybrid_environment",
+        "typedef": "KEYCONCEPT"
+    },
+    "correlation": {
+        "text": "correlation",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.1411
+        },
+        "id": 10444,
+        "name": "correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "user": {
+        "text": "user",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-02": 0.0792,
+            "DE.AE-03": 0.0799,
+            "DE.AE-04": 0.0566,
+            "DE.AE-07": 0.1065,
+            "RS.AN-07": 0.0968,
+            "RS.MI-02": 0.1245
+        },
+        "id": 10445,
+        "name": "user",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross_domain_security_event_correlation": {
+        "text": "cross domain security event correlation",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-03": 0.5578
+        },
+        "id": 10446,
+        "name": "cross_domain_security_event_correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "multi_factor_anomaly_detection": {
+        "text": "multi factor anomaly detection",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-03": 0.4409
+        },
+        "id": 10447,
+        "name": "multi_factor_anomaly_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_plan": {
+        "text": "incident response plan",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-03": 0.4308
+        },
+        "id": 10448,
+        "name": "incident_response_plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "apt_detection": {
+        "text": "apt detection",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-03": 0.2269
+        },
+        "id": 10449,
+        "name": "apt_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability_detection_integration": {
+        "text": "vulnerability detection integration",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.5473
+        },
+        "id": 10450,
+        "name": "vulnerability_detection_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_analysis_support": {
+        "text": "forensic analysis support",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.4154
+        },
+        "id": 10451,
+        "name": "forensic_analysis_support",
+        "typedef": "KEYCONCEPT"
+    },
+    "entity_behavior_analysis_ueba": {
+        "text": "entity behavior analysis ueba",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.39
+        },
+        "id": 10452,
+        "name": "entity_behavior_analysis_ueba",
+        "typedef": "KEYCONCEPT"
+    },
+    "intelligence_feeds": {
+        "text": "intelligence feeds",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.3494
+        },
+        "id": 10453,
+        "name": "intelligence_feeds",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_correlation": {
+        "text": "incident correlation",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.2665
+        },
+        "id": 10454,
+        "name": "incident_correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "capabilities": {
+        "text": "capabilities",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-06": 0.2275
+        },
+        "id": 10455,
+        "name": "capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "real_time_threat_intelligence_sharing": {
+        "text": "real time threat intelligence sharing",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.609
+        },
+        "id": 10456,
+        "name": "real_time_threat_intelligence_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "aware_security_analytics": {
+        "text": "aware security analytics",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.5599
+        },
+        "id": 10457,
+        "name": "aware_security_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_orchestration": {
+        "text": "security orchestration",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.5112,
+            "DE.AE-06": 0.4858,
+            "RS.AN-06": 0.4452,
+            "RS.AN-08": 0.4286
+        },
+        "id": 10458,
+        "name": "security_orchestration",
+        "typedef": "KEYCONCEPT"
+    },
+    "insider_threat_detection": {
+        "text": "insider threat detection",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.4736
+        },
+        "id": 10459,
+        "name": "insider_threat_detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_anomaly_detection_techniques": {
+        "text": "advanced anomaly detection techniques",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.4724
+        },
+        "id": 10460,
+        "name": "advanced_anomaly_detection_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_simulation": {
+        "text": "incident simulation",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.3232
+        },
+        "id": 10461,
+        "name": "incident_simulation",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_integrity_measures": {
+        "text": "data integrity measures",
+        "occurrence": 0,
+        "controls": {
+            "DE.CM-09": 0.3171
+        },
+        "id": 10462,
+        "name": "data_integrity_measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "real_time_threat_intelligence_integration": {
+        "text": "real time threat intelligence integration",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.6829
+        },
+        "id": 10463,
+        "name": "real_time_threat_intelligence_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "custom_detection_playbooks": {
+        "text": "custom detection playbooks",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.3423
+        },
+        "id": 10464,
+        "name": "custom_detection_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_prioritization": {
+        "text": "incident prioritization",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.3326,
+            "DE.AE-07": 0.4143
+        },
+        "id": 10465,
+        "name": "incident_prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_controls": {
+        "text": "security controls",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.3305
+        },
+        "id": 10466,
+        "name": "security_controls",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_log_management": {
+        "text": "comprehensive log management",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.3246,
+            "DE.AE-07": 0.371,
+            "RS.AN-07": 0.3227
+        },
+        "id": 10467,
+        "name": "comprehensive_log_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "machine_learning": {
+        "text": "machine learning",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.3231
+        },
+        "id": 10468,
+        "name": "machine_learning",
+        "typedef": "KEYCONCEPT"
+    },
+    "diverse_environments": {
+        "text": "diverse environments",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.1205
+        },
+        "id": 10469,
+        "name": "diverse_environments",
+        "typedef": "KEYCONCEPT"
+    },
+    "update_cycle": {
+        "text": "update cycle",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-02": 0.0653
+        },
+        "id": 10470,
+        "name": "update_cycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_threat_defense": {
+        "text": "collaborative threat defense",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-03": 0.5288
+        },
+        "id": 10471,
+        "name": "collaborative_threat_defense",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_classification": {
+        "text": "incident classification",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-03": 0.5254
+        },
+        "id": 10472,
+        "name": "incident_classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection_capabilities": {
+        "text": "detection capabilities",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-03": 0.4076,
+            "DE.AE-06": 0.2734,
+            "RS.AN-03": 0.3416
+        },
+        "id": 10473,
+        "name": "detection_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_hunting": {
+        "text": "proactive hunting",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-03": 0.3473,
+            "DE.AE-08": 0.2629,
+            "RS.MA-03": 0.2385,
+            "RS.AN-03": 0.2631
+        },
+        "id": 10474,
+        "name": "proactive_hunting",
+        "typedef": "KEYCONCEPT"
+    },
+    "contextual_analysis": {
+        "text": "contextual analysis",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-03": 0.3418,
+            "RS.MA-03": 0.3925,
+            "RS.AN-03": 0.3479
+        },
+        "id": 10475,
+        "name": "contextual_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_impact_assessment": {
+        "text": "incident impact assessment",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.5608
+        },
+        "id": 10476,
+        "name": "incident_impact_assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_event_investigation": {
+        "text": "collaborative event investigation",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.5429
+        },
+        "id": 10477,
+        "name": "collaborative_event_investigation",
+        "typedef": "KEYCONCEPT"
+    },
+    "event_correlation_techniques": {
+        "text": "event correlation techniques",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.5175,
+            "RS.MA-02": 0.5645
+        },
+        "id": 10478,
+        "name": "event_correlation_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "alert_prioritization": {
+        "text": "alert prioritization",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.4421
+        },
+        "id": 10479,
+        "name": "alert_prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross_domain_detection_capabilities": {
+        "text": "cross domain detection capabilities",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.3107,
+            "DE.AE-08": 0.3339
+        },
+        "id": 10480,
+        "name": "cross_domain_detection_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "ueba": {
+        "text": "ueba",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-04": 0.2036,
+            "RS.AN-06": 0.202,
+            "RS.MI-01": 0.1826
+        },
+        "id": 10481,
+        "name": "ueba",
+        "typedef": "KEYCONCEPT"
+    },
+    "event_correlation": {
+        "text": "event correlation",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-06": 0.3655,
+            "DE.AE-07": 0.4405,
+            "DE.AE-08": 0.3844,
+            "RS.AN-07": 0.368
+        },
+        "id": 10482,
+        "name": "event_correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "anomalies": {
+        "text": "anomalies",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-06": 0.2622
+        },
+        "id": 10483,
+        "name": "anomalies",
+        "typedef": "KEYCONCEPT"
+    },
+    "siem": {
+        "text": "siem",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-06": 0.1139
+        },
+        "id": 10484,
+        "name": "siem",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive_detection_strategies": {
+        "text": "proactive detection strategies",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-07": 0.3428
+        },
+        "id": 10485,
+        "name": "proactive_detection_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross_platform_detection_capabilities": {
+        "text": "cross platform detection capabilities",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-07": 0.31
+        },
+        "id": 10486,
+        "name": "cross_platform_detection_capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "context": {
+        "text": "context",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-07": 0.2041,
+            "RS.MA-02": 0.1918,
+            "RS.AN-08": 0.1593
+        },
+        "id": 10487,
+        "name": "context",
+        "typedef": "KEYCONCEPT"
+    },
+    "holistic_incident_analysis": {
+        "text": "holistic incident analysis",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-08": 0.5428
+        },
+        "id": 10488,
+        "name": "holistic_incident_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "sophisticated_analytics": {
+        "text": "sophisticated analytics",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-08": 0.3579
+        },
+        "id": 10489,
+        "name": "sophisticated_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_coverage": {
+        "text": "comprehensive coverage",
+        "occurrence": 0,
+        "controls": {
+            "DE.AE-08": 0.2197
+        },
+        "id": 10490,
+        "name": "comprehensive_coverage",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_analysis": {
+        "text": "comprehensive incident analysis",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-01": 0.4658,
+            "RS.CO-02": 0.6022,
+            "RS.CO-03": 0.5792
+        },
+        "id": 10491,
+        "name": "comprehensive_incident_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "apt_preparedness": {
+        "text": "apt preparedness",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-01": 0.3648
+        },
+        "id": 10492,
+        "name": "apt_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive_response_protocols": {
+        "text": "adaptive response protocols",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-01": 0.3429
+        },
+        "id": 10493,
+        "name": "adaptive_response_protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery_planning": {
+        "text": "recovery planning",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-01": 0.3198,
+            "RC.RP-01": 0.4775,
+            "RC.RP-02": 0.4504,
+            "RC.RP-05": 0.5307
+        },
+        "id": 10494,
+        "name": "recovery_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "private_sector_collaboration": {
+        "text": "private sector collaboration",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-01": 0.2604
+        },
+        "id": 10495,
+        "name": "private_sector_collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security_automation": {
+        "text": "security automation",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-02": 0.5064
+        },
+        "id": 10496,
+        "name": "security_automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "aware_security_alerts": {
+        "text": "aware security alerts",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-02": 0.4679
+        },
+        "id": 10497,
+        "name": "aware_security_alerts",
+        "typedef": "KEYCONCEPT"
+    },
+    "event_management_siem_system_optimization": {
+        "text": "event management siem system optimization",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-02": 0.4105
+        },
+        "id": 10498,
+        "name": "event_management_siem_system_optimization",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_trend_analysis": {
+        "text": "incident trend analysis",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-03": 0.621
+        },
+        "id": 10499,
+        "name": "incident_trend_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_monitoring": {
+        "text": "comprehensive monitoring",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-03": 0.4404
+        },
+        "id": 10500,
+        "name": "comprehensive_monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "alert_triage": {
+        "text": "alert triage",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-03": 0.4281
+        },
+        "id": 10501,
+        "name": "alert_triage",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic_playbooks": {
+        "text": "dynamic playbooks",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-03": 0.1546
+        },
+        "id": 10502,
+        "name": "dynamic_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_analytics": {
+        "text": "incident analytics",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.6824
+        },
+        "id": 10503,
+        "name": "incident_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_management_plan": {
+        "text": "comprehensive incident management plan",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.6493
+        },
+        "id": 10504,
+        "name": "comprehensive_incident_management_plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_teams": {
+        "text": "incident response teams",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.5756
+        },
+        "id": 10505,
+        "name": "incident_response_teams",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_preparedness": {
+        "text": "forensic preparedness",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.4528
+        },
+        "id": 10506,
+        "name": "forensic_preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_behavior_analytics_uba": {
+        "text": "user behavior analytics uba",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.4519
+        },
+        "id": 10507,
+        "name": "user_behavior_analytics_uba",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_monitoring_strategies": {
+        "text": "advanced monitoring strategies",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.33
+        },
+        "id": 10508,
+        "name": "advanced_monitoring_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_information": {
+        "text": "collaborative information",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.261
+        },
+        "id": 10509,
+        "name": "collaborative_information",
+        "typedef": "KEYCONCEPT"
+    },
+    "compliance_requirements": {
+        "text": "compliance requirements",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.2231
+        },
+        "id": 10510,
+        "name": "compliance_requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "root": {
+        "text": "root",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-04": 0.0954,
+            "RS.AN-06": 0.0662
+        },
+        "id": 10511,
+        "name": "root",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_hygiene_education": {
+        "text": "cyber hygiene education",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.5013
+        },
+        "id": 10512,
+        "name": "cyber_hygiene_education",
+        "typedef": "KEYCONCEPT"
+    },
+    "functional_team_collaboration": {
+        "text": "functional team collaboration",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.4437
+        },
+        "id": 10513,
+        "name": "functional_team_collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery_integration": {
+        "text": "recovery integration",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.3279
+        },
+        "id": 10514,
+        "name": "recovery_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "continual_improvement_process": {
+        "text": "continual improvement process",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.2915
+        },
+        "id": 10515,
+        "name": "continual_improvement_process",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_response": {
+        "text": "comprehensive response",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.2793
+        },
+        "id": 10516,
+        "name": "comprehensive_response",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable_playbooks": {
+        "text": "customizable playbooks",
+        "occurrence": 0,
+        "controls": {
+            "RS.MA-05": 0.1074
+        },
+        "id": 10517,
+        "name": "customizable_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_event_log_management": {
+        "text": "comprehensive event log management",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-03": 0.4311
+        },
+        "id": 10518,
+        "name": "comprehensive_event_log_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "analysis_tools": {
+        "text": "analysis tools",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-03": 0.3854
+        },
+        "id": 10519,
+        "name": "analysis_tools",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross_team_collaboration": {
+        "text": "cross team collaboration",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-03": 0.262
+        },
+        "id": 10520,
+        "name": "cross_team_collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_response_integration": {
+        "text": "incident response integration",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-06": 0.5491
+        },
+        "id": 10521,
+        "name": "incident_response_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "data_analytics": {
+        "text": "data analytics",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-06": 0.3823
+        },
+        "id": 10522,
+        "name": "data_analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "platform_correlation": {
+        "text": "platform correlation",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-06": 0.3162
+        },
+        "id": 10523,
+        "name": "platform_correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptability": {
+        "text": "adaptability",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-06": 0.1439
+        },
+        "id": 10524,
+        "name": "adaptability",
+        "typedef": "KEYCONCEPT"
+    },
+    "integrative_security_orchestration": {
+        "text": "integrative security orchestration",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-07": 0.5244
+        },
+        "id": 10525,
+        "name": "integrative_security_orchestration",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_readiness": {
+        "text": "forensic readiness",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-07": 0.2814
+        },
+        "id": 10526,
+        "name": "forensic_readiness",
+        "typedef": "KEYCONCEPT"
+    },
+    "indicator": {
+        "text": "indicator",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-07": 0.1967
+        },
+        "id": 10527,
+        "name": "indicator",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative_incident_response": {
+        "text": "collaborative incident response",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-08": 0.4185
+        },
+        "id": 10528,
+        "name": "collaborative_incident_response",
+        "typedef": "KEYCONCEPT"
+    },
+    "domain_data_fusion": {
+        "text": "domain data fusion",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-08": 0.3757
+        },
+        "id": 10529,
+        "name": "domain_data_fusion",
+        "typedef": "KEYCONCEPT"
+    },
+    "hybrid_environment_support": {
+        "text": "hybrid environment support",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-08": 0.2626
+        },
+        "id": 10530,
+        "name": "hybrid_environment_support",
+        "typedef": "KEYCONCEPT"
+    },
+    "soar": {
+        "text": "soar",
+        "occurrence": 0,
+        "controls": {
+            "RS.AN-08": 0.084
+        },
+        "id": 10531,
+        "name": "soar",
+        "typedef": "KEYCONCEPT"
+    },
+    "response_plan": {
+        "text": "response plan",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-02": 0.4357
+        },
+        "id": 10532,
+        "name": "response_plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "knowledge_management": {
+        "text": "knowledge management",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-02": 0.3537
+        },
+        "id": 10533,
+        "name": "knowledge_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "user_awareness": {
+        "text": "user awareness",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-03": 0.3621
+        },
+        "id": 10534,
+        "name": "user_awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "timely_information_sharing": {
+        "text": "timely information sharing",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-03": 0.3352
+        },
+        "id": 10535,
+        "name": "timely_information_sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "logging": {
+        "text": "logging",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-03": 0.295
+        },
+        "id": 10536,
+        "name": "logging",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_techniques": {
+        "text": "forensic techniques",
+        "occurrence": 0,
+        "controls": {
+            "RS.CO-03": 0.2922
+        },
+        "id": 10537,
+        "name": "forensic_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_incident_recovery_planning": {
+        "text": "cyber incident recovery planning",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-01": 0.6139
+        },
+        "id": 10538,
+        "name": "cyber_incident_recovery_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_incident_documentation": {
+        "text": "comprehensive incident documentation",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-01": 0.521
+        },
+        "id": 10539,
+        "name": "comprehensive_incident_documentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "real_time_analysis": {
+        "text": "real time analysis",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-01": 0.3236
+        },
+        "id": 10540,
+        "name": "real_time_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaboration_platforms": {
+        "text": "collaboration platforms",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-01": 0.2652
+        },
+        "id": 10541,
+        "name": "collaboration_platforms",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_correlation_techniques": {
+        "text": "advanced correlation techniques",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-01": 0.2365
+        },
+        "id": 10542,
+        "name": "advanced_correlation_techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic_analysis_integration": {
+        "text": "forensic analysis integration",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-02": 0.4632,
+            "RC.RP-02": 0.3672
+        },
+        "id": 10543,
+        "name": "forensic_analysis_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "functional_team_coordination": {
+        "text": "functional team coordination",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-02": 0.4334
+        },
+        "id": 10544,
+        "name": "functional_team_coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "root_cause_analysis": {
+        "text": "root cause analysis",
+        "occurrence": 0,
+        "controls": {
+            "RS.MI-02": 0.3331
+        },
+        "id": 10545,
+        "name": "root_cause_analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity_insurance": {
+        "text": "cybersecurity insurance",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-01": 0.4926
+        },
+        "id": 10546,
+        "name": "cybersecurity_insurance",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery_metrics": {
+        "text": "recovery metrics",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-01": 0.4512
+        },
+        "id": 10547,
+        "name": "recovery_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "orchestration": {
+        "text": "orchestration",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-01": 0.2175
+        },
+        "id": 10548,
+        "name": "orchestration",
+        "typedef": "KEYCONCEPT"
+    },
+    "crisis_communication": {
+        "text": "crisis communication",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-02": 0.5257
+        },
+        "id": 10549,
+        "name": "crisis_communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "public_relations": {
+        "text": "public relations",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-02": 0.4085,
+            "RC.RP-04": 0.2963
+        },
+        "id": 10550,
+        "name": "public_relations",
+        "typedef": "KEYCONCEPT"
+    },
+    "action_review": {
+        "text": "action review",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-02": 0.2545
+        },
+        "id": 10551,
+        "name": "action_review",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_recovery_planning": {
+        "text": "comprehensive recovery planning",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-03": 0.6323,
+            "RC.RP-04": 0.5554,
+            "RC.RP-06": 0.4611,
+            "RC.CO-04": 0.4503
+        },
+        "id": 10552,
+        "name": "comprehensive_recovery_planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_insurance_integration": {
+        "text": "cyber insurance integration",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-03": 0.5539
+        },
+        "id": 10553,
+        "name": "cyber_insurance_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience_metrics": {
+        "text": "resilience metrics",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-03": 0.4745
+        },
+        "id": 10554,
+        "name": "resilience_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "post_incident_review": {
+        "text": "post incident review",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-03": 0.2814
+        },
+        "id": 10555,
+        "name": "post_incident_review",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply_chain_resilience": {
+        "text": "supply chain resilience",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-04": 0.5439
+        },
+        "id": 10556,
+        "name": "supply_chain_resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_incident_learnings": {
+        "text": "cyber incident learnings",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-04": 0.4756
+        },
+        "id": 10557,
+        "name": "cyber_incident_learnings",
+        "typedef": "KEYCONCEPT"
+    },
+    "brand_protection": {
+        "text": "brand protection",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-04": 0.4107
+        },
+        "id": 10558,
+        "name": "brand_protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_notifications": {
+        "text": "external notifications",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-04": 0.2159
+        },
+        "id": 10559,
+        "name": "external_notifications",
+        "typedef": "KEYCONCEPT"
+    },
+    "update": {
+        "text": "update",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-04": 0.1008,
+            "RC.RP-05": 0.0869
+        },
+        "id": 10560,
+        "name": "update",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_resilience_metrics": {
+        "text": "cyber resilience metrics",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-05": 0.564
+        },
+        "id": 10561,
+        "name": "cyber_resilience_metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_communication_strategies": {
+        "text": "comprehensive communication strategies",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-05": 0.3087
+        },
+        "id": 10562,
+        "name": "comprehensive_communication_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "external_standards": {
+        "text": "external standards",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-05": 0.1288
+        },
+        "id": 10563,
+        "name": "external_standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "lessons": {
+        "text": "lessons",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-05": 0.1186
+        },
+        "id": 10564,
+        "name": "lessons",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_collaboration_enhancement": {
+        "text": "stakeholder collaboration enhancement",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-06": 0.499
+        },
+        "id": 10565,
+        "name": "stakeholder_collaboration_enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "public_relations_management": {
+        "text": "public relations management",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-06": 0.3734,
+            "RC.CO-03": 0.6177,
+            "RC.CO-04": 0.4389
+        },
+        "id": 10566,
+        "name": "public_relations_management",
+        "typedef": "KEYCONCEPT"
+    },
+    "impact_minimization_strategies": {
+        "text": "impact minimization strategies",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-06": 0.3449
+        },
+        "id": 10567,
+        "name": "impact_minimization_strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced_analytics_integration": {
+        "text": "advanced analytics integration",
+        "occurrence": 0,
+        "controls": {
+            "RC.RP-06": 0.3198
+        },
+        "id": 10568,
+        "name": "advanced_analytics_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident_communication_tools": {
+        "text": "incident communication tools",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.6306
+        },
+        "id": 10569,
+        "name": "incident_communication_tools",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive_communications_strategy": {
+        "text": "comprehensive communications strategy",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.6275
+        },
+        "id": 10570,
+        "name": "comprehensive_communications_strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "coordinated_disclosure_processes": {
+        "text": "coordinated disclosure processes",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.5619
+        },
+        "id": 10571,
+        "name": "coordinated_disclosure_processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "communication_templates": {
+        "text": "communication templates",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.4956
+        },
+        "id": 10572,
+        "name": "communication_templates",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder_requirements": {
+        "text": "stakeholder requirements",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.4535
+        },
+        "id": 10573,
+        "name": "stakeholder_requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular_updates": {
+        "text": "regular updates",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-03": 0.2427
+        },
+        "id": 10574,
+        "name": "regular_updates",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber_incident_playbooks": {
+        "text": "cyber incident playbooks",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-04": 0.5525
+        },
+        "id": 10575,
+        "name": "cyber_incident_playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "business_continuity_integration": {
+        "text": "business continuity integration",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-04": 0.5256
+        },
+        "id": 10576,
+        "name": "business_continuity_integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "technical_staff_training": {
+        "text": "technical staff training",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-04": 0.4164
+        },
+        "id": 10577,
+        "name": "technical_staff_training",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory_reporting_compliance": {
+        "text": "regulatory reporting compliance",
+        "occurrence": 0,
+        "controls": {
+            "RC.CO-04": 0.3251
+        },
+        "id": 10578,
+        "name": "regulatory_reporting_compliance",
+        "typedef": "KEYCONCEPT"
+    }
+}

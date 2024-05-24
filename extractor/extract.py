@@ -9,7 +9,8 @@ class KeyTermExtractor(object):
     def __init__(self, config):
         self.config = config
         if not self.config:
-            self.model = KeyBERT(model='all-MiniLM-L6-v2')
+            # self.model = KeyBERT(model='all-MiniLM-L6-v2')
+            self.model = KeyBERT(model='all-mpnet-base-v2')
         else:
             self.model = KeyBERT(model=config["model"])
 

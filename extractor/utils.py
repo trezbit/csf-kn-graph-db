@@ -6,7 +6,7 @@ import re
 # FROM scikit-learn -- https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/feature_extraction/_stop_words.py
 
 CONCEPT_EXCLUDES = frozenset (
-    ["ueba"]
+    ["NIST", "SP", "CSF", "CIS", "ISO", "CRI"]
 )
 
 ENGLISH_STOP_WORDS = frozenset(
