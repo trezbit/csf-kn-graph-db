@@ -1,0 +1,2839 @@
+{
+    "keyconcepts": [
+        {
+            "id": 10000,
+            "name": "supply chain risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10001,
+            "name": "cybersecurity awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10002,
+            "name": "governance integration",
+            "accronym": ""
+        },
+        {
+            "id": 10003,
+            "name": "comprehensive asset management",
+            "accronym": ""
+        },
+        {
+            "id": 10004,
+            "name": "cyber risk quantification",
+            "accronym": ""
+        },
+        {
+            "id": 10005,
+            "name": "identity management",
+            "accronym": ""
+        },
+        {
+            "id": 10006,
+            "name": "advanced threat intelligence sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10007,
+            "name": "continuous improvement process",
+            "accronym": ""
+        },
+        {
+            "id": 10008,
+            "name": "incident response",
+            "accronym": ""
+        },
+        {
+            "id": 10009,
+            "name": "organizational communication",
+            "accronym": ""
+        },
+        {
+            "id": 10011,
+            "name": "legal compliance",
+            "accronym": ""
+        },
+        {
+            "id": 10012,
+            "name": "remote workforce security",
+            "accronym": ""
+        },
+        {
+            "id": 10013,
+            "name": "governance framework integration",
+            "accronym": ""
+        },
+        {
+            "id": 10014,
+            "name": "data protection prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10015,
+            "name": "security monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10016,
+            "name": "regulatory compliance",
+            "accronym": ""
+        },
+        {
+            "id": 10017,
+            "name": "business objectives",
+            "accronym": ""
+        },
+        {
+            "id": 10018,
+            "name": "identity verification",
+            "accronym": ""
+        },
+        {
+            "id": 10019,
+            "name": "geographic data considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10020,
+            "name": "resilience",
+            "accronym": ""
+        },
+        {
+            "id": 10022,
+            "name": "holistic cybersecurity policy development",
+            "accronym": ""
+        },
+        {
+            "id": 10023,
+            "name": "risk management strategy integration",
+            "accronym": ""
+        },
+        {
+            "id": 10024,
+            "name": "governance structure optimization",
+            "accronym": ""
+        },
+        {
+            "id": 10026,
+            "name": "continuous improvement",
+            "accronym": ""
+        },
+        {
+            "id": 10027,
+            "name": "stakeholder engagement",
+            "accronym": ""
+        },
+        {
+            "id": 10028,
+            "name": "performance metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10032,
+            "name": "cybersecurity leadership",
+            "accronym": ""
+        },
+        {
+            "id": 10033,
+            "name": "resilience planning",
+            "accronym": ""
+        },
+        {
+            "id": 10034,
+            "name": "advanced threat intelligence integration",
+            "accronym": ""
+        },
+        {
+            "id": 10035,
+            "name": "proactive threat",
+            "accronym": ""
+        },
+        {
+            "id": 10036,
+            "name": "adaptive risk assessment models",
+            "accronym": ""
+        },
+        {
+            "id": 10037,
+            "name": "proactive asset management",
+            "accronym": ""
+        },
+        {
+            "id": 10038,
+            "name": "adaptive governance frameworks",
+            "accronym": ""
+        },
+        {
+            "id": 10039,
+            "name": "strategic alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10040,
+            "name": "stakeholder communication",
+            "accronym": ""
+        },
+        {
+            "id": 10041,
+            "name": "data protection",
+            "accronym": ""
+        },
+        {
+            "id": 10042,
+            "name": "security awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10043,
+            "name": "continuous security assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10044,
+            "name": "strategic cybersecurity investments",
+            "accronym": ""
+        },
+        {
+            "id": 10045,
+            "name": "threat intelligence integration",
+            "accronym": ""
+        },
+        {
+            "id": 10046,
+            "name": "incident response coordination",
+            "accronym": ""
+        },
+        {
+            "id": 10047,
+            "name": "risk assessment alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10048,
+            "name": "continuous improvement mechanism",
+            "accronym": ""
+        },
+        {
+            "id": 10049,
+            "name": "adaptive protection strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10050,
+            "name": "technology innovation",
+            "accronym": ""
+        },
+        {
+            "id": 10051,
+            "name": "comprehensive risk management lifecycle",
+            "accronym": ""
+        },
+        {
+            "id": 10052,
+            "name": "risk management practices",
+            "accronym": ""
+        },
+        {
+            "id": 10053,
+            "name": "risk assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10054,
+            "name": "cybersecurity",
+            "accronym": ""
+        },
+        {
+            "id": 10055,
+            "name": "incident impact analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10056,
+            "name": "business strategy",
+            "accronym": ""
+        },
+        {
+            "id": 10057,
+            "name": "stakeholder collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10058,
+            "name": "continuous monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10060,
+            "name": "threat intelligence incorporation",
+            "accronym": ""
+        },
+        {
+            "id": 10061,
+            "name": "collaborative risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10062,
+            "name": "risk mitigation",
+            "accronym": ""
+        },
+        {
+            "id": 10063,
+            "name": "cybersecurity culture",
+            "accronym": ""
+        },
+        {
+            "id": 10064,
+            "name": "dynamic risk assessment models",
+            "accronym": ""
+        },
+        {
+            "id": 10065,
+            "name": "resilience measures",
+            "accronym": ""
+        },
+        {
+            "id": 10066,
+            "name": "legal compliance integration",
+            "accronym": ""
+        },
+        {
+            "id": 10067,
+            "name": "strategic planning integration",
+            "accronym": ""
+        },
+        {
+            "id": 10068,
+            "name": "risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10069,
+            "name": "risk communication",
+            "accronym": ""
+        },
+        {
+            "id": 10070,
+            "name": "resource allocation",
+            "accronym": ""
+        },
+        {
+            "id": 10074,
+            "name": "enterprise risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10075,
+            "name": "comprehensive risk assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10076,
+            "name": "cybersecurity metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10077,
+            "name": "adaptive risk management frameworks",
+            "accronym": ""
+        },
+        {
+            "id": 10078,
+            "name": "incident preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10079,
+            "name": "advanced threat intelligence",
+            "accronym": ""
+        },
+        {
+            "id": 10080,
+            "name": "strategic risk appetite alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10081,
+            "name": "regular risk review",
+            "accronym": ""
+        },
+        {
+            "id": 10082,
+            "name": "supply chain risk management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10083,
+            "name": "cybersecurity awareness training",
+            "accronym": ""
+        },
+        {
+            "id": 10084,
+            "name": "threat intelligence sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10085,
+            "name": "cloud security adaptation",
+            "accronym": ""
+        },
+        {
+            "id": 10086,
+            "name": "vulnerability management",
+            "accronym": ""
+        },
+        {
+            "id": 10087,
+            "name": "data privacy",
+            "accronym": ""
+        },
+        {
+            "id": 10090,
+            "name": "comprehensive risk management strategy",
+            "accronym": ""
+        },
+        {
+            "id": 10091,
+            "name": "risk identification",
+            "accronym": ""
+        },
+        {
+            "id": 10092,
+            "name": "regular risk assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10093,
+            "name": "business processes",
+            "accronym": ""
+        },
+        {
+            "id": 10095,
+            "name": "advanced technologies",
+            "accronym": ""
+        },
+        {
+            "id": 10096,
+            "name": "regulatory alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10097,
+            "name": "risk management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10098,
+            "name": "incident recovery planning",
+            "accronym": ""
+        },
+        {
+            "id": 10099,
+            "name": "continuous improvement cycle",
+            "accronym": ""
+        },
+        {
+            "id": 10102,
+            "name": "customizable implementation",
+            "accronym": ""
+        },
+        {
+            "id": 10104,
+            "name": "strategic organizational planning",
+            "accronym": ""
+        },
+        {
+            "id": 10106,
+            "name": "resource prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10107,
+            "name": "comprehensive incident response",
+            "accronym": ""
+        },
+        {
+            "id": 10108,
+            "name": "cybersecurity events",
+            "accronym": ""
+        },
+        {
+            "id": 10109,
+            "name": "cyber risk",
+            "accronym": ""
+        },
+        {
+            "id": 10110,
+            "name": "threat intelligence platforms",
+            "accronym": ""
+        },
+        {
+            "id": 10111,
+            "name": "supply chain resilience",
+            "accronym": ""
+        },
+        {
+            "id": 10112,
+            "name": "user awareness training",
+            "accronym": ""
+        },
+        {
+            "id": 10113,
+            "name": "stakeholder communication strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10114,
+            "name": "data protection methods",
+            "accronym": ""
+        },
+        {
+            "id": 10115,
+            "name": "external information",
+            "accronym": ""
+        },
+        {
+            "id": 10117,
+            "name": "comprehensive vulnerability management",
+            "accronym": ""
+        },
+        {
+            "id": 10118,
+            "name": "incident readiness",
+            "accronym": ""
+        },
+        {
+            "id": 10119,
+            "name": "quantitative risk metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10120,
+            "name": "cloud security considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10121,
+            "name": "data protection enhancements",
+            "accronym": ""
+        },
+        {
+            "id": 10122,
+            "name": "threat intelligence",
+            "accronym": ""
+        },
+        {
+            "id": 10123,
+            "name": "asset visibility",
+            "accronym": ""
+        },
+        {
+            "id": 10124,
+            "name": "access complexities",
+            "accronym": ""
+        },
+        {
+            "id": 10127,
+            "name": "disaster recovery capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10128,
+            "name": "risk response strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10129,
+            "name": "business continuity planning",
+            "accronym": ""
+        },
+        {
+            "id": 10130,
+            "name": "cyber insurance considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10133,
+            "name": "governance framework enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10134,
+            "name": "security culture",
+            "accronym": ""
+        },
+        {
+            "id": 10135,
+            "name": "level involvement",
+            "accronym": ""
+        },
+        {
+            "id": 10137,
+            "name": "governance incorporation",
+            "accronym": ""
+        },
+        {
+            "id": 10138,
+            "name": "strategic planning alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10139,
+            "name": "standard development",
+            "accronym": ""
+        },
+        {
+            "id": 10140,
+            "name": "resource alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10142,
+            "name": "organizational cybersecurity governance",
+            "accronym": ""
+        },
+        {
+            "id": 10145,
+            "name": "cybersecurity risk management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10146,
+            "name": "leadership commitment",
+            "accronym": ""
+        },
+        {
+            "id": 10147,
+            "name": "information sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10148,
+            "name": "civil liberties",
+            "accronym": ""
+        },
+        {
+            "id": 10149,
+            "name": "supply chain security",
+            "accronym": ""
+        },
+        {
+            "id": 10150,
+            "name": "governance scope",
+            "accronym": ""
+        },
+        {
+            "id": 10151,
+            "name": "adaptive risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10152,
+            "name": "privacy controls",
+            "accronym": ""
+        },
+        {
+            "id": 10153,
+            "name": "quantitative risk assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10154,
+            "name": "employee training",
+            "accronym": ""
+        },
+        {
+            "id": 10155,
+            "name": "supply chain risk management enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10156,
+            "name": "security awareness training",
+            "accronym": ""
+        },
+        {
+            "id": 10157,
+            "name": "vulnerability management program",
+            "accronym": ""
+        },
+        {
+            "id": 10158,
+            "name": "cloud security focus",
+            "accronym": ""
+        },
+        {
+            "id": 10159,
+            "name": "comprehensive identity verification",
+            "accronym": ""
+        },
+        {
+            "id": 10160,
+            "name": "asset management refinement",
+            "accronym": ""
+        },
+        {
+            "id": 10161,
+            "name": "cyber supply chain risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10162,
+            "name": "vulnerability management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10163,
+            "name": "cybersecurity role",
+            "accronym": ""
+        },
+        {
+            "id": 10164,
+            "name": "asset inventory accuracy",
+            "accronym": ""
+        },
+        {
+            "id": 10165,
+            "name": "asset management visibility",
+            "accronym": ""
+        },
+        {
+            "id": 10166,
+            "name": "asset decommissioning",
+            "accronym": ""
+        },
+        {
+            "id": 10167,
+            "name": "data security",
+            "accronym": ""
+        },
+        {
+            "id": 10168,
+            "name": "external dependencies management",
+            "accronym": ""
+        },
+        {
+            "id": 10169,
+            "name": "resource classification",
+            "accronym": ""
+        },
+        {
+            "id": 10170,
+            "name": "asset association",
+            "accronym": ""
+        },
+        {
+            "id": 10171,
+            "name": "supply chain transparency",
+            "accronym": ""
+        },
+        {
+            "id": 10172,
+            "name": "vendor risk assessments",
+            "accronym": ""
+        },
+        {
+            "id": 10173,
+            "name": "security requirements",
+            "accronym": ""
+        },
+        {
+            "id": 10174,
+            "name": "suppliers",
+            "accronym": ""
+        },
+        {
+            "id": 10176,
+            "name": "party security performance",
+            "accronym": ""
+        },
+        {
+            "id": 10179,
+            "name": "cybersecurity standards",
+            "accronym": ""
+        },
+        {
+            "id": 10180,
+            "name": "cybersecurity activities",
+            "accronym": ""
+        },
+        {
+            "id": 10181,
+            "name": "resilience frameworks",
+            "accronym": ""
+        },
+        {
+            "id": 10182,
+            "name": "supply chain risk",
+            "accronym": ""
+        },
+        {
+            "id": 10183,
+            "name": "asset management",
+            "accronym": ""
+        },
+        {
+            "id": 10184,
+            "name": "cross - organizational communication",
+            "accronym": ""
+        },
+        {
+            "id": 10186,
+            "name": "identity verification methods",
+            "accronym": ""
+        },
+        {
+            "id": 10190,
+            "name": "cloud security enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10191,
+            "name": "continuous security monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10192,
+            "name": "robust encryption standards",
+            "accronym": ""
+        },
+        {
+            "id": 10193,
+            "name": "party security",
+            "accronym": ""
+        },
+        {
+            "id": 10195,
+            "name": "strategy integration",
+            "accronym": ""
+        },
+        {
+            "id": 10197,
+            "name": "comprehensive cyber incident preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10198,
+            "name": "cloud security strategy",
+            "accronym": ""
+        },
+        {
+            "id": 10199,
+            "name": "systematic security control reviews",
+            "accronym": ""
+        },
+        {
+            "id": 10200,
+            "name": "advanced endpoint detection",
+            "accronym": ""
+        },
+        {
+            "id": 10201,
+            "name": "privacy considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10204,
+            "name": "comprehensive security awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10205,
+            "name": "strategic cybersecurity investment",
+            "accronym": ""
+        },
+        {
+            "id": 10206,
+            "name": "cloud security",
+            "accronym": ""
+        },
+        {
+            "id": 10207,
+            "name": "project management",
+            "accronym": ""
+        },
+        {
+            "id": 10208,
+            "name": "trust architecture",
+            "accronym": ""
+        },
+        {
+            "id": 10209,
+            "name": "access management iam",
+            "accronym": ""
+        },
+        {
+            "id": 10211,
+            "name": "cloud security emphasis",
+            "accronym": ""
+        },
+        {
+            "id": 10212,
+            "name": "incident detection",
+            "accronym": ""
+        },
+        {
+            "id": 10213,
+            "name": "access management",
+            "accronym": ""
+        },
+        {
+            "id": 10215,
+            "name": "regular update",
+            "accronym": ""
+        },
+        {
+            "id": 10216,
+            "name": "cloud services security considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10217,
+            "name": "systematic risk assessments",
+            "accronym": ""
+        },
+        {
+            "id": 10218,
+            "name": "adaptive security",
+            "accronym": ""
+        },
+        {
+            "id": 10219,
+            "name": "party vendor assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10221,
+            "name": "proactive vulnerability management",
+            "accronym": ""
+        },
+        {
+            "id": 10222,
+            "name": "incident coordination",
+            "accronym": ""
+        },
+        {
+            "id": 10223,
+            "name": "systemic risk identification",
+            "accronym": ""
+        },
+        {
+            "id": 10224,
+            "name": "stakeholder engagement enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10225,
+            "name": "customizable framework application",
+            "accronym": ""
+        },
+        {
+            "id": 10227,
+            "name": "virtual asset inventory",
+            "accronym": ""
+        },
+        {
+            "id": 10228,
+            "name": "lifecycle management",
+            "accronym": ""
+        },
+        {
+            "id": 10229,
+            "name": "asset prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10230,
+            "name": "party service asset management",
+            "accronym": ""
+        },
+        {
+            "id": 10231,
+            "name": "asset discovery",
+            "accronym": ""
+        },
+        {
+            "id": 10232,
+            "name": "organizational risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10235,
+            "name": "business impact",
+            "accronym": ""
+        },
+        {
+            "id": 10237,
+            "name": "asset classification",
+            "accronym": ""
+        },
+        {
+            "id": 10238,
+            "name": "software inventory management",
+            "accronym": ""
+        },
+        {
+            "id": 10239,
+            "name": "iot",
+            "accronym": ""
+        },
+        {
+            "id": 10240,
+            "name": "external information system",
+            "accronym": ""
+        },
+        {
+            "id": 10241,
+            "name": "mobile considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10243,
+            "name": "security orchestration automation",
+            "accronym": ""
+        },
+        {
+            "id": 10244,
+            "name": "security information management",
+            "accronym": ""
+        },
+        {
+            "id": 10245,
+            "name": "cybersecurity training",
+            "accronym": ""
+        },
+        {
+            "id": 10246,
+            "name": "risk assessment integration",
+            "accronym": ""
+        },
+        {
+            "id": 10247,
+            "name": "external information system inventory",
+            "accronym": ""
+        },
+        {
+            "id": 10248,
+            "name": "entity behavior analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10249,
+            "name": "hardware approvals",
+            "accronym": ""
+        },
+        {
+            "id": 10250,
+            "name": "response soar",
+            "accronym": ""
+        },
+        {
+            "id": 10251,
+            "name": "asset decommissioning procedures",
+            "accronym": ""
+        },
+        {
+            "id": 10252,
+            "name": "software assets",
+            "accronym": ""
+        },
+        {
+            "id": 10253,
+            "name": "lifecycle management emphasis",
+            "accronym": ""
+        },
+        {
+            "id": 10254,
+            "name": "asset risk assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10255,
+            "name": "inventory accuracy",
+            "accronym": ""
+        },
+        {
+            "id": 10256,
+            "name": "physical systems",
+            "accronym": ""
+        },
+        {
+            "id": 10260,
+            "name": "asset management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10261,
+            "name": "dynamic asset categorization",
+            "accronym": ""
+        },
+        {
+            "id": 10262,
+            "name": "configuration management",
+            "accronym": ""
+        },
+        {
+            "id": 10263,
+            "name": "information systems",
+            "accronym": ""
+        },
+        {
+            "id": 10264,
+            "name": "vulnerability identification",
+            "accronym": ""
+        },
+        {
+            "id": 10265,
+            "name": "party services management",
+            "accronym": ""
+        },
+        {
+            "id": 10267,
+            "name": "asset management automation",
+            "accronym": ""
+        },
+        {
+            "id": 10268,
+            "name": "comprehensive asset inventory",
+            "accronym": ""
+        },
+        {
+            "id": 10269,
+            "name": "external asset management",
+            "accronym": ""
+        },
+        {
+            "id": 10272,
+            "name": "asset vulnerability management",
+            "accronym": ""
+        },
+        {
+            "id": 10273,
+            "name": "lifecycle management integration",
+            "accronym": ""
+        },
+        {
+            "id": 10274,
+            "name": "things iot security",
+            "accronym": ""
+        },
+        {
+            "id": 10275,
+            "name": "comprehensive software inventory",
+            "accronym": ""
+        },
+        {
+            "id": 10276,
+            "name": "secure configuration management",
+            "accronym": ""
+        },
+        {
+            "id": 10277,
+            "name": "disposal policies",
+            "accronym": ""
+        },
+        {
+            "id": 10279,
+            "name": "risk assessment expansion",
+            "accronym": ""
+        },
+        {
+            "id": 10280,
+            "name": "asset vulnerability identification",
+            "accronym": ""
+        },
+        {
+            "id": 10281,
+            "name": "regulatory compliance considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10283,
+            "name": "vulnerability management lifecycle",
+            "accronym": ""
+        },
+        {
+            "id": 10284,
+            "name": "geopolitical risk awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10285,
+            "name": "quantitative risk analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10288,
+            "name": "privacy impact",
+            "accronym": ""
+        },
+        {
+            "id": 10289,
+            "name": "comprehensive threat intelligence",
+            "accronym": ""
+        },
+        {
+            "id": 10290,
+            "name": "qualitative risk analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10291,
+            "name": "risk assessment frequency",
+            "accronym": ""
+        },
+        {
+            "id": 10292,
+            "name": "organizational changes",
+            "accronym": ""
+        },
+        {
+            "id": 10295,
+            "name": "continuous risk assessment cycle",
+            "accronym": ""
+        },
+        {
+            "id": 10296,
+            "name": "risk frameworks",
+            "accronym": ""
+        },
+        {
+            "id": 10297,
+            "name": "advanced vulnerability management",
+            "accronym": ""
+        },
+        {
+            "id": 10298,
+            "name": "risk reporting",
+            "accronym": ""
+        },
+        {
+            "id": 10299,
+            "name": "dynamic threat",
+            "accronym": ""
+        },
+        {
+            "id": 10300,
+            "name": "regulatory compliance integration",
+            "accronym": ""
+        },
+        {
+            "id": 10302,
+            "name": "risk management frameworks",
+            "accronym": ""
+        },
+        {
+            "id": 10303,
+            "name": "quantitative risk analysis techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10304,
+            "name": "privacy risk considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10305,
+            "name": "risk appetite",
+            "accronym": ""
+        },
+        {
+            "id": 10308,
+            "name": "risk assessment automation",
+            "accronym": ""
+        },
+        {
+            "id": 10309,
+            "name": "collaborative security framework",
+            "accronym": ""
+        },
+        {
+            "id": 10310,
+            "name": "cyber resilience",
+            "accronym": ""
+        },
+        {
+            "id": 10311,
+            "name": "threat intelligence utilization",
+            "accronym": ""
+        },
+        {
+            "id": 10312,
+            "name": "regulatory compliance consideration",
+            "accronym": ""
+        },
+        {
+            "id": 10313,
+            "name": "impact analysis enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10314,
+            "name": "risk appetite alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10315,
+            "name": "incident response plan integration",
+            "accronym": ""
+        },
+        {
+            "id": 10316,
+            "name": "supply chain security considerations",
+            "accronym": ""
+        },
+        {
+            "id": 10317,
+            "name": "regular cybersecurity training",
+            "accronym": ""
+        },
+        {
+            "id": 10318,
+            "name": "risk assessment documentation",
+            "accronym": ""
+        },
+        {
+            "id": 10319,
+            "name": "comprehensive monitoring strategy",
+            "accronym": ""
+        },
+        {
+            "id": 10320,
+            "name": "collaborative incident analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10321,
+            "name": "advanced predictive capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10322,
+            "name": "regulatory compliance alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10323,
+            "name": "incident response preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10324,
+            "name": "advanced incident response",
+            "accronym": ""
+        },
+        {
+            "id": 10325,
+            "name": "data confidentiality",
+            "accronym": ""
+        },
+        {
+            "id": 10326,
+            "name": "segmentation policies",
+            "accronym": ""
+        },
+        {
+            "id": 10327,
+            "name": "secure access",
+            "accronym": ""
+        },
+        {
+            "id": 10328,
+            "name": "access authorization procedures",
+            "accronym": ""
+        },
+        {
+            "id": 10329,
+            "name": "access control policies",
+            "accronym": ""
+        },
+        {
+            "id": 10330,
+            "name": "access provisioning",
+            "accronym": ""
+        },
+        {
+            "id": 10331,
+            "name": "secure credential management",
+            "accronym": ""
+        },
+        {
+            "id": 10332,
+            "name": "data protection measures",
+            "accronym": ""
+        },
+        {
+            "id": 10333,
+            "name": "regular access reviews",
+            "accronym": ""
+        },
+        {
+            "id": 10334,
+            "name": "user identity verification",
+            "accronym": ""
+        },
+        {
+            "id": 10336,
+            "name": "secure authentication protocols",
+            "accronym": ""
+        },
+        {
+            "id": 10337,
+            "name": "contextual access control",
+            "accronym": ""
+        },
+        {
+            "id": 10338,
+            "name": "user behavior analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10339,
+            "name": "least privilege access",
+            "accronym": ""
+        },
+        {
+            "id": 10340,
+            "name": "time access",
+            "accronym": ""
+        },
+        {
+            "id": 10345,
+            "name": "access control procedures",
+            "accronym": ""
+        },
+        {
+            "id": 10346,
+            "name": "access control automation",
+            "accronym": ""
+        },
+        {
+            "id": 10347,
+            "name": "privileged user management",
+            "accronym": ""
+        },
+        {
+            "id": 10348,
+            "name": "user authentication enhancements",
+            "accronym": ""
+        },
+        {
+            "id": 10349,
+            "name": "account management",
+            "accronym": ""
+        },
+        {
+            "id": 10350,
+            "name": "access decommissioning",
+            "accronym": ""
+        },
+        {
+            "id": 10351,
+            "name": "secure remote access",
+            "accronym": ""
+        },
+        {
+            "id": 10352,
+            "name": "access activities",
+            "accronym": ""
+        },
+        {
+            "id": 10353,
+            "name": "identity management systems",
+            "accronym": ""
+        },
+        {
+            "id": 10354,
+            "name": "cloud access security",
+            "accronym": ""
+        },
+        {
+            "id": 10355,
+            "name": "advanced identity verification",
+            "accronym": ""
+        },
+        {
+            "id": 10356,
+            "name": "access anomaly detection",
+            "accronym": ""
+        },
+        {
+            "id": 10357,
+            "name": "access authorization",
+            "accronym": ""
+        },
+        {
+            "id": 10358,
+            "name": "policy enforcement",
+            "accronym": ""
+        },
+        {
+            "id": 10359,
+            "name": "periodic access reviews",
+            "accronym": ""
+        },
+        {
+            "id": 10360,
+            "name": "remote access management",
+            "accronym": ""
+        },
+        {
+            "id": 10361,
+            "name": "comprehensive access control policies",
+            "accronym": ""
+        },
+        {
+            "id": 10362,
+            "name": "privileged account management",
+            "accronym": ""
+        },
+        {
+            "id": 10363,
+            "name": "identity verification processes",
+            "accronym": ""
+        },
+        {
+            "id": 10364,
+            "name": "user access review",
+            "accronym": ""
+        },
+        {
+            "id": 10365,
+            "name": "information flow enforcement",
+            "accronym": ""
+        },
+        {
+            "id": 10366,
+            "name": "service idaas",
+            "accronym": ""
+        },
+        {
+            "id": 10367,
+            "name": "mobile devices",
+            "accronym": ""
+        },
+        {
+            "id": 10368,
+            "name": "network segmentation",
+            "accronym": ""
+        },
+        {
+            "id": 10369,
+            "name": "backups",
+            "accronym": ""
+        },
+        {
+            "id": 10370,
+            "name": "data recovery capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10371,
+            "name": "version control",
+            "accronym": ""
+        },
+        {
+            "id": 10372,
+            "name": "rapid recovery objectives",
+            "accronym": ""
+        },
+        {
+            "id": 10374,
+            "name": "remote networks",
+            "accronym": ""
+        },
+        {
+            "id": 10375,
+            "name": "user activity",
+            "accronym": ""
+        },
+        {
+            "id": 10376,
+            "name": "external parties",
+            "accronym": ""
+        },
+        {
+            "id": 10377,
+            "name": "geographical diversity",
+            "accronym": ""
+        },
+        {
+            "id": 10378,
+            "name": "security culture building",
+            "accronym": ""
+        },
+        {
+            "id": 10379,
+            "name": "cybersecurity policies",
+            "accronym": ""
+        },
+        {
+            "id": 10380,
+            "name": "secure software development training",
+            "accronym": ""
+        },
+        {
+            "id": 10381,
+            "name": "data protection education",
+            "accronym": ""
+        },
+        {
+            "id": 10382,
+            "name": "comprehensive awareness training",
+            "accronym": ""
+        },
+        {
+            "id": 10383,
+            "name": "threats briefing",
+            "accronym": ""
+        },
+        {
+            "id": 10384,
+            "name": "security champions program",
+            "accronym": ""
+        },
+        {
+            "id": 10385,
+            "name": "incident response team",
+            "accronym": ""
+        },
+        {
+            "id": 10386,
+            "name": "training effectiveness",
+            "accronym": ""
+        },
+        {
+            "id": 10387,
+            "name": "content refinement",
+            "accronym": ""
+        },
+        {
+            "id": 10388,
+            "name": "comprehensive security awareness training",
+            "accronym": ""
+        },
+        {
+            "id": 10389,
+            "name": "attack scenarios",
+            "accronym": ""
+        },
+        {
+            "id": 10390,
+            "name": "continuous education programs",
+            "accronym": ""
+        },
+        {
+            "id": 10391,
+            "name": "secure software development practices",
+            "accronym": ""
+        },
+        {
+            "id": 10392,
+            "name": "cross - functional team",
+            "accronym": ""
+        },
+        {
+            "id": 10394,
+            "name": "personal devices",
+            "accronym": ""
+        },
+        {
+            "id": 10396,
+            "name": "data sovereignty compliance",
+            "accronym": ""
+        },
+        {
+            "id": 10397,
+            "name": "data breaches",
+            "accronym": ""
+        },
+        {
+            "id": 10398,
+            "name": "data loss prevention strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10399,
+            "name": "geographic data transfer compliance",
+            "accronym": ""
+        },
+        {
+            "id": 10400,
+            "name": "data lifecycle management",
+            "accronym": ""
+        },
+        {
+            "id": 10401,
+            "name": "public key infrastructure pki",
+            "accronym": ""
+        },
+        {
+            "id": 10402,
+            "name": "privacy impact assessments",
+            "accronym": ""
+        },
+        {
+            "id": 10403,
+            "name": "global standards alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10404,
+            "name": "incident response plans",
+            "accronym": ""
+        },
+        {
+            "id": 10406,
+            "name": "regular data classification",
+            "accronym": ""
+        },
+        {
+            "id": 10407,
+            "name": "data integrity protection mechanisms",
+            "accronym": ""
+        },
+        {
+            "id": 10408,
+            "name": "data loss prevention",
+            "accronym": ""
+        },
+        {
+            "id": 10409,
+            "name": "secure data disposal",
+            "accronym": ""
+        },
+        {
+            "id": 10410,
+            "name": "data retention policies",
+            "accronym": ""
+        },
+        {
+            "id": 10411,
+            "name": "secure data transfer protocols",
+            "accronym": ""
+        },
+        {
+            "id": 10412,
+            "name": "data masking",
+            "accronym": ""
+        },
+        {
+            "id": 10413,
+            "name": "data backup",
+            "accronym": ""
+        },
+        {
+            "id": 10414,
+            "name": "anonymization",
+            "accronym": ""
+        },
+        {
+            "id": 10415,
+            "name": "business continuity",
+            "accronym": ""
+        },
+        {
+            "id": 10416,
+            "name": "dlp technologies",
+            "accronym": ""
+        },
+        {
+            "id": 10417,
+            "name": "supply chain data security",
+            "accronym": ""
+        },
+        {
+            "id": 10418,
+            "name": "data protection approaches",
+            "accronym": ""
+        },
+        {
+            "id": 10419,
+            "name": "public cloud data security",
+            "accronym": ""
+        },
+        {
+            "id": 10420,
+            "name": "data governance framework",
+            "accronym": ""
+        },
+        {
+            "id": 10421,
+            "name": "advanced threat protection",
+            "accronym": ""
+        },
+        {
+            "id": 10423,
+            "name": "Artificial Intelligence",
+            "accronym": "ai"
+        },
+        {
+            "id": 10424,
+            "name": "data integrity protection",
+            "accronym": ""
+        },
+        {
+            "id": 10425,
+            "name": "secure data destruction",
+            "accronym": ""
+        },
+        {
+            "id": 10426,
+            "name": "regular data integrity audits",
+            "accronym": ""
+        },
+        {
+            "id": 10427,
+            "name": "access control",
+            "accronym": ""
+        },
+        {
+            "id": 10428,
+            "name": "advanced encryption techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10429,
+            "name": "authorization",
+            "accronym": ""
+        },
+        {
+            "id": 10430,
+            "name": "data minimization principles",
+            "accronym": ""
+        },
+        {
+            "id": 10433,
+            "name": "personnel security policies",
+            "accronym": ""
+        },
+        {
+            "id": 10434,
+            "name": "information protection processes",
+            "accronym": ""
+        },
+        {
+            "id": 10435,
+            "name": "vendor risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10436,
+            "name": "insider threat mitigation strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10437,
+            "name": "secure development lifecycle integration",
+            "accronym": ""
+        },
+        {
+            "id": 10438,
+            "name": "access control implementation",
+            "accronym": ""
+        },
+        {
+            "id": 10439,
+            "name": "comprehensive background verification",
+            "accronym": ""
+        },
+        {
+            "id": 10440,
+            "name": "insider threat programs",
+            "accronym": ""
+        },
+        {
+            "id": 10441,
+            "name": "security role definition",
+            "accronym": ""
+        },
+        {
+            "id": 10442,
+            "name": "physical security measures",
+            "accronym": ""
+        },
+        {
+            "id": 10443,
+            "name": "role sensitivity",
+            "accronym": ""
+        },
+        {
+            "id": 10444,
+            "name": "hr practices",
+            "accronym": ""
+        },
+        {
+            "id": 10445,
+            "name": "party risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10446,
+            "name": "screening prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10447,
+            "name": "termination process security",
+            "accronym": ""
+        },
+        {
+            "id": 10448,
+            "name": "background checks",
+            "accronym": ""
+        },
+        {
+            "id": 10449,
+            "name": "workforce security awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10450,
+            "name": "physical security integration",
+            "accronym": ""
+        },
+        {
+            "id": 10451,
+            "name": "secure development lifecycle",
+            "accronym": ""
+        },
+        {
+            "id": 10452,
+            "name": "data protection policies",
+            "accronym": ""
+        },
+        {
+            "id": 10453,
+            "name": "regular security assessments",
+            "accronym": ""
+        },
+        {
+            "id": 10454,
+            "name": "access control measures",
+            "accronym": ""
+        },
+        {
+            "id": 10455,
+            "name": "party vendor risk management",
+            "accronym": ""
+        },
+        {
+            "id": 10456,
+            "name": "advanced encryption standards",
+            "accronym": ""
+        },
+        {
+            "id": 10457,
+            "name": "non - traditional environments",
+            "accronym": ""
+        },
+        {
+            "id": 10458,
+            "name": "comprehensive personnel security",
+            "accronym": ""
+        },
+        {
+            "id": 10459,
+            "name": "security training",
+            "accronym": ""
+        },
+        {
+            "id": 10460,
+            "name": "privacy coordination",
+            "accronym": ""
+        },
+        {
+            "id": 10461,
+            "name": "policy development",
+            "accronym": ""
+        },
+        {
+            "id": 10463,
+            "name": "cross - domain security collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10464,
+            "name": "comprehensive cyber hygiene practices",
+            "accronym": ""
+        },
+        {
+            "id": 10465,
+            "name": "supply chain risk management expansion",
+            "accronym": ""
+        },
+        {
+            "id": 10466,
+            "name": "advanced identity verification techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10467,
+            "name": "artificial intelligence",
+            "accronym": ""
+        },
+        {
+            "id": 10468,
+            "name": "global regulatory alignment",
+            "accronym": ""
+        },
+        {
+            "id": 10470,
+            "name": "cloud security posture management",
+            "accronym": ""
+        },
+        {
+            "id": 10471,
+            "name": "incident response automation",
+            "accronym": ""
+        },
+        {
+            "id": 10472,
+            "name": "data privacy protections",
+            "accronym": ""
+        },
+        {
+            "id": 10473,
+            "name": "endpoint detection",
+            "accronym": ""
+        },
+        {
+            "id": 10474,
+            "name": "proactive incident planning",
+            "accronym": ""
+        },
+        {
+            "id": 10475,
+            "name": "cyber resilience integration",
+            "accronym": ""
+        },
+        {
+            "id": 10476,
+            "name": "security alerts",
+            "accronym": ""
+        },
+        {
+            "id": 10477,
+            "name": "agile response playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10478,
+            "name": "authorization techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10479,
+            "name": "forensic capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10480,
+            "name": "cross - departmental collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10482,
+            "name": "incident management",
+            "accronym": ""
+        },
+        {
+            "id": 10484,
+            "name": "comprehensive impact assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10485,
+            "name": "comprehensive incident response plan",
+            "accronym": ""
+        },
+        {
+            "id": 10486,
+            "name": "stakeholder training",
+            "accronym": ""
+        },
+        {
+            "id": 10487,
+            "name": "regular simulation exercises",
+            "accronym": ""
+        },
+        {
+            "id": 10488,
+            "name": "communication protocols",
+            "accronym": ""
+        },
+        {
+            "id": 10489,
+            "name": "log aggregation",
+            "accronym": ""
+        },
+        {
+            "id": 10490,
+            "name": "continuous learning",
+            "accronym": ""
+        },
+        {
+            "id": 10491,
+            "name": "comprehensive incident preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10492,
+            "name": "incident response playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10493,
+            "name": "proactive threat intelligence sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10494,
+            "name": "data protection strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10495,
+            "name": "ddos attacks",
+            "accronym": ""
+        },
+        {
+            "id": 10496,
+            "name": "log management",
+            "accronym": ""
+        },
+        {
+            "id": 10497,
+            "name": "forensic capabilities enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10498,
+            "name": "detection processes",
+            "accronym": ""
+        },
+        {
+            "id": 10499,
+            "name": "network traffic analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10500,
+            "name": "advanced persistent threats identification",
+            "accronym": ""
+        },
+        {
+            "id": 10501,
+            "name": "cloud security monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10502,
+            "name": "collaborative incident response",
+            "accronym": ""
+        },
+        {
+            "id": 10503,
+            "name": "security information",
+            "accronym": ""
+        },
+        {
+            "id": 10504,
+            "name": "configurable alert thresholds",
+            "accronym": ""
+        },
+        {
+            "id": 10505,
+            "name": "forensic data preservation",
+            "accronym": ""
+        },
+        {
+            "id": 10507,
+            "name": "advanced persistent threat",
+            "accronym": ""
+        },
+        {
+            "id": 10508,
+            "name": "incident data sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10509,
+            "name": "custom detection algorithm development",
+            "accronym": ""
+        },
+        {
+            "id": 10510,
+            "name": "hybrid environment",
+            "accronym": ""
+        },
+        {
+            "id": 10514,
+            "name": "cross - domain security event correlation",
+            "accronym": ""
+        },
+        {
+            "id": 10515,
+            "name": "multi - factor anomaly detection",
+            "accronym": ""
+        },
+        {
+            "id": 10516,
+            "name": "incident response plan",
+            "accronym": ""
+        },
+        {
+            "id": 10517,
+            "name": "apt detection",
+            "accronym": ""
+        },
+        {
+            "id": 10518,
+            "name": "vulnerability detection integration",
+            "accronym": ""
+        },
+        {
+            "id": 10519,
+            "name": "forensic analysis support",
+            "accronym": ""
+        },
+        {
+            "id": 10520,
+            "name": "entity behavior analysis ueba",
+            "accronym": ""
+        },
+        {
+            "id": 10521,
+            "name": "intelligence feeds",
+            "accronym": ""
+        },
+        {
+            "id": 10522,
+            "name": "cloud environment",
+            "accronym": ""
+        },
+        {
+            "id": 10523,
+            "name": "incident correlation",
+            "accronym": ""
+        },
+        {
+            "id": 10524,
+            "name": "detection criteria",
+            "accronym": ""
+        },
+        {
+            "id": 10526,
+            "name": "aware security analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10527,
+            "name": "supply chain security monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10528,
+            "name": "advanced anomaly detection techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10529,
+            "name": "incident response capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10530,
+            "name": "trust integration",
+            "accronym": ""
+        },
+        {
+            "id": 10531,
+            "name": "end data lifecycle security",
+            "accronym": ""
+        },
+        {
+            "id": 10532,
+            "name": "incident simulation",
+            "accronym": ""
+        },
+        {
+            "id": 10534,
+            "name": "time threat intelligence integration",
+            "accronym": ""
+        },
+        {
+            "id": 10535,
+            "name": "detection tools",
+            "accronym": ""
+        },
+        {
+            "id": 10536,
+            "name": "custom detection playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10537,
+            "name": "incident prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10538,
+            "name": "security controls",
+            "accronym": ""
+        },
+        {
+            "id": 10539,
+            "name": "comprehensive log management",
+            "accronym": ""
+        },
+        {
+            "id": 10540,
+            "name": "machine learning",
+            "accronym": ""
+        },
+        {
+            "id": 10542,
+            "name": "collaborative threat defense",
+            "accronym": ""
+        },
+        {
+            "id": 10543,
+            "name": "incident classification",
+            "accronym": ""
+        },
+        {
+            "id": 10544,
+            "name": "detection capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10545,
+            "name": "proactive hunting",
+            "accronym": ""
+        },
+        {
+            "id": 10546,
+            "name": "contextual analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10548,
+            "name": "incident impact assessment",
+            "accronym": ""
+        },
+        {
+            "id": 10549,
+            "name": "incident analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10550,
+            "name": "collaborative event investigation",
+            "accronym": ""
+        },
+        {
+            "id": 10551,
+            "name": "event correlation techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10552,
+            "name": "alert prioritization",
+            "accronym": ""
+        },
+        {
+            "id": 10553,
+            "name": "cross - domain detection capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10556,
+            "name": "security orchestration",
+            "accronym": ""
+        },
+        {
+            "id": 10557,
+            "name": "event correlation",
+            "accronym": ""
+        },
+        {
+            "id": 10558,
+            "name": "cross - platform security visibility",
+            "accronym": ""
+        },
+        {
+            "id": 10561,
+            "name": "Security Information and Event Management",
+            "accronym": "siem"
+        },
+        {
+            "id": 10562,
+            "name": "cross - platform detection capabilities",
+            "accronym": ""
+        },
+        {
+            "id": 10563,
+            "name": "proactive detection strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10564,
+            "name": "adaptive detection technologies",
+            "accronym": ""
+        },
+        {
+            "id": 10565,
+            "name": "holistic incident analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10566,
+            "name": "sophisticated analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10567,
+            "name": "comprehensive coverage",
+            "accronym": ""
+        },
+        {
+            "id": 10568,
+            "name": "comprehensive incident analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10569,
+            "name": "apt preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10570,
+            "name": "adaptive response protocols",
+            "accronym": ""
+        },
+        {
+            "id": 10571,
+            "name": "recovery planning",
+            "accronym": ""
+        },
+        {
+            "id": 10572,
+            "name": "private sector collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10573,
+            "name": "incident response integration",
+            "accronym": ""
+        },
+        {
+            "id": 10574,
+            "name": "security automation",
+            "accronym": ""
+        },
+        {
+            "id": 10575,
+            "name": "aware security alerts",
+            "accronym": ""
+        },
+        {
+            "id": 10576,
+            "name": "event management siem system optimization",
+            "accronym": ""
+        },
+        {
+            "id": 10577,
+            "name": "incident root",
+            "accronym": ""
+        },
+        {
+            "id": 10578,
+            "name": "incident trend analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10579,
+            "name": "comprehensive monitoring",
+            "accronym": ""
+        },
+        {
+            "id": 10580,
+            "name": "alert triage",
+            "accronym": ""
+        },
+        {
+            "id": 10581,
+            "name": "dynamic playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10582,
+            "name": "incident analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10583,
+            "name": "comprehensive incident management plan",
+            "accronym": ""
+        },
+        {
+            "id": 10584,
+            "name": "incident response teams",
+            "accronym": ""
+        },
+        {
+            "id": 10585,
+            "name": "time incident reporting",
+            "accronym": ""
+        },
+        {
+            "id": 10586,
+            "name": "forensic preparedness",
+            "accronym": ""
+        },
+        {
+            "id": 10587,
+            "name": "user behavior analytics uba",
+            "accronym": ""
+        },
+        {
+            "id": 10588,
+            "name": "advanced monitoring strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10589,
+            "name": "collaborative information",
+            "accronym": ""
+        },
+        {
+            "id": 10590,
+            "name": "compliance requirements",
+            "accronym": ""
+        },
+        {
+            "id": 10591,
+            "name": "cyber hygiene education",
+            "accronym": ""
+        },
+        {
+            "id": 10592,
+            "name": "cross - functional team collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10593,
+            "name": "recovery integration",
+            "accronym": ""
+        },
+        {
+            "id": 10594,
+            "name": "continual improvement process",
+            "accronym": ""
+        },
+        {
+            "id": 10595,
+            "name": "comprehensive response",
+            "accronym": ""
+        },
+        {
+            "id": 10596,
+            "name": "customizable playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10597,
+            "name": "comprehensive event log management",
+            "accronym": ""
+        },
+        {
+            "id": 10598,
+            "name": "analysis tools",
+            "accronym": ""
+        },
+        {
+            "id": 10599,
+            "name": "cross - team collaboration",
+            "accronym": ""
+        },
+        {
+            "id": 10600,
+            "name": "data analytics",
+            "accronym": ""
+        },
+        {
+            "id": 10601,
+            "name": "cross - platform correlation",
+            "accronym": ""
+        },
+        {
+            "id": 10602,
+            "name": "integrative security orchestration",
+            "accronym": ""
+        },
+        {
+            "id": 10603,
+            "name": "adaptive threat identification",
+            "accronym": ""
+        },
+        {
+            "id": 10604,
+            "name": "forensic readiness",
+            "accronym": ""
+        },
+        {
+            "id": 10606,
+            "name": "cross - domain data fusion",
+            "accronym": ""
+        },
+        {
+            "id": 10607,
+            "name": "hybrid environment support",
+            "accronym": ""
+        },
+        {
+            "id": 10610,
+            "name": "response plan",
+            "accronym": ""
+        },
+        {
+            "id": 10611,
+            "name": "knowledge management",
+            "accronym": ""
+        },
+        {
+            "id": 10612,
+            "name": "post - incident activity review",
+            "accronym": ""
+        },
+        {
+            "id": 10613,
+            "name": "user awareness",
+            "accronym": ""
+        },
+        {
+            "id": 10614,
+            "name": "timely information sharing",
+            "accronym": ""
+        },
+        {
+            "id": 10616,
+            "name": "forensic techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10617,
+            "name": "continuous improvement loop",
+            "accronym": ""
+        },
+        {
+            "id": 10618,
+            "name": "cyber incident recovery planning",
+            "accronym": ""
+        },
+        {
+            "id": 10619,
+            "name": "comprehensive incident documentation",
+            "accronym": ""
+        },
+        {
+            "id": 10620,
+            "name": "collaboration platforms",
+            "accronym": ""
+        },
+        {
+            "id": 10621,
+            "name": "advanced correlation techniques",
+            "accronym": ""
+        },
+        {
+            "id": 10622,
+            "name": "time analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10623,
+            "name": "User and Entity Behavior Analytics",
+            "accronym": "ueba"
+        },
+        {
+            "id": 10624,
+            "name": "forensic analysis integration",
+            "accronym": ""
+        },
+        {
+            "id": 10625,
+            "name": "cross - functional team coordination",
+            "accronym": ""
+        },
+        {
+            "id": 10626,
+            "name": "root cause analysis",
+            "accronym": ""
+        },
+        {
+            "id": 10627,
+            "name": "cybersecurity insurance",
+            "accronym": ""
+        },
+        {
+            "id": 10628,
+            "name": "recovery metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10629,
+            "name": "public relations management",
+            "accronym": ""
+        },
+        {
+            "id": 10631,
+            "name": "crisis communication",
+            "accronym": ""
+        },
+        {
+            "id": 10632,
+            "name": "public relations",
+            "accronym": ""
+        },
+        {
+            "id": 10633,
+            "name": "regular recovery testing",
+            "accronym": ""
+        },
+        {
+            "id": 10634,
+            "name": "action review",
+            "accronym": ""
+        },
+        {
+            "id": 10636,
+            "name": "comprehensive recovery planning",
+            "accronym": ""
+        },
+        {
+            "id": 10637,
+            "name": "cyber insurance integration",
+            "accronym": ""
+        },
+        {
+            "id": 10638,
+            "name": "resilience metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10639,
+            "name": "post - incident review",
+            "accronym": ""
+        },
+        {
+            "id": 10641,
+            "name": "recovery processes",
+            "accronym": ""
+        },
+        {
+            "id": 10642,
+            "name": "cyber incident learnings",
+            "accronym": ""
+        },
+        {
+            "id": 10643,
+            "name": "brand protection",
+            "accronym": ""
+        },
+        {
+            "id": 10644,
+            "name": "external notifications",
+            "accronym": ""
+        },
+        {
+            "id": 10646,
+            "name": "cyber resilience metrics",
+            "accronym": ""
+        },
+        {
+            "id": 10647,
+            "name": "comprehensive communication strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10648,
+            "name": "external standards",
+            "accronym": ""
+        },
+        {
+            "id": 10651,
+            "name": "stakeholder collaboration enhancement",
+            "accronym": ""
+        },
+        {
+            "id": 10652,
+            "name": "impact minimization strategies",
+            "accronym": ""
+        },
+        {
+            "id": 10653,
+            "name": "advanced analytics integration",
+            "accronym": ""
+        },
+        {
+            "id": 10654,
+            "name": "incident communication tools",
+            "accronym": ""
+        },
+        {
+            "id": 10655,
+            "name": "comprehensive communications strategy",
+            "accronym": ""
+        },
+        {
+            "id": 10656,
+            "name": "coordinated disclosure processes",
+            "accronym": ""
+        },
+        {
+            "id": 10657,
+            "name": "communication templates",
+            "accronym": ""
+        },
+        {
+            "id": 10658,
+            "name": "stakeholder requirements",
+            "accronym": ""
+        },
+        {
+            "id": 10659,
+            "name": "regular updates",
+            "accronym": ""
+        },
+        {
+            "id": 10660,
+            "name": "cyber incident playbooks",
+            "accronym": ""
+        },
+        {
+            "id": 10661,
+            "name": "business continuity integration",
+            "accronym": ""
+        },
+        {
+            "id": 10662,
+            "name": "non - technical staff training",
+            "accronym": ""
+        },
+        {
+            "id": 10663,
+            "name": "regulatory reporting compliance",
+            "accronym": ""
+        },
+        {
+            "id": 10664,
+            "name": "response coordination",
+            "accronym": ""
+        }
+    ]
+}

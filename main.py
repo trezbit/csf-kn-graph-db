@@ -62,12 +62,18 @@ def generate_key_concept_graph(params):
     '''Generate CSF key concept nodes and edges in JSON'''
     print("Generate CSF Key Concept Graph - Config:", params)
 
-    process.GraphProcessor().batch_key_concept_extract(params)
+    process.GraphProcessor().build_keyconcept_subgraph(params)
 
     if os.path.exists(kgtypes.NodeType.KEYCONCEPT.modelpath):
         print("Key concept nodes and edges created at:", kgtypes.NodeType.KEYCONCEPT.modelpath)
     
     print("Completed running generate_key_concept_graph.")
+
+def export_key_concept_graph_to_csv(params):
+    '''Export CSF key concept nodes and edges to CSV'''
+    print("Export CSF key concept nodes and edges to CSV - Params:", params)
+    process.GraphProcessor().export_keyconcept_subgraph(params)
+    print("Completed running export_key_concept_graph_to_csv.")
 
 def parse_args():
     '''CLI Argument parser for the application'''
@@ -100,7 +106,7 @@ def parse_args():
     convertgroup3.add_argument('--keyconcept'
                                , help='Generate CSF key concept nodes and edges in JSON with optional parameters'
                                , nargs='?', const='{}', type=str)
-    convertgroup3.add_argument('--dump', help='Dump JSOM CSF nodes and edges to CSV with optional parameters'
+    convertgroup3.add_argument('--tocsv', help='Dump JSON CSF nodes and edges to CSV with optional parameters'
                                , nargs='?', const='{}', type=str)
     csfmod.add_argument('--outdir', help='File written to directory', type=str, required=False)
 
@@ -118,9 +124,9 @@ def run_session (args):
         extract_keyphrase(args.file, args.keyphrase)
     elif (args.command == 'csfmod' and args.keyconcept is not None):
         generate_key_concept_graph(args.keyconcept)
-    elif (args.command == 'csfmod' and args.csv is not None):
+    elif (args.command == 'csfmod' and args.tocsv is not None):
         # csf2csv(args.file, args.txt)
-        print("Graph model build utility not implemented.")
+        export_key_concept_graph_to_csv(args.tocsv)
     elif (args.command == 'tester' and args.neo4j is not None):
         test_neo4j(args.neo4j)
     elif (args.command == 'tester' and args.openai is not None):

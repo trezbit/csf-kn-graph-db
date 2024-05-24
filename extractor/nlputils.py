@@ -5,8 +5,25 @@ import re
 # http://ir.dcs.gla.ac.uk/resources/linguistic_utils/stop_words
 # FROM scikit-learn -- https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/feature_extraction/_stop_words.py
 
-CONCEPT_EXCLUDES = frozenset (
-    ["NIST", "SP", "CSF", "CIS", "ISO", "CRI"]
+STANDARD_EXCLUDES = frozenset (
+    ["NIST", "SP", "CSF", "CIS", "ISO", "CRI", "CSC", "CMMC", "NIST", "GDPR", "HIPAA", "PCI", "DSS"]
+)
+
+ABBREVIATIONS = dict (
+    {"ai": "Artificial Intelligence", "ml": "Machine Learning"
+     , "ueba": "User and Entity Behavior Analytics", "soar": "Security Orchestration Automation Response"
+     , "siem": "Security Information and Event Management", "scrm": "Supply Chain Risk Management"
+     , "c-scrm": "Cyber Supply Chain Risk Management"}
+)
+
+COMMONCONCEPT_EXCLUDES = frozenset(
+    [
+        "user", "context", "automation", "root", "integration", "correlation", "update", "data", "information", "security"
+        , "technologies", "technology", "internet",  "cloud", "role", "response", "identity", "sector", "privacy", "risk"
+        , "control", "management", "policy", "procedure", "compliance", "orchestration", "awareness", "incident", "threat"
+        , "governance", "organization", "service", "system", "network", "access", "asset", "vulnerability", "assessment"
+        , "monitoring", "protection", "detection", "response", "incident"
+    ]
 )
 
 ENGLISH_STOP_WORDS = frozenset(
@@ -346,13 +363,34 @@ def get_base_test(buffer, stopwords=True):
     mbuffer = pre_cleanup(buffer.lower())
 
     #substitute all other non numericals with space to preserve orig text
-    mbuffer = re.sub('[^a-zA-Z\s\n]', ' ', mbuffer)
+    mbuffer = re.sub('[^\-a-zA-Z\s\n]', ' ', mbuffer)
 
     if stopwords:
         mbterms = set(mbuffer.split())
 
-        t2ommit = mbterms.intersection(CONCEPT_EXCLUDES)
+        t2ommit = mbterms.intersection(STANDARD_EXCLUDES)
         #print(end)
         for term in t2ommit:
             mbuffer = re.sub(r"\b%s\b" % term , "", mbuffer)
     return mbuffer
+
+
+def is_common_kgkeyterm(keyphrase, conf, threshold=0.3):
+    '''Check if the keyphrase is a common concept by looking at the common concept excludes and confidence threshold'''
+
+    if keyphrase in COMMONCONCEPT_EXCLUDES or (len(keyphrase.split()) == 1 and conf < threshold):
+        return True
+    return False
+
+def is_or_has_kgaccronym(keyterm):
+    '''Check if the keyphrase is or has an acronym'''
+    if keyterm in ABBREVIATIONS:
+        return True, keyterm, ABBREVIATIONS[keyterm]
+    elif keyterm in ABBREVIATIONS.values():
+        return True, list(ABBREVIATIONS.keys())[list(ABBREVIATIONS.values()).index(keyterm)], keyterm
+    else:
+        return False, "", keyterm
+
+    #unwanted = set(old_dict) - set(your_keys)
+    #for unwanted_key in unwanted: del your_dict[unwanted_key]
+    # return [x for x in keyphrases if x not in COMMONKEY_EXCLUDES]

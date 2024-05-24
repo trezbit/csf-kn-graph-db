@@ -2,6 +2,9 @@
 
 
 import json
+import csv
+
+
 
 
 def load_json_to_dict(arraykey, dictkey, filename):
@@ -19,3 +22,23 @@ def write_dict_to_json(dict, filename):
     with open(filename, 'w') as f:
         json.dump(dict, f, indent=4)
     return
+
+def graph_jsondata_to_csv(arraykey,injson,outcsv):
+    '''Convert JSON data to CSV'''
+    print("Converting JSON data to CSV: ", injson, " to ", outcsv, " array key: ", arraykey)
+    with open(injson) as json_file:
+        jsondata = json.load(json_file)
+
+    data_file = open(outcsv, 'w', newline='')
+    csv_writer = csv.writer(data_file)
+
+    count = 0
+    for data in jsondata[arraykey]:
+        if count == 0:
+            header = data.keys()
+            csv_writer.writerow(header)
+            count += 1
+        csv_writer.writerow(data.values())
+
+    data_file.close()
+

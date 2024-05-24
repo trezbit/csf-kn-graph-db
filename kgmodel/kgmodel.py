@@ -60,12 +60,19 @@ class StandardNode(ModelBase):
 
 class KeyConceptNode(ModelBase):
     # Constructor
-    def __init__(self, id, name, text):
-        self.text = text
-        self.occurrence = 0
+    def __init__(self, id, name):
+        self.accronym = ""
+        self.occurrence = 1
         self.controls = {}
         ModelBase.__init__(self,id, name, NodeType.KEYCONCEPT.label)
     
+    def setAccronym(self, accronym):
+        self.accronym = accronym
+    def getAccronym(self):
+        return self.accronym
+    def incrementOccurrence(self, byamnt=1):
+        self.occurrence += byamnt
+
     def setConceptConfidence(self, controlkey,confidence):
         self.controls[controlkey] = confidence
     def getConceptConfidence(self, controlkey): 

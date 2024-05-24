@@ -1,0 +1,6104 @@
+{
+    "supply chain risk management": {
+        "accronym": "",
+        "occurrence": 29,
+        "controls": {
+            "GV.OC-01": 0.5715,
+            "GV.OC-02": 0.5476,
+            "GV.OC-04": 0.591,
+            "GV.OC-05": 0.5397,
+            "GV.RM-01": 0.6634,
+            "GV.RM-02": 0.599,
+            "GV.RM-04": 0.6442,
+            "GV.RM-06": 0.6512,
+            "GV.RM-07": 0.638,
+            "GV.RR-01": 0.5496,
+            "GV.RR-03": 0.5352,
+            "GV.RR-04": 0.53,
+            "GV.OV-01": 0.523,
+            "GV.OV-02": 0.4888,
+            "GV.SC-03": 0.7341,
+            "GV.SC-05": 0.6544,
+            "GV.SC-07": 0.6252,
+            "ID.AM-02": 0.4361,
+            "ID.AM-08": 0.4132,
+            "ID.RA-01": 0.7551,
+            "ID.RA-02": 0.6365,
+            "ID.RA-03": 0.6117,
+            "ID.RA-04": 0.6366,
+            "ID.RA-05": 0.6137,
+            "ID.RA-06": 0.6447,
+            "ID.RA-07": 0.6496,
+            "ID.RA-09": 0.5472,
+            "PR.PS-06": 0.5127,
+            "RC.RP-06": 0.4229
+        },
+        "id": 10000,
+        "name": "supply chain risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity awareness": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.OC-01": 0.5706,
+            "GV.OV-01": 0.6055,
+            "GV.SC-09": 0.5126,
+            "PR.AT-01": 0.6918,
+            "PR.AT-02": 0.6894,
+            "RS.MA-01": 0.5644
+        },
+        "id": 10001,
+        "name": "cybersecurity awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-01": 0.513,
+            "GV.RM-03": 0.6901
+        },
+        "id": 10002,
+        "name": "governance integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive asset management": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.OC-01": 0.4688,
+            "GV.RM-02": 0.3512,
+            "GV.RM-05": 0.3559,
+            "GV.SC-08": 0.4482,
+            "GV.SC-09": 0.4423,
+            "GV.SC-10": 0.4032
+        },
+        "id": 10003,
+        "name": "comprehensive asset management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber risk quantification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-01": 0.4606
+        },
+        "id": 10004,
+        "name": "cyber risk quantification",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-01": 0.4403
+        },
+        "id": 10005,
+        "name": "identity management",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced threat intelligence sharing": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.OC-01": 0.4212,
+            "GV.SC-10": 0.4553,
+            "PR.IR-01": 0.5198,
+            "PR.IR-02": 0.4549,
+            "RC.RP-03": 0.501
+        },
+        "id": 10006,
+        "name": "advanced threat intelligence sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous improvement process": {
+        "accronym": "",
+        "occurrence": 7,
+        "controls": {
+            "GV.OC-01": 0.3988,
+            "GV.OC-04": 0.3747,
+            "GV.RR-01": 0.4318,
+            "GV.RR-02": 0.3589,
+            "DE.CM-02": 0.2686,
+            "DE.AE-03": 0.3086,
+            "RC.RP-06": 0.3983
+        },
+        "id": 10007,
+        "name": "continuous improvement process",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response": {
+        "accronym": "",
+        "occurrence": 9,
+        "controls": {
+            "GV.OC-01": 0.3496,
+            "GV.OV-01": 0.3443,
+            "GV.SC-07": 0.3165,
+            "GV.SC-09": 0.3448,
+            "PR.PS-01": 0.392,
+            "PR.PS-03": 0.3868,
+            "PR.PS-04": 0.4561,
+            "PR.IR-02": 0.5688,
+            "RS.CO-02": 0.5702
+        },
+        "id": 10008,
+        "name": "incident response",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational communication": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-01": 0.3198,
+            "GV.OC-02": 0.342,
+            "GV.PO-02": 0.3464
+        },
+        "id": 10009,
+        "name": "organizational communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "legal compliance": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-01": 0.2627,
+            "GV.SC-09": 0.2196,
+            "PR.IR-03": 0.2112
+        },
+        "id": 10011,
+        "name": "legal compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote workforce security": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-02": 0.466,
+            "PR.PS-06": 0.5739
+        },
+        "id": 10012,
+        "name": "remote workforce security",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance framework integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-02": 0.4547
+        },
+        "id": 10013,
+        "name": "governance framework integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection prioritization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-02": 0.4254
+        },
+        "id": 10014,
+        "name": "data protection prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "security monitoring": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-02": 0.4217,
+            "GV.SC-08": 0.4413
+        },
+        "id": 10015,
+        "name": "security monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory compliance": {
+        "accronym": "",
+        "occurrence": 20,
+        "controls": {
+            "GV.OC-02": 0.4004,
+            "GV.OC-03": 0.3943,
+            "GV.OC-05": 0.4388,
+            "GV.RM-01": 0.2787,
+            "GV.RM-03": 0.5093,
+            "GV.RR-01": 0.4488,
+            "GV.RR-04": 0.3434,
+            "GV.PO-01": 0.4484,
+            "GV.PO-02": 0.5261,
+            "GV.OV-01": 0.3351,
+            "PR.AT-02": 0.2777,
+            "PR.IR-01": 0.2654,
+            "PR.IR-02": 0.2857,
+            "RS.MA-05": 0.3227,
+            "RS.CO-02": 0.306,
+            "RS.CO-03": 0.3283,
+            "RS.MI-02": 0.3613,
+            "RC.RP-01": 0.2718,
+            "RC.RP-02": 0.4305,
+            "RC.RP-04": 0.3543
+        },
+        "id": 10016,
+        "name": "regulatory compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "business objectives": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-02": 0.3921,
+            "GV.OC-03": 0.4108,
+            "GV.RM-02": 0.3224
+        },
+        "id": 10017,
+        "name": "business objectives",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity verification": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.OC-02": 0.2994,
+            "GV.RM-05": 0.2901,
+            "PR.AA-02": 0.48,
+            "PR.AA-06": 0.2426,
+            "PR.PS-04": 0.3701
+        },
+        "id": 10018,
+        "name": "identity verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "geographic data considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-02": 0.2923
+        },
+        "id": 10019,
+        "name": "geographic data considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience": {
+        "accronym": "",
+        "occurrence": 9,
+        "controls": {
+            "GV.OC-02": 0.2828,
+            "GV.RR-04": 0.4633,
+            "ID.RA-01": 0.2488,
+            "ID.RA-09": 0.2626,
+            "PR.PS-05": 0.325,
+            "PR.IR-04": 0.3163,
+            "RS.MA-05": 0.3567,
+            "RS.MI-02": 0.3848,
+            "RC.RP-01": 0.4198
+        },
+        "id": 10020,
+        "name": "resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "holistic cybersecurity policy development": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-03": 0.612
+        },
+        "id": 10022,
+        "name": "holistic cybersecurity policy development",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk management strategy integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-03": 0.5107
+        },
+        "id": 10023,
+        "name": "risk management strategy integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance structure optimization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-03": 0.451
+        },
+        "id": 10024,
+        "name": "governance structure optimization",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous improvement": {
+        "accronym": "",
+        "occurrence": 15,
+        "controls": {
+            "GV.OC-03": 0.3835,
+            "GV.RM-02": 0.3344,
+            "GV.RM-03": 0.4099,
+            "GV.PO-01": 0.3893,
+            "GV.PO-02": 0.4398,
+            "GV.OV-02": 0.4301,
+            "DE.AE-02": 0.2171,
+            "DE.AE-06": 0.2116,
+            "DE.AE-08": 0.2658,
+            "RS.MA-03": 0.3517,
+            "RS.AN-03": 0.2878,
+            "RC.RP-01": 0.328,
+            "RC.RP-02": 0.4562,
+            "RC.CO-03": 0.3379,
+            "RC.CO-04": 0.4065
+        },
+        "id": 10026,
+        "name": "continuous improvement",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder engagement": {
+        "accronym": "",
+        "occurrence": 7,
+        "controls": {
+            "GV.OC-03": 0.3773,
+            "GV.RM-07": 0.3634,
+            "GV.PO-01": 0.4077,
+            "GV.PO-02": 0.5844,
+            "GV.OV-01": 0.4017,
+            "GV.OV-02": 0.382,
+            "ID.RA-04": 0.3668
+        },
+        "id": 10027,
+        "name": "stakeholder engagement",
+        "typedef": "KEYCONCEPT"
+    },
+    "performance metrics": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.OC-03": 0.3183,
+            "GV.RM-03": 0.2941,
+            "GV.RR-01": 0.3587,
+            "GV.PO-02": 0.3418,
+            "GV.OV-02": 0.2706
+        },
+        "id": 10028,
+        "name": "performance metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity leadership": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-04": 0.6067
+        },
+        "id": 10032,
+        "name": "cybersecurity leadership",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience planning": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.OC-04": 0.5741,
+            "GV.SC-03": 0.3692,
+            "GV.SC-07": 0.3913,
+            "GV.SC-08": 0.389,
+            "GV.SC-10": 0.4772,
+            "RS.CO-03": 0.4259
+        },
+        "id": 10033,
+        "name": "resilience planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced threat intelligence integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-04": 0.4838,
+            "PR.IR-03": 0.568
+        },
+        "id": 10034,
+        "name": "advanced threat intelligence integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive threat": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-04": 0.4355,
+            "DE.CM-06": 0.3558,
+            "RS.AN-06": 0.4446
+        },
+        "id": 10035,
+        "name": "proactive threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive risk assessment models": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-04": 0.4215
+        },
+        "id": 10036,
+        "name": "adaptive risk assessment models",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive asset management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-04": 0.4131,
+            "PR.AA-04": 0.303
+        },
+        "id": 10037,
+        "name": "proactive asset management",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive governance frameworks": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-04": 0.3697,
+            "GV.SC-06": 0.2738
+        },
+        "id": 10038,
+        "name": "adaptive governance frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic alignment": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-04": 0.3393,
+            "GV.RM-07": 0.3632,
+            "GV.PO-01": 0.4691
+        },
+        "id": 10039,
+        "name": "strategic alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder communication": {
+        "accronym": "",
+        "occurrence": 16,
+        "controls": {
+            "GV.OC-04": 0.3102,
+            "GV.OC-05": 0.4811,
+            "GV.RM-02": 0.3278,
+            "GV.RM-06": 0.3278,
+            "GV.RR-01": 0.4225,
+            "GV.RR-04": 0.3797,
+            "GV.OV-03": 0.3853,
+            "ID.RA-05": 0.3133,
+            "ID.RA-06": 0.2954,
+            "ID.RA-07": 0.3967,
+            "ID.RA-10": 0.3045,
+            "RS.MI-02": 0.3803,
+            "RC.RP-01": 0.3822,
+            "RC.RP-02": 0.4438,
+            "RC.RP-03": 0.2435,
+            "RC.RP-04": 0.4227
+        },
+        "id": 10040,
+        "name": "stakeholder communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-04": 0.2914,
+            "GV.RM-07": 0.3256,
+            "GV.SC-01": 0.3543
+        },
+        "id": 10041,
+        "name": "data protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "security awareness": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.OC-05": 0.593,
+            "ID.RA-10": 0.5925,
+            "PR.AA-05": 0.5171,
+            "PR.PS-01": 0.5928
+        },
+        "id": 10042,
+        "name": "security awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous security assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-05": 0.5202
+        },
+        "id": 10043,
+        "name": "continuous security assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic cybersecurity investments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-05": 0.5069
+        },
+        "id": 10044,
+        "name": "strategic cybersecurity investments",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence integration": {
+        "accronym": "",
+        "occurrence": 12,
+        "controls": {
+            "GV.OC-05": 0.4857,
+            "GV.SC-01": 0.5355,
+            "ID.RA-01": 0.4858,
+            "ID.RA-02": 0.5131,
+            "ID.RA-04": 0.61,
+            "ID.RA-05": 0.6163,
+            "ID.RA-06": 0.5849,
+            "PR.AT-02": 0.5294,
+            "PR.PS-06": 0.6071,
+            "DE.CM-01": 0.5825,
+            "RS.MA-02": 0.6582,
+            "RS.MA-03": 0.621
+        },
+        "id": 10045,
+        "name": "threat intelligence integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response coordination": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OC-05": 0.4666,
+            "GV.SC-04": 0.4663,
+            "GV.SC-05": 0.3541
+        },
+        "id": 10046,
+        "name": "incident response coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-05": 0.4255
+        },
+        "id": 10047,
+        "name": "risk assessment alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous improvement mechanism": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OC-05": 0.4226,
+            "RS.MA-01": 0.2984
+        },
+        "id": 10048,
+        "name": "continuous improvement mechanism",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive protection strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-05": 0.4017
+        },
+        "id": 10049,
+        "name": "adaptive protection strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "technology innovation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OC-05": 0.4003
+        },
+        "id": 10050,
+        "name": "technology innovation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive risk management lifecycle": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-01": 0.6553
+        },
+        "id": 10051,
+        "name": "comprehensive risk management lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk management practices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-01": 0.6359
+        },
+        "id": 10052,
+        "name": "risk management practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RM-01": 0.5538,
+            "ID.RA-02": 0.4966
+        },
+        "id": 10053,
+        "name": "risk assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-01": 0.479
+        },
+        "id": 10054,
+        "name": "cybersecurity",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident impact analysis": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.RM-01": 0.3847,
+            "ID.RA-01": 0.4323,
+            "RS.MI-01": 0.6181
+        },
+        "id": 10055,
+        "name": "incident impact analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "business strategy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-01": 0.3643
+        },
+        "id": 10056,
+        "name": "business strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder collaboration": {
+        "accronym": "",
+        "occurrence": 8,
+        "controls": {
+            "GV.RM-01": 0.3639,
+            "GV.RM-03": 0.6331,
+            "GV.RM-04": 0.3447,
+            "ID.RA-01": 0.3445,
+            "ID.RA-03": 0.3573,
+            "RS.CO-03": 0.4087,
+            "RC.RP-05": 0.3947,
+            "RC.CO-04": 0.5643
+        },
+        "id": 10057,
+        "name": "stakeholder collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous monitoring": {
+        "accronym": "",
+        "occurrence": 14,
+        "controls": {
+            "GV.RM-01": 0.2958,
+            "GV.OV-01": 0.253,
+            "GV.SC-01": 0.3085,
+            "GV.SC-09": 0.278,
+            "ID.AM-01": 0.3205,
+            "ID.RA-01": 0.2639,
+            "ID.RA-06": 0.2886,
+            "ID.RA-07": 0.3297,
+            "ID.RA-09": 0.2795,
+            "ID.RA-10": 0.311,
+            "PR.AA-03": 0.3226,
+            "PR.PS-01": 0.3258,
+            "DE.CM-03": 0.4413,
+            "DE.CM-06": 0.4533
+        },
+        "id": 10058,
+        "name": "continuous monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence incorporation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-02": 0.5881
+        },
+        "id": 10060,
+        "name": "threat intelligence incorporation",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative risk management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-02": 0.5637
+        },
+        "id": 10061,
+        "name": "collaborative risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk mitigation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-02": 0.5418
+        },
+        "id": 10062,
+        "name": "risk mitigation",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity culture": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.RM-02": 0.533,
+            "GV.OV-02": 0.6097,
+            "PR.AT-02": 0.6059
+        },
+        "id": 10063,
+        "name": "cybersecurity culture",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic risk assessment models": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.RM-02": 0.5225,
+            "GV.RR-03": 0.4871,
+            "ID.RA-05": 0.5744
+        },
+        "id": 10064,
+        "name": "dynamic risk assessment models",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience measures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-02": 0.4187
+        },
+        "id": 10065,
+        "name": "resilience measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "legal compliance integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-02": 0.2778
+        },
+        "id": 10066,
+        "name": "legal compliance integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic planning integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-03": 0.5547
+        },
+        "id": 10067,
+        "name": "strategic planning integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk management": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.RM-03": 0.5501,
+            "GV.RM-06": 0.5601,
+            "ID.AM-07": 0.3471,
+            "ID.RA-04": 0.542,
+            "ID.RA-09": 0.4441
+        },
+        "id": 10068,
+        "name": "risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk communication": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-03": 0.3937
+        },
+        "id": 10069,
+        "name": "risk communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource allocation": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RM-03": 0.2763,
+            "GV.OV-01": 0.1213
+        },
+        "id": 10070,
+        "name": "resource allocation",
+        "typedef": "KEYCONCEPT"
+    },
+    "enterprise risk management": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.RM-04": 0.6628,
+            "GV.RR-02": 0.5251,
+            "ID.RA-01": 0.6337,
+            "ID.RA-03": 0.5686
+        },
+        "id": 10074,
+        "name": "enterprise risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive risk assessment": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RM-04": 0.5985,
+            "ID.RA-05": 0.5948
+        },
+        "id": 10075,
+        "name": "comprehensive risk assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity metrics": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.RM-04": 0.5537,
+            "GV.PO-01": 0.5553,
+            "GV.SC-06": 0.5538,
+            "ID.RA-02": 0.5484,
+            "ID.RA-06": 0.5155,
+            "DE.CM-03": 0.473
+        },
+        "id": 10076,
+        "name": "cybersecurity metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive risk management frameworks": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.RM-04": 0.5355,
+            "GV.RM-06": 0.5079,
+            "ID.RA-06": 0.4646
+        },
+        "id": 10077,
+        "name": "adaptive risk management frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident preparedness": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.RM-04": 0.5346,
+            "GV.RM-05": 0.5133,
+            "ID.RA-06": 0.5151
+        },
+        "id": 10078,
+        "name": "incident preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced threat intelligence": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-04": 0.4756
+        },
+        "id": 10079,
+        "name": "advanced threat intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic risk appetite alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-04": 0.4161
+        },
+        "id": 10080,
+        "name": "strategic risk appetite alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular risk review": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-04": 0.4014
+        },
+        "id": 10081,
+        "name": "regular risk review",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain risk management integration": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.RM-05": 0.6162,
+            "GV.SC-06": 0.6519,
+            "GV.SC-08": 0.6225,
+            "GV.SC-09": 0.6945,
+            "GV.SC-10": 0.7719,
+            "ID.RA-01": 0.7509
+        },
+        "id": 10082,
+        "name": "supply chain risk management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity awareness training": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.RM-05": 0.5147,
+            "GV.RM-06": 0.5285,
+            "GV.RR-01": 0.4314,
+            "GV.OV-02": 0.596
+        },
+        "id": 10083,
+        "name": "cybersecurity awareness training",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence sharing": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.RM-05": 0.4664,
+            "GV.RM-07": 0.5167,
+            "GV.OV-03": 0.5832,
+            "GV.SC-06": 0.4301,
+            "ID.RA-09": 0.5034
+        },
+        "id": 10084,
+        "name": "threat intelligence sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security adaptation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-05": 0.4644
+        },
+        "id": 10085,
+        "name": "cloud security adaptation",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability management": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.RM-05": 0.4459,
+            "GV.SC-07": 0.5606,
+            "ID.AM-03": 0.5407,
+            "ID.RA-07": 0.5632
+        },
+        "id": 10086,
+        "name": "vulnerability management",
+        "typedef": "KEYCONCEPT"
+    },
+    "data privacy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-05": 0.2568
+        },
+        "id": 10087,
+        "name": "data privacy",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive risk management strategy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.582
+        },
+        "id": 10090,
+        "name": "comprehensive risk management strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.5265
+        },
+        "id": 10091,
+        "name": "risk identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular risk assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.4324
+        },
+        "id": 10092,
+        "name": "regular risk assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "business processes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.3776
+        },
+        "id": 10093,
+        "name": "business processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced technologies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.2015
+        },
+        "id": 10095,
+        "name": "advanced technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-06": 0.1834
+        },
+        "id": 10096,
+        "name": "regulatory alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk management integration": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.RM-07": 0.6095,
+            "GV.RR-01": 0.6116,
+            "GV.PO-01": 0.4656,
+            "GV.PO-02": 0.4735,
+            "GV.OV-01": 0.4474
+        },
+        "id": 10097,
+        "name": "risk management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident recovery planning": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.RM-07": 0.4609,
+            "GV.RR-01": 0.4563,
+            "GV.OV-03": 0.4297,
+            "GV.SC-01": 0.4678
+        },
+        "id": 10098,
+        "name": "incident recovery planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous improvement cycle": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.RM-07": 0.3927,
+            "GV.OV-03": 0.2854,
+            "GV.SC-08": 0.4185,
+            "PR.IR-01": 0.321,
+            "RS.MA-02": 0.2154,
+            "RS.MI-02": 0.3736
+        },
+        "id": 10099,
+        "name": "continuous improvement cycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable implementation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RM-07": 0.1029
+        },
+        "id": 10102,
+        "name": "customizable implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic organizational planning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-01": 0.508
+        },
+        "id": 10104,
+        "name": "strategic organizational planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource prioritization": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RR-01": 0.2833,
+            "GV.PO-01": 0.2625
+        },
+        "id": 10106,
+        "name": "resource prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident response": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.527
+        },
+        "id": 10107,
+        "name": "comprehensive incident response",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity events": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.5075
+        },
+        "id": 10108,
+        "name": "cybersecurity events",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber risk": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.4609
+        },
+        "id": 10109,
+        "name": "cyber risk",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence platforms": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.4175
+        },
+        "id": 10110,
+        "name": "threat intelligence platforms",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain resilience": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RR-02": 0.4039,
+            "RC.RP-04": 0.5439
+        },
+        "id": 10111,
+        "name": "supply chain resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "user awareness training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.4036
+        },
+        "id": 10112,
+        "name": "user awareness training",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder communication strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.3988
+        },
+        "id": 10113,
+        "name": "stakeholder communication strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection methods": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.303
+        },
+        "id": 10114,
+        "name": "data protection methods",
+        "typedef": "KEYCONCEPT"
+    },
+    "external information": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-02": 0.275
+        },
+        "id": 10115,
+        "name": "external information",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive vulnerability management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RR-03": 0.5287,
+            "ID.RA-06": 0.5355
+        },
+        "id": 10117,
+        "name": "comprehensive vulnerability management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident readiness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.4969
+        },
+        "id": 10118,
+        "name": "incident readiness",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative risk metrics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.4897
+        },
+        "id": 10119,
+        "name": "quantitative risk metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.478
+        },
+        "id": 10120,
+        "name": "cloud security considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection enhancements": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.4535
+        },
+        "id": 10121,
+        "name": "data protection enhancements",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence": {
+        "accronym": "",
+        "occurrence": 23,
+        "controls": {
+            "GV.RR-03": 0.4508,
+            "ID.AM-03": 0.4673,
+            "ID.AM-08": 0.3386,
+            "ID.RA-08": 0.5551,
+            "ID.RA-10": 0.4703,
+            "DE.CM-02": 0.4847,
+            "DE.CM-03": 0.551,
+            "DE.CM-09": 0.5696,
+            "DE.AE-03": 0.6457,
+            "DE.AE-04": 0.5643,
+            "DE.AE-06": 0.4927,
+            "DE.AE-07": 0.5227,
+            "DE.AE-08": 0.5181,
+            "RS.MA-01": 0.5785,
+            "RS.MA-04": 0.561,
+            "RS.AN-03": 0.5288,
+            "RS.AN-06": 0.6037,
+            "RS.AN-07": 0.5736,
+            "RS.AN-08": 0.5477,
+            "RS.CO-02": 0.4628,
+            "RS.CO-03": 0.5446,
+            "RS.MI-01": 0.5292,
+            "RC.CO-04": 0.4525
+        },
+        "id": 10122,
+        "name": "threat intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset visibility": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.3933
+        },
+        "id": 10123,
+        "name": "asset visibility",
+        "typedef": "KEYCONCEPT"
+    },
+    "access complexities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-03": 0.2832
+        },
+        "id": 10124,
+        "name": "access complexities",
+        "typedef": "KEYCONCEPT"
+    },
+    "disaster recovery capabilities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-04": 0.6756
+        },
+        "id": 10127,
+        "name": "disaster recovery capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk response strategies": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RR-04": 0.5567,
+            "ID.RA-07": 0.5655
+        },
+        "id": 10128,
+        "name": "risk response strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "business continuity planning": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.RR-04": 0.5301,
+            "PR.IR-02": 0.5398
+        },
+        "id": 10129,
+        "name": "business continuity planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber insurance considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.RR-04": 0.4715
+        },
+        "id": 10130,
+        "name": "cyber insurance considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance framework enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-01": 0.5923
+        },
+        "id": 10133,
+        "name": "governance framework enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "security culture": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.PO-01": 0.4792,
+            "ID.RA-09": 0.5447
+        },
+        "id": 10134,
+        "name": "security culture",
+        "typedef": "KEYCONCEPT"
+    },
+    "level involvement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-01": 0.2375
+        },
+        "id": 10135,
+        "name": "level involvement",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance incorporation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-02": 0.5992
+        },
+        "id": 10137,
+        "name": "governance incorporation",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic planning alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-02": 0.5053
+        },
+        "id": 10138,
+        "name": "strategic planning alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "standard development": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-02": 0.3705
+        },
+        "id": 10139,
+        "name": "standard development",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.PO-02": 0.3368
+        },
+        "id": 10140,
+        "name": "resource alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational cybersecurity governance": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-01": 0.6855
+        },
+        "id": 10142,
+        "name": "organizational cybersecurity governance",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity risk management integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-02": 0.7051
+        },
+        "id": 10145,
+        "name": "cybersecurity risk management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "leadership commitment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-02": 0.3373
+        },
+        "id": 10146,
+        "name": "leadership commitment",
+        "typedef": "KEYCONCEPT"
+    },
+    "information sharing": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.OV-02": 0.2804,
+            "GV.SC-03": 0.3115,
+            "GV.SC-05": 0.2752,
+            "ID.AM-05": 0.3204,
+            "RS.MA-05": 0.3406,
+            "RC.CO-03": 0.5225
+        },
+        "id": 10147,
+        "name": "information sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "civil liberties": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-02": 0.1748
+        },
+        "id": 10148,
+        "name": "civil liberties",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain security": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OV-03": 0.6295,
+            "ID.RA-10": 0.6751
+        },
+        "id": 10149,
+        "name": "supply chain security",
+        "typedef": "KEYCONCEPT"
+    },
+    "governance scope": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-03": 0.4566
+        },
+        "id": 10150,
+        "name": "governance scope",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive risk management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-03": 0.4135
+        },
+        "id": 10151,
+        "name": "adaptive risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy controls": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.OV-03": 0.3369
+        },
+        "id": 10152,
+        "name": "privacy controls",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative risk assessment": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.OV-03": 0.3133,
+            "ID.RA-04": 0.5497
+        },
+        "id": 10153,
+        "name": "quantitative risk assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "employee training": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "GV.OV-03": 0.2783,
+            "PR.AA-06": 0.3096,
+            "PR.IR-02": 0.2837
+        },
+        "id": 10154,
+        "name": "employee training",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain risk management enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-01": 0.6436
+        },
+        "id": 10155,
+        "name": "supply chain risk management enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "security awareness training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-01": 0.5345
+        },
+        "id": 10156,
+        "name": "security awareness training",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability management program": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-01": 0.4662,
+            "ID.RA-08": 0.4775
+        },
+        "id": 10157,
+        "name": "vulnerability management program",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security focus": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-01": 0.4493,
+            "ID.RA-10": 0.529
+        },
+        "id": 10158,
+        "name": "cloud security focus",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive identity verification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-01": 0.408
+        },
+        "id": 10159,
+        "name": "comprehensive identity verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset management refinement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-01": 0.3757
+        },
+        "id": 10160,
+        "name": "asset management refinement",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber supply chain risk management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.6969
+        },
+        "id": 10161,
+        "name": "cyber supply chain risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability management integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-02": 0.4734,
+            "ID.AM-02": 0.3522
+        },
+        "id": 10162,
+        "name": "vulnerability management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity role": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.4325
+        },
+        "id": 10163,
+        "name": "cybersecurity role",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset inventory accuracy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.4059
+        },
+        "id": 10164,
+        "name": "asset inventory accuracy",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset management visibility": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.3925
+        },
+        "id": 10165,
+        "name": "asset management visibility",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset decommissioning": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-02": 0.3282,
+            "ID.AM-07": 0.5105
+        },
+        "id": 10166,
+        "name": "asset decommissioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "data security": {
+        "accronym": "",
+        "occurrence": 6,
+        "controls": {
+            "GV.SC-02": 0.3129,
+            "ID.AM-08": 0.5208,
+            "ID.RA-09": 0.5548,
+            "PR.DS-01": 0.655,
+            "PR.DS-02": 0.7338,
+            "PR.DS-10": 0.6697
+        },
+        "id": 10167,
+        "name": "data security",
+        "typedef": "KEYCONCEPT"
+    },
+    "external dependencies management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.309
+        },
+        "id": 10168,
+        "name": "external dependencies management",
+        "typedef": "KEYCONCEPT"
+    },
+    "resource classification": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-02": 0.2987,
+            "ID.AM-08": 0.3642
+        },
+        "id": 10169,
+        "name": "resource classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset association": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-02": 0.28
+        },
+        "id": 10170,
+        "name": "asset association",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain transparency": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-03": 0.6398,
+            "GV.SC-05": 0.5913
+        },
+        "id": 10171,
+        "name": "supply chain transparency",
+        "typedef": "KEYCONCEPT"
+    },
+    "vendor risk assessments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-03": 0.6046
+        },
+        "id": 10172,
+        "name": "vendor risk assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "security requirements": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-03": 0.4323
+        },
+        "id": 10173,
+        "name": "security requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "suppliers": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-03": 0.4199
+        },
+        "id": 10174,
+        "name": "suppliers",
+        "typedef": "KEYCONCEPT"
+    },
+    "party security performance": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-03": 0.2756
+        },
+        "id": 10176,
+        "name": "party security performance",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity standards": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.5843
+        },
+        "id": 10179,
+        "name": "cybersecurity standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity activities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.5721
+        },
+        "id": 10180,
+        "name": "cybersecurity activities",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience frameworks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.4705
+        },
+        "id": 10181,
+        "name": "resilience frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain risk": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.4016
+        },
+        "id": 10182,
+        "name": "supply chain risk",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset management": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.SC-04": 0.3186,
+            "ID.AM-04": 0.525,
+            "PR.PS-01": 0.4288,
+            "PR.PS-03": 0.3778
+        },
+        "id": 10183,
+        "name": "asset management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - organizational communication": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.3095
+        },
+        "id": 10184,
+        "name": "cross - organizational communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity verification methods": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-04": 0.2283
+        },
+        "id": 10186,
+        "name": "identity verification methods",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-05": 0.5051
+        },
+        "id": 10190,
+        "name": "cloud security enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous security monitoring": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-05": 0.4058
+        },
+        "id": 10191,
+        "name": "continuous security monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "robust encryption standards": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-05": 0.3467
+        },
+        "id": 10192,
+        "name": "robust encryption standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "party security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-05": 0.3221
+        },
+        "id": 10193,
+        "name": "party security",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategy integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-05": 0.2825
+        },
+        "id": 10195,
+        "name": "strategy integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive cyber incident preparedness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-06": 0.5689
+        },
+        "id": 10197,
+        "name": "comprehensive cyber incident preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security strategy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-06": 0.5217
+        },
+        "id": 10198,
+        "name": "cloud security strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "systematic security control reviews": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-06": 0.4705
+        },
+        "id": 10199,
+        "name": "systematic security control reviews",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced endpoint detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-06": 0.1944
+        },
+        "id": 10200,
+        "name": "advanced endpoint detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy considerations": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "GV.SC-06": 0.1926,
+            "ID.RA-03": 0.3274,
+            "ID.RA-09": 0.251,
+            "PR.DS-10": 0.2956,
+            "RC.CO-03": 0.3413
+        },
+        "id": 10201,
+        "name": "privacy considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive security awareness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-07": 0.5882
+        },
+        "id": 10204,
+        "name": "comprehensive security awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "strategic cybersecurity investment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-07": 0.4886
+        },
+        "id": 10205,
+        "name": "strategic cybersecurity investment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-07": 0.417
+        },
+        "id": 10206,
+        "name": "cloud security",
+        "typedef": "KEYCONCEPT"
+    },
+    "project management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-07": 0.3664
+        },
+        "id": 10207,
+        "name": "project management",
+        "typedef": "KEYCONCEPT"
+    },
+    "trust architecture": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "GV.SC-07": 0.3604,
+            "ID.RA-10": 0.3607,
+            "PR.PS-06": 0.3855,
+            "PR.IR-04": 0.3042
+        },
+        "id": 10208,
+        "name": "trust architecture",
+        "typedef": "KEYCONCEPT"
+    },
+    "access management iam": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-07": 0.3566
+        },
+        "id": 10209,
+        "name": "access management iam",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security emphasis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-08": 0.4618
+        },
+        "id": 10211,
+        "name": "cloud security emphasis",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-08": 0.3205
+        },
+        "id": 10212,
+        "name": "incident detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "access management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-08": 0.3166,
+            "PR.PS-06": 0.3257
+        },
+        "id": 10213,
+        "name": "access management",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular update": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "GV.SC-08": 0.2209,
+            "PR.IR-02": 0.1348
+        },
+        "id": 10215,
+        "name": "regular update",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud services security considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-09": 0.4368
+        },
+        "id": 10216,
+        "name": "cloud services security considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "systematic risk assessments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-09": 0.4002
+        },
+        "id": 10217,
+        "name": "systematic risk assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-09": 0.3594
+        },
+        "id": 10218,
+        "name": "adaptive security",
+        "typedef": "KEYCONCEPT"
+    },
+    "party vendor assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-09": 0.3132
+        },
+        "id": 10219,
+        "name": "party vendor assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive vulnerability management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-10": 0.4798
+        },
+        "id": 10221,
+        "name": "proactive vulnerability management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident coordination": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-10": 0.4568
+        },
+        "id": 10222,
+        "name": "incident coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "systemic risk identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-10": 0.4268
+        },
+        "id": 10223,
+        "name": "systemic risk identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder engagement enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-10": 0.3042
+        },
+        "id": 10224,
+        "name": "stakeholder engagement enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable framework application": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "GV.SC-10": 0.1165
+        },
+        "id": 10225,
+        "name": "customizable framework application",
+        "typedef": "KEYCONCEPT"
+    },
+    "virtual asset inventory": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-01": 0.6317
+        },
+        "id": 10227,
+        "name": "virtual asset inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle management": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "ID.AM-01": 0.5134,
+            "ID.AM-03": 0.4759,
+            "ID.AM-05": 0.4724,
+            "ID.AM-07": 0.4771
+        },
+        "id": 10228,
+        "name": "lifecycle management",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset prioritization": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-01": 0.4882,
+            "ID.AM-02": 0.472
+        },
+        "id": 10229,
+        "name": "asset prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "party service asset management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-01": 0.415
+        },
+        "id": 10230,
+        "name": "party service asset management",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset discovery": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "ID.AM-01": 0.3915,
+            "ID.AM-02": 0.4995,
+            "ID.AM-05": 0.4723
+        },
+        "id": 10231,
+        "name": "asset discovery",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational risk management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-01": 0.3699,
+            "RC.RP-05": 0.473
+        },
+        "id": 10232,
+        "name": "organizational risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "business impact": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-01": 0.1745,
+            "DE.AE-02": 0.1282
+        },
+        "id": 10235,
+        "name": "business impact",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset classification": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "ID.AM-02": 0.6042,
+            "ID.AM-03": 0.3309,
+            "ID.AM-07": 0.5519
+        },
+        "id": 10237,
+        "name": "asset classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "software inventory management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-02": 0.5033
+        },
+        "id": 10238,
+        "name": "software inventory management",
+        "typedef": "KEYCONCEPT"
+    },
+    "iot": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-02": 0.378
+        },
+        "id": 10239,
+        "name": "iot",
+        "typedef": "KEYCONCEPT"
+    },
+    "external information system": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-02": 0.2726
+        },
+        "id": 10240,
+        "name": "external information system",
+        "typedef": "KEYCONCEPT"
+    },
+    "mobile considerations": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-02": 0.1731,
+            "ID.AM-07": 0.1625
+        },
+        "id": 10241,
+        "name": "mobile considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "security orchestration automation": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "ID.AM-03": 0.6195,
+            "DE.CM-01": 0.5154,
+            "DE.CM-03": 0.5321,
+            "DE.CM-06": 0.5587,
+            "RS.MA-01": 0.5491
+        },
+        "id": 10243,
+        "name": "security orchestration automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "security information management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-03": 0.5304
+        },
+        "id": 10244,
+        "name": "security information management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-03": 0.4781
+        },
+        "id": 10245,
+        "name": "cybersecurity training",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment integration": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "ID.AM-03": 0.4261,
+            "ID.RA-07": 0.6297,
+            "ID.RA-10": 0.4897
+        },
+        "id": 10246,
+        "name": "risk assessment integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "external information system inventory": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-03": 0.382
+        },
+        "id": 10247,
+        "name": "external information system inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "entity behavior analytics": {
+        "accronym": "",
+        "occurrence": 20,
+        "controls": {
+            "ID.AM-03": 0.3075,
+            "DE.CM-01": 0.4208,
+            "DE.CM-02": 0.4671,
+            "DE.CM-03": 0.4651,
+            "DE.CM-09": 0.3874,
+            "DE.AE-02": 0.3642,
+            "DE.AE-03": 0.491,
+            "DE.AE-04": 0.5452,
+            "DE.AE-06": 0.4824,
+            "DE.AE-07": 0.4985,
+            "DE.AE-08": 0.5108,
+            "RS.MA-01": 0.3031,
+            "RS.MA-02": 0.5132,
+            "RS.MA-03": 0.5004,
+            "RS.AN-03": 0.5458,
+            "RS.AN-06": 0.5002,
+            "RS.AN-07": 0.4876,
+            "RS.AN-08": 0.4846,
+            "RS.CO-02": 0.3507,
+            "RS.MI-01": 0.4919
+        },
+        "id": 10248,
+        "name": "entity behavior analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "hardware approvals": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-03": 0.294
+        },
+        "id": 10249,
+        "name": "hardware approvals",
+        "typedef": "KEYCONCEPT"
+    },
+    "response soar": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-03": 0.082,
+            "DE.CM-03": 0.1754
+        },
+        "id": 10250,
+        "name": "response soar",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset decommissioning procedures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-04": 0.5033
+        },
+        "id": 10251,
+        "name": "asset decommissioning procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "software assets": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-04": 0.4476
+        },
+        "id": 10252,
+        "name": "software assets",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle management emphasis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-04": 0.4419
+        },
+        "id": 10253,
+        "name": "lifecycle management emphasis",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset risk assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-04": 0.4201
+        },
+        "id": 10254,
+        "name": "asset risk assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "inventory accuracy": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-04": 0.3144,
+            "ID.AM-08": 0.3306
+        },
+        "id": 10255,
+        "name": "inventory accuracy",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical systems": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-04": 0.2367
+        },
+        "id": 10256,
+        "name": "physical systems",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset management integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.AM-05": 0.6034,
+            "ID.RA-02": 0.35
+        },
+        "id": 10260,
+        "name": "asset management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic asset categorization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-05": 0.3996
+        },
+        "id": 10261,
+        "name": "dynamic asset categorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "configuration management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-05": 0.3695
+        },
+        "id": 10262,
+        "name": "configuration management",
+        "typedef": "KEYCONCEPT"
+    },
+    "information systems": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-05": 0.3602
+        },
+        "id": 10263,
+        "name": "information systems",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-05": 0.3201
+        },
+        "id": 10264,
+        "name": "vulnerability identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "party services management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-05": 0.306
+        },
+        "id": 10265,
+        "name": "party services management",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset management automation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-07": 0.6163
+        },
+        "id": 10267,
+        "name": "asset management automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive asset inventory": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-07": 0.5409
+        },
+        "id": 10268,
+        "name": "comprehensive asset inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "external asset management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-07": 0.5216
+        },
+        "id": 10269,
+        "name": "external asset management",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset vulnerability management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-08": 0.6315
+        },
+        "id": 10272,
+        "name": "asset vulnerability management",
+        "typedef": "KEYCONCEPT"
+    },
+    "lifecycle management integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-08": 0.4596
+        },
+        "id": 10273,
+        "name": "lifecycle management integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "things iot security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-08": 0.4359
+        },
+        "id": 10274,
+        "name": "things iot security",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive software inventory": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-08": 0.414
+        },
+        "id": 10275,
+        "name": "comprehensive software inventory",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure configuration management": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "ID.AM-08": 0.3918,
+            "ID.RA-10": 0.4044,
+            "PR.PS-06": 0.4409
+        },
+        "id": 10276,
+        "name": "secure configuration management",
+        "typedef": "KEYCONCEPT"
+    },
+    "disposal policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.AM-08": 0.3028
+        },
+        "id": 10277,
+        "name": "disposal policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment expansion": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-01": 0.5359
+        },
+        "id": 10279,
+        "name": "risk assessment expansion",
+        "typedef": "KEYCONCEPT"
+    },
+    "asset vulnerability identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-01": 0.3778
+        },
+        "id": 10280,
+        "name": "asset vulnerability identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory compliance considerations": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-01": 0.2851,
+            "ID.RA-06": 0.2492
+        },
+        "id": 10281,
+        "name": "regulatory compliance considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability management lifecycle": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-02": 0.4738
+        },
+        "id": 10283,
+        "name": "vulnerability management lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "geopolitical risk awareness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-02": 0.464
+        },
+        "id": 10284,
+        "name": "geopolitical risk awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative risk analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-02": 0.4303
+        },
+        "id": 10285,
+        "name": "quantitative risk analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy impact": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-02": 0.2233
+        },
+        "id": 10288,
+        "name": "privacy impact",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive threat intelligence": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-03": 0.5328
+        },
+        "id": 10289,
+        "name": "comprehensive threat intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "qualitative risk analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-03": 0.5027
+        },
+        "id": 10290,
+        "name": "qualitative risk analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment frequency": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-03": 0.4757
+        },
+        "id": 10291,
+        "name": "risk assessment frequency",
+        "typedef": "KEYCONCEPT"
+    },
+    "organizational changes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-03": 0.2189
+        },
+        "id": 10292,
+        "name": "organizational changes",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous risk assessment cycle": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-04": 0.5334
+        },
+        "id": 10295,
+        "name": "continuous risk assessment cycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk frameworks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-04": 0.5331
+        },
+        "id": 10296,
+        "name": "risk frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced vulnerability management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-04": 0.5004,
+            "ID.RA-05": 0.5161
+        },
+        "id": 10297,
+        "name": "advanced vulnerability management",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk reporting": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-04": 0.4905
+        },
+        "id": 10298,
+        "name": "risk reporting",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic threat": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-04": 0.4415
+        },
+        "id": 10299,
+        "name": "dynamic threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory compliance integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-04": 0.3937
+        },
+        "id": 10300,
+        "name": "regulatory compliance integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk management frameworks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-05": 0.5611
+        },
+        "id": 10302,
+        "name": "risk management frameworks",
+        "typedef": "KEYCONCEPT"
+    },
+    "quantitative risk analysis techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-05": 0.493
+        },
+        "id": 10303,
+        "name": "quantitative risk analysis techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy risk considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-05": 0.4633
+        },
+        "id": 10304,
+        "name": "privacy risk considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk appetite": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-05": 0.281
+        },
+        "id": 10305,
+        "name": "risk appetite",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment automation": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-06": 0.5363,
+            "ID.RA-09": 0.4923
+        },
+        "id": 10308,
+        "name": "risk assessment automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative security framework": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-06": 0.4517
+        },
+        "id": 10309,
+        "name": "collaborative security framework",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber resilience": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-06": 0.443
+        },
+        "id": 10310,
+        "name": "cyber resilience",
+        "typedef": "KEYCONCEPT"
+    },
+    "threat intelligence utilization": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-07": 0.5382,
+            "RS.MI-02": 0.5681
+        },
+        "id": 10311,
+        "name": "threat intelligence utilization",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory compliance consideration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-07": 0.382
+        },
+        "id": 10312,
+        "name": "regulatory compliance consideration",
+        "typedef": "KEYCONCEPT"
+    },
+    "impact analysis enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-07": 0.2982
+        },
+        "id": 10313,
+        "name": "impact analysis enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk appetite alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-07": 0.2424
+        },
+        "id": 10314,
+        "name": "risk appetite alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response plan integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-08": 0.5676,
+            "RS.MI-02": 0.6547
+        },
+        "id": 10315,
+        "name": "incident response plan integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain security considerations": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.4988
+        },
+        "id": 10316,
+        "name": "supply chain security considerations",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular cybersecurity training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.491
+        },
+        "id": 10317,
+        "name": "regular cybersecurity training",
+        "typedef": "KEYCONCEPT"
+    },
+    "risk assessment documentation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.4499
+        },
+        "id": 10318,
+        "name": "risk assessment documentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive monitoring strategy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.4418
+        },
+        "id": 10319,
+        "name": "comprehensive monitoring strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative incident analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.4232
+        },
+        "id": 10320,
+        "name": "collaborative incident analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced predictive capabilities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-08": 0.2972
+        },
+        "id": 10321,
+        "name": "advanced predictive capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory compliance alignment": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "ID.RA-08": 0.2907,
+            "RC.RP-06": 0.3563
+        },
+        "id": 10322,
+        "name": "regulatory compliance alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response preparedness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-09": 0.489
+        },
+        "id": 10323,
+        "name": "incident response preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced incident response": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-10": 0.4191
+        },
+        "id": 10324,
+        "name": "advanced incident response",
+        "typedef": "KEYCONCEPT"
+    },
+    "data confidentiality": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-10": 0.3126
+        },
+        "id": 10325,
+        "name": "data confidentiality",
+        "typedef": "KEYCONCEPT"
+    },
+    "segmentation policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "ID.RA-10": 0.1439
+        },
+        "id": 10326,
+        "name": "segmentation policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure access": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-01": 0.7301,
+            "PR.AA-05": 0.6256
+        },
+        "id": 10327,
+        "name": "secure access",
+        "typedef": "KEYCONCEPT"
+    },
+    "access authorization procedures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-01": 0.6894
+        },
+        "id": 10328,
+        "name": "access authorization procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control policies": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-01": 0.6482,
+            "PR.AA-06": 0.4033
+        },
+        "id": 10329,
+        "name": "access control policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "access provisioning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-01": 0.5922
+        },
+        "id": 10330,
+        "name": "access provisioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure credential management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-01": 0.591
+        },
+        "id": 10331,
+        "name": "secure credential management",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection measures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-01": 0.5828
+        },
+        "id": 10332,
+        "name": "data protection measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular access reviews": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "PR.AA-01": 0.4403,
+            "PR.AA-02": 0.4034,
+            "PR.AA-03": 0.502,
+            "PR.PS-02": 0.3912
+        },
+        "id": 10333,
+        "name": "regular access reviews",
+        "typedef": "KEYCONCEPT"
+    },
+    "user identity verification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-01": 0.4206
+        },
+        "id": 10334,
+        "name": "user identity verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure authentication protocols": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-02": 0.5279,
+            "PR.AA-04": 0.4741
+        },
+        "id": 10336,
+        "name": "secure authentication protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "contextual access control": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-02": 0.4975
+        },
+        "id": 10337,
+        "name": "contextual access control",
+        "typedef": "KEYCONCEPT"
+    },
+    "user behavior analytics": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-02": 0.4431,
+            "PR.IR-01": 0.3649
+        },
+        "id": 10338,
+        "name": "user behavior analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "least privilege access": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-02": 0.3602
+        },
+        "id": 10339,
+        "name": "least privilege access",
+        "typedef": "KEYCONCEPT"
+    },
+    "time access": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-02": 0.34
+        },
+        "id": 10340,
+        "name": "time access",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control procedures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.706
+        },
+        "id": 10345,
+        "name": "access control procedures",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control automation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.6557
+        },
+        "id": 10346,
+        "name": "access control automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "privileged user management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.606
+        },
+        "id": 10347,
+        "name": "privileged user management",
+        "typedef": "KEYCONCEPT"
+    },
+    "user authentication enhancements": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.5451
+        },
+        "id": 10348,
+        "name": "user authentication enhancements",
+        "typedef": "KEYCONCEPT"
+    },
+    "account management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.5303
+        },
+        "id": 10349,
+        "name": "account management",
+        "typedef": "KEYCONCEPT"
+    },
+    "access decommissioning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.4912
+        },
+        "id": 10350,
+        "name": "access decommissioning",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure remote access": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.4781
+        },
+        "id": 10351,
+        "name": "secure remote access",
+        "typedef": "KEYCONCEPT"
+    },
+    "access activities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-03": 0.4141
+        },
+        "id": 10352,
+        "name": "access activities",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity management systems": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.5759
+        },
+        "id": 10353,
+        "name": "identity management systems",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud access security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.5452
+        },
+        "id": 10354,
+        "name": "cloud access security",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced identity verification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.5389
+        },
+        "id": 10355,
+        "name": "advanced identity verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "access anomaly detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.5279
+        },
+        "id": 10356,
+        "name": "access anomaly detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "access authorization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.4866
+        },
+        "id": 10357,
+        "name": "access authorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "policy enforcement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.3229
+        },
+        "id": 10358,
+        "name": "policy enforcement",
+        "typedef": "KEYCONCEPT"
+    },
+    "periodic access reviews": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-04": 0.3062
+        },
+        "id": 10359,
+        "name": "periodic access reviews",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote access management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-05": 0.6715,
+            "PR.PS-04": 0.5384
+        },
+        "id": 10360,
+        "name": "remote access management",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive access control policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.6042
+        },
+        "id": 10361,
+        "name": "comprehensive access control policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "privileged account management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.5885
+        },
+        "id": 10362,
+        "name": "privileged account management",
+        "typedef": "KEYCONCEPT"
+    },
+    "identity verification processes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.5093
+        },
+        "id": 10363,
+        "name": "identity verification processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "user access review": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.4871
+        },
+        "id": 10364,
+        "name": "user access review",
+        "typedef": "KEYCONCEPT"
+    },
+    "information flow enforcement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.4346
+        },
+        "id": 10365,
+        "name": "information flow enforcement",
+        "typedef": "KEYCONCEPT"
+    },
+    "service idaas": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.3046
+        },
+        "id": 10366,
+        "name": "service idaas",
+        "typedef": "KEYCONCEPT"
+    },
+    "mobile devices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.2607
+        },
+        "id": 10367,
+        "name": "mobile devices",
+        "typedef": "KEYCONCEPT"
+    },
+    "network segmentation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-05": 0.1674
+        },
+        "id": 10368,
+        "name": "network segmentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "backups": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.6542
+        },
+        "id": 10369,
+        "name": "backups",
+        "typedef": "KEYCONCEPT"
+    },
+    "data recovery capabilities": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AA-06": 0.5702,
+            "PR.DS-10": 0.3949
+        },
+        "id": 10370,
+        "name": "data recovery capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "version control": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.4713
+        },
+        "id": 10371,
+        "name": "version control",
+        "typedef": "KEYCONCEPT"
+    },
+    "rapid recovery objectives": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.3518
+        },
+        "id": 10372,
+        "name": "rapid recovery objectives",
+        "typedef": "KEYCONCEPT"
+    },
+    "remote networks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.3017
+        },
+        "id": 10374,
+        "name": "remote networks",
+        "typedef": "KEYCONCEPT"
+    },
+    "user activity": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.2377
+        },
+        "id": 10375,
+        "name": "user activity",
+        "typedef": "KEYCONCEPT"
+    },
+    "external parties": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.1836
+        },
+        "id": 10376,
+        "name": "external parties",
+        "typedef": "KEYCONCEPT"
+    },
+    "geographical diversity": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AA-06": 0.1226
+        },
+        "id": 10377,
+        "name": "geographical diversity",
+        "typedef": "KEYCONCEPT"
+    },
+    "security culture building": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.5962
+        },
+        "id": 10378,
+        "name": "security culture building",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.5851
+        },
+        "id": 10379,
+        "name": "cybersecurity policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure software development training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.5788
+        },
+        "id": 10380,
+        "name": "secure software development training",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection education": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.555
+        },
+        "id": 10381,
+        "name": "data protection education",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive awareness training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.5326
+        },
+        "id": 10382,
+        "name": "comprehensive awareness training",
+        "typedef": "KEYCONCEPT"
+    },
+    "threats briefing": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.5128
+        },
+        "id": 10383,
+        "name": "threats briefing",
+        "typedef": "KEYCONCEPT"
+    },
+    "security champions program": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.4929
+        },
+        "id": 10384,
+        "name": "security champions program",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response team": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.AT-01": 0.4307,
+            "PR.PS-02": 0.4868
+        },
+        "id": 10385,
+        "name": "incident response team",
+        "typedef": "KEYCONCEPT"
+    },
+    "training effectiveness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.3799
+        },
+        "id": 10386,
+        "name": "training effectiveness",
+        "typedef": "KEYCONCEPT"
+    },
+    "content refinement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-01": 0.2826
+        },
+        "id": 10387,
+        "name": "content refinement",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive security awareness training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.7908
+        },
+        "id": 10388,
+        "name": "comprehensive security awareness training",
+        "typedef": "KEYCONCEPT"
+    },
+    "attack scenarios": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.4174
+        },
+        "id": 10389,
+        "name": "attack scenarios",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous education programs": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.4099
+        },
+        "id": 10390,
+        "name": "continuous education programs",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure software development practices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.4093
+        },
+        "id": 10391,
+        "name": "secure software development practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - functional team": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.2784
+        },
+        "id": 10392,
+        "name": "cross - functional team",
+        "typedef": "KEYCONCEPT"
+    },
+    "personal devices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.AT-02": 0.1943
+        },
+        "id": 10394,
+        "name": "personal devices",
+        "typedef": "KEYCONCEPT"
+    },
+    "data sovereignty compliance": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "PR.DS-01": 0.6289,
+            "PR.DS-02": 0.638,
+            "PR.DS-11": 0.6604
+        },
+        "id": 10396,
+        "name": "data sovereignty compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "data breaches": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.5481
+        },
+        "id": 10397,
+        "name": "data breaches",
+        "typedef": "KEYCONCEPT"
+    },
+    "data loss prevention strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.537
+        },
+        "id": 10398,
+        "name": "data loss prevention strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "geographic data transfer compliance": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.5002
+        },
+        "id": 10399,
+        "name": "geographic data transfer compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "data lifecycle management": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "PR.DS-01": 0.4745,
+            "PR.DS-10": 0.5333,
+            "PR.DS-11": 0.4771
+        },
+        "id": 10400,
+        "name": "data lifecycle management",
+        "typedef": "KEYCONCEPT"
+    },
+    "public key infrastructure pki": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.4572
+        },
+        "id": 10401,
+        "name": "public key infrastructure pki",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy impact assessments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.4467
+        },
+        "id": 10402,
+        "name": "privacy impact assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "global standards alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.3201
+        },
+        "id": 10403,
+        "name": "global standards alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response plans": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.2925
+        },
+        "id": 10404,
+        "name": "incident response plans",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular data classification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-01": 0.2246
+        },
+        "id": 10406,
+        "name": "regular data classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "data integrity protection mechanisms": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.6351
+        },
+        "id": 10407,
+        "name": "data integrity protection mechanisms",
+        "typedef": "KEYCONCEPT"
+    },
+    "data loss prevention": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.6142
+        },
+        "id": 10408,
+        "name": "data loss prevention",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure data disposal": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "PR.DS-02": 0.6069,
+            "PR.PS-01": 0.3618,
+            "PR.PS-03": 0.4625
+        },
+        "id": 10409,
+        "name": "secure data disposal",
+        "typedef": "KEYCONCEPT"
+    },
+    "data retention policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.5371
+        },
+        "id": 10410,
+        "name": "data retention policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure data transfer protocols": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.5317
+        },
+        "id": 10411,
+        "name": "secure data transfer protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "data masking": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.495
+        },
+        "id": 10412,
+        "name": "data masking",
+        "typedef": "KEYCONCEPT"
+    },
+    "data backup": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.4814
+        },
+        "id": 10413,
+        "name": "data backup",
+        "typedef": "KEYCONCEPT"
+    },
+    "anonymization": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.DS-02": 0.3908,
+            "PR.DS-11": 0.4601
+        },
+        "id": 10414,
+        "name": "anonymization",
+        "typedef": "KEYCONCEPT"
+    },
+    "business continuity": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "PR.DS-02": 0.3755,
+            "PR.IR-03": 0.4461,
+            "RS.CO-02": 0.4428,
+            "RC.RP-02": 0.4871,
+            "RC.RP-03": 0.4401
+        },
+        "id": 10415,
+        "name": "business continuity",
+        "typedef": "KEYCONCEPT"
+    },
+    "dlp technologies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-02": 0.3495
+        },
+        "id": 10416,
+        "name": "dlp technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain data security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.6717
+        },
+        "id": 10417,
+        "name": "supply chain data security",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection approaches": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.6163
+        },
+        "id": 10418,
+        "name": "data protection approaches",
+        "typedef": "KEYCONCEPT"
+    },
+    "public cloud data security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.5635
+        },
+        "id": 10419,
+        "name": "public cloud data security",
+        "typedef": "KEYCONCEPT"
+    },
+    "data governance framework": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.5575
+        },
+        "id": 10420,
+        "name": "data governance framework",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced threat protection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.4543
+        },
+        "id": 10421,
+        "name": "advanced threat protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "Artificial Intelligence": {
+        "accronym": "ai",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-10": 0.2956
+        },
+        "id": 10423,
+        "name": "Artificial Intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "data integrity protection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.7073
+        },
+        "id": 10424,
+        "name": "data integrity protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure data destruction": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.5617
+        },
+        "id": 10425,
+        "name": "secure data destruction",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular data integrity audits": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.5496
+        },
+        "id": 10426,
+        "name": "regular data integrity audits",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.4585
+        },
+        "id": 10427,
+        "name": "access control",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced encryption techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.4206
+        },
+        "id": 10428,
+        "name": "advanced encryption techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "authorization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.402
+        },
+        "id": 10429,
+        "name": "authorization",
+        "typedef": "KEYCONCEPT"
+    },
+    "data minimization principles": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.DS-11": 0.3201
+        },
+        "id": 10430,
+        "name": "data minimization principles",
+        "typedef": "KEYCONCEPT"
+    },
+    "personnel security policies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.6573
+        },
+        "id": 10433,
+        "name": "personnel security policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "information protection processes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.5992
+        },
+        "id": 10434,
+        "name": "information protection processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "vendor risk management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.568
+        },
+        "id": 10435,
+        "name": "vendor risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "insider threat mitigation strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.5057
+        },
+        "id": 10436,
+        "name": "insider threat mitigation strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure development lifecycle integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.4559
+        },
+        "id": 10437,
+        "name": "secure development lifecycle integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control implementation": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.PS-01": 0.436,
+            "PR.PS-02": 0.4486
+        },
+        "id": 10438,
+        "name": "access control implementation",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive background verification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-01": 0.3538
+        },
+        "id": 10439,
+        "name": "comprehensive background verification",
+        "typedef": "KEYCONCEPT"
+    },
+    "insider threat programs": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.PS-02": 0.6302,
+            "PR.PS-05": 0.5782
+        },
+        "id": 10440,
+        "name": "insider threat programs",
+        "typedef": "KEYCONCEPT"
+    },
+    "security role definition": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.5873
+        },
+        "id": 10441,
+        "name": "security role definition",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical security measures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.5387
+        },
+        "id": 10442,
+        "name": "physical security measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "role sensitivity": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.4829
+        },
+        "id": 10443,
+        "name": "role sensitivity",
+        "typedef": "KEYCONCEPT"
+    },
+    "hr practices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.4615
+        },
+        "id": 10444,
+        "name": "hr practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "party risk management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.PS-02": 0.4182,
+            "PR.PS-04": 0.3963
+        },
+        "id": 10445,
+        "name": "party risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "screening prioritization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.3847
+        },
+        "id": 10446,
+        "name": "screening prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "termination process security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.3822
+        },
+        "id": 10447,
+        "name": "termination process security",
+        "typedef": "KEYCONCEPT"
+    },
+    "background checks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-02": 0.3559
+        },
+        "id": 10448,
+        "name": "background checks",
+        "typedef": "KEYCONCEPT"
+    },
+    "workforce security awareness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.6643
+        },
+        "id": 10449,
+        "name": "workforce security awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "physical security integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.PS-03": 0.5618,
+            "PR.PS-04": 0.6227
+        },
+        "id": 10450,
+        "name": "physical security integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "secure development lifecycle": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.5433
+        },
+        "id": 10451,
+        "name": "secure development lifecycle",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection policies": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.PS-03": 0.5251,
+            "PR.PS-04": 0.5933
+        },
+        "id": 10452,
+        "name": "data protection policies",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular security assessments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.5142
+        },
+        "id": 10453,
+        "name": "regular security assessments",
+        "typedef": "KEYCONCEPT"
+    },
+    "access control measures": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.4959
+        },
+        "id": 10454,
+        "name": "access control measures",
+        "typedef": "KEYCONCEPT"
+    },
+    "party vendor risk management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.4794
+        },
+        "id": 10455,
+        "name": "party vendor risk management",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced encryption standards": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.3751
+        },
+        "id": 10456,
+        "name": "advanced encryption standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "non - traditional environments": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-03": 0.1716
+        },
+        "id": 10457,
+        "name": "non - traditional environments",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive personnel security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-04": 0.6845
+        },
+        "id": 10458,
+        "name": "comprehensive personnel security",
+        "typedef": "KEYCONCEPT"
+    },
+    "security training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-04": 0.5842
+        },
+        "id": 10459,
+        "name": "security training",
+        "typedef": "KEYCONCEPT"
+    },
+    "privacy coordination": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-04": 0.3543
+        },
+        "id": 10460,
+        "name": "privacy coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "policy development": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-04": 0.3077
+        },
+        "id": 10461,
+        "name": "policy development",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - domain security collaboration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.5542
+        },
+        "id": 10463,
+        "name": "cross - domain security collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive cyber hygiene practices": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.5017
+        },
+        "id": 10464,
+        "name": "comprehensive cyber hygiene practices",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain risk management expansion": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.4164
+        },
+        "id": 10465,
+        "name": "supply chain risk management expansion",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced identity verification techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.3159
+        },
+        "id": 10466,
+        "name": "advanced identity verification techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "artificial intelligence": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.2797
+        },
+        "id": 10467,
+        "name": "artificial intelligence",
+        "typedef": "KEYCONCEPT"
+    },
+    "global regulatory alignment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-05": 0.2683
+        },
+        "id": 10468,
+        "name": "global regulatory alignment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security posture management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-06": 0.5959
+        },
+        "id": 10470,
+        "name": "cloud security posture management",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response automation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-06": 0.5212
+        },
+        "id": 10471,
+        "name": "incident response automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "data privacy protections": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-06": 0.3191
+        },
+        "id": 10472,
+        "name": "data privacy protections",
+        "typedef": "KEYCONCEPT"
+    },
+    "endpoint detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.PS-06": 0.2071
+        },
+        "id": 10473,
+        "name": "endpoint detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive incident planning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.6582
+        },
+        "id": 10474,
+        "name": "proactive incident planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber resilience integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.5765
+        },
+        "id": 10475,
+        "name": "cyber resilience integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security alerts": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.4558
+        },
+        "id": 10476,
+        "name": "security alerts",
+        "typedef": "KEYCONCEPT"
+    },
+    "agile response playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.3651
+        },
+        "id": 10477,
+        "name": "agile response playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "authorization techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.3643
+        },
+        "id": 10478,
+        "name": "authorization techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic capabilities": {
+        "accronym": "",
+        "occurrence": 7,
+        "controls": {
+            "PR.IR-01": 0.335,
+            "PR.IR-02": 0.381,
+            "PR.IR-03": 0.3618,
+            "RS.MA-03": 0.2877,
+            "RS.AN-03": 0.451,
+            "RS.CO-02": 0.3655,
+            "RS.MI-01": 0.3612
+        },
+        "id": 10479,
+        "name": "forensic capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - departmental collaboration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-01": 0.3329
+        },
+        "id": 10480,
+        "name": "cross - departmental collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-02": 0.6677
+        },
+        "id": 10482,
+        "name": "incident management",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive impact assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-02": 0.3087
+        },
+        "id": 10484,
+        "name": "comprehensive impact assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident response plan": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-03": 0.6534
+        },
+        "id": 10485,
+        "name": "comprehensive incident response plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder training": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.IR-03": 0.3724,
+            "RS.CO-02": 0.3147
+        },
+        "id": 10486,
+        "name": "stakeholder training",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular simulation exercises": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-03": 0.3191
+        },
+        "id": 10487,
+        "name": "regular simulation exercises",
+        "typedef": "KEYCONCEPT"
+    },
+    "communication protocols": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "PR.IR-03": 0.2968,
+            "RS.CO-02": 0.272,
+            "RS.CO-03": 0.3123,
+            "RC.RP-06": 0.3616,
+            "RC.CO-04": 0.3603
+        },
+        "id": 10488,
+        "name": "communication protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "log aggregation": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.IR-03": 0.2743,
+            "DE.CM-03": 0.2596
+        },
+        "id": 10489,
+        "name": "log aggregation",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous learning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-03": 0.217
+        },
+        "id": 10490,
+        "name": "continuous learning",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident preparedness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-04": 0.6912
+        },
+        "id": 10491,
+        "name": "comprehensive incident preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-04": 0.65
+        },
+        "id": 10492,
+        "name": "incident response playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive threat intelligence sharing": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-04": 0.5408
+        },
+        "id": 10493,
+        "name": "proactive threat intelligence sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "data protection strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-04": 0.4638
+        },
+        "id": 10494,
+        "name": "data protection strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "ddos attacks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "PR.IR-04": 0.4114
+        },
+        "id": 10495,
+        "name": "ddos attacks",
+        "typedef": "KEYCONCEPT"
+    },
+    "log management": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.IR-04": 0.3922,
+            "DE.CM-01": 0.3671
+        },
+        "id": 10496,
+        "name": "log management",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic capabilities enhancement": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.IR-04": 0.3466,
+            "RC.RP-06": 0.5812
+        },
+        "id": 10497,
+        "name": "forensic capabilities enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection processes": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "PR.IR-04": 0.2202,
+            "DE.AE-07": 0.2972
+        },
+        "id": 10498,
+        "name": "detection processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "network traffic analysis": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.CM-01": 0.5954,
+            "DE.CM-06": 0.5064
+        },
+        "id": 10499,
+        "name": "network traffic analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced persistent threats identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-01": 0.5452
+        },
+        "id": 10500,
+        "name": "advanced persistent threats identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud security monitoring": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.CM-01": 0.5192,
+            "RS.AN-07": 0.5012
+        },
+        "id": 10501,
+        "name": "cloud security monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative incident response": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.CM-01": 0.422,
+            "RS.AN-08": 0.417
+        },
+        "id": 10502,
+        "name": "collaborative incident response",
+        "typedef": "KEYCONCEPT"
+    },
+    "security information": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "DE.CM-01": 0.3971,
+            "DE.AE-06": 0.3757,
+            "RS.MA-02": 0.3956
+        },
+        "id": 10503,
+        "name": "security information",
+        "typedef": "KEYCONCEPT"
+    },
+    "configurable alert thresholds": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-01": 0.313
+        },
+        "id": 10504,
+        "name": "configurable alert thresholds",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic data preservation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-01": 0.2502
+        },
+        "id": 10505,
+        "name": "forensic data preservation",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced persistent threat": {
+        "accronym": "",
+        "occurrence": 7,
+        "controls": {
+            "DE.CM-02": 0.5263,
+            "DE.CM-03": 0.5037,
+            "DE.AE-06": 0.5026,
+            "RS.MA-01": 0.53,
+            "RS.MA-03": 0.4953,
+            "RS.AN-07": 0.4954,
+            "RS.AN-08": 0.5311
+        },
+        "id": 10507,
+        "name": "advanced persistent threat",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident data sharing": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.CM-02": 0.3247,
+            "RS.MA-02": 0.4758
+        },
+        "id": 10508,
+        "name": "incident data sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "custom detection algorithm development": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-02": 0.2827
+        },
+        "id": 10509,
+        "name": "custom detection algorithm development",
+        "typedef": "KEYCONCEPT"
+    },
+    "hybrid environment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-02": 0.179
+        },
+        "id": 10510,
+        "name": "hybrid environment",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - domain security event correlation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-03": 0.5899
+        },
+        "id": 10514,
+        "name": "cross - domain security event correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "multi - factor anomaly detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-03": 0.4746
+        },
+        "id": 10515,
+        "name": "multi - factor anomaly detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response plan": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-03": 0.4301
+        },
+        "id": 10516,
+        "name": "incident response plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "apt detection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-03": 0.2284
+        },
+        "id": 10517,
+        "name": "apt detection",
+        "typedef": "KEYCONCEPT"
+    },
+    "vulnerability detection integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.5452
+        },
+        "id": 10518,
+        "name": "vulnerability detection integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic analysis support": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.4137
+        },
+        "id": 10519,
+        "name": "forensic analysis support",
+        "typedef": "KEYCONCEPT"
+    },
+    "entity behavior analysis ueba": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.3879
+        },
+        "id": 10520,
+        "name": "entity behavior analysis ueba",
+        "typedef": "KEYCONCEPT"
+    },
+    "intelligence feeds": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.3507
+        },
+        "id": 10521,
+        "name": "intelligence feeds",
+        "typedef": "KEYCONCEPT"
+    },
+    "cloud environment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.3248
+        },
+        "id": 10522,
+        "name": "cloud environment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident correlation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.2678
+        },
+        "id": 10523,
+        "name": "incident correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection criteria": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-06": 0.2389
+        },
+        "id": 10524,
+        "name": "detection criteria",
+        "typedef": "KEYCONCEPT"
+    },
+    "aware security analytics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.5649
+        },
+        "id": 10526,
+        "name": "aware security analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "supply chain security monitoring": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.4722
+        },
+        "id": 10527,
+        "name": "supply chain security monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced anomaly detection techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.4686
+        },
+        "id": 10528,
+        "name": "advanced anomaly detection techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response capabilities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.4179
+        },
+        "id": 10529,
+        "name": "incident response capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "trust integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.4011
+        },
+        "id": 10530,
+        "name": "trust integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "end data lifecycle security": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.3972
+        },
+        "id": 10531,
+        "name": "end data lifecycle security",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident simulation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.CM-09": 0.3216
+        },
+        "id": 10532,
+        "name": "incident simulation",
+        "typedef": "KEYCONCEPT"
+    },
+    "time threat intelligence integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-02": 0.612
+        },
+        "id": 10534,
+        "name": "time threat intelligence integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection tools": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-02": 0.3637
+        },
+        "id": 10535,
+        "name": "detection tools",
+        "typedef": "KEYCONCEPT"
+    },
+    "custom detection playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-02": 0.3486
+        },
+        "id": 10536,
+        "name": "custom detection playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident prioritization": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.AE-02": 0.3404,
+            "DE.AE-07": 0.411
+        },
+        "id": 10537,
+        "name": "incident prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "security controls": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-02": 0.3282
+        },
+        "id": 10538,
+        "name": "security controls",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive log management": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "DE.AE-02": 0.3277,
+            "DE.AE-07": 0.363,
+            "RS.AN-07": 0.3227
+        },
+        "id": 10539,
+        "name": "comprehensive log management",
+        "typedef": "KEYCONCEPT"
+    },
+    "machine learning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-02": 0.3227
+        },
+        "id": 10540,
+        "name": "machine learning",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative threat defense": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-03": 0.5288
+        },
+        "id": 10542,
+        "name": "collaborative threat defense",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident classification": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.AE-03": 0.5254,
+            "RS.MI-01": 0.5034
+        },
+        "id": 10543,
+        "name": "incident classification",
+        "typedef": "KEYCONCEPT"
+    },
+    "detection capabilities": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "DE.AE-03": 0.4076,
+            "DE.AE-06": 0.267,
+            "RS.AN-03": 0.339
+        },
+        "id": 10544,
+        "name": "detection capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive hunting": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "DE.AE-03": 0.3473,
+            "DE.AE-08": 0.2629,
+            "RS.MA-03": 0.2357,
+            "RS.AN-03": 0.2577
+        },
+        "id": 10545,
+        "name": "proactive hunting",
+        "typedef": "KEYCONCEPT"
+    },
+    "contextual analysis": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "DE.AE-03": 0.3418,
+            "RS.MA-03": 0.3927,
+            "RS.AN-03": 0.3546
+        },
+        "id": 10546,
+        "name": "contextual analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident impact assessment": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-04": 0.5631
+        },
+        "id": 10548,
+        "name": "incident impact assessment",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-04": 0.5535
+        },
+        "id": 10549,
+        "name": "incident analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative event investigation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-04": 0.5484
+        },
+        "id": 10550,
+        "name": "collaborative event investigation",
+        "typedef": "KEYCONCEPT"
+    },
+    "event correlation techniques": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.AE-04": 0.5182,
+            "RS.MA-02": 0.5621
+        },
+        "id": 10551,
+        "name": "event correlation techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "alert prioritization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-04": 0.4488
+        },
+        "id": 10552,
+        "name": "alert prioritization",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - domain detection capabilities": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "DE.AE-04": 0.3282,
+            "DE.AE-08": 0.3403
+        },
+        "id": 10553,
+        "name": "cross - domain detection capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "security orchestration": {
+        "accronym": "",
+        "occurrence": 3,
+        "controls": {
+            "DE.AE-06": 0.4805,
+            "RS.AN-06": 0.44,
+            "RS.AN-08": 0.4264
+        },
+        "id": 10556,
+        "name": "security orchestration",
+        "typedef": "KEYCONCEPT"
+    },
+    "event correlation": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "DE.AE-06": 0.3692,
+            "DE.AE-07": 0.4387,
+            "DE.AE-08": 0.3788,
+            "RS.AN-07": 0.368
+        },
+        "id": 10557,
+        "name": "event correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - platform security visibility": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-06": 0.339
+        },
+        "id": 10558,
+        "name": "cross - platform security visibility",
+        "typedef": "KEYCONCEPT"
+    },
+    "Security Information and Event Management": {
+        "accronym": "siem",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-06": 0.1189
+        },
+        "id": 10561,
+        "name": "Security Information and Event Management",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - platform detection capabilities": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-07": 0.3593
+        },
+        "id": 10562,
+        "name": "cross - platform detection capabilities",
+        "typedef": "KEYCONCEPT"
+    },
+    "proactive detection strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-07": 0.3502
+        },
+        "id": 10563,
+        "name": "proactive detection strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive detection technologies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-07": 0.319
+        },
+        "id": 10564,
+        "name": "adaptive detection technologies",
+        "typedef": "KEYCONCEPT"
+    },
+    "holistic incident analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-08": 0.5357
+        },
+        "id": 10565,
+        "name": "holistic incident analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "sophisticated analytics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-08": 0.3626
+        },
+        "id": 10566,
+        "name": "sophisticated analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive coverage": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "DE.AE-08": 0.2225
+        },
+        "id": 10567,
+        "name": "comprehensive coverage",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident analysis": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "RS.MA-01": 0.4655,
+            "RS.MA-04": 0.6472,
+            "RS.CO-02": 0.5991,
+            "RS.CO-03": 0.5745
+        },
+        "id": 10568,
+        "name": "comprehensive incident analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "apt preparedness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-01": 0.3675
+        },
+        "id": 10569,
+        "name": "apt preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive response protocols": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-01": 0.3431
+        },
+        "id": 10570,
+        "name": "adaptive response protocols",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery planning": {
+        "accronym": "",
+        "occurrence": 5,
+        "controls": {
+            "RS.MA-01": 0.3199,
+            "RS.MI-02": 0.3458,
+            "RC.RP-01": 0.4775,
+            "RC.RP-02": 0.4589,
+            "RC.RP-05": 0.5307
+        },
+        "id": 10571,
+        "name": "recovery planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "private sector collaboration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-01": 0.2581
+        },
+        "id": 10572,
+        "name": "private sector collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "RS.MA-02": 0.5696,
+            "RS.AN-06": 0.543
+        },
+        "id": 10573,
+        "name": "incident response integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "security automation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-02": 0.5068
+        },
+        "id": 10574,
+        "name": "security automation",
+        "typedef": "KEYCONCEPT"
+    },
+    "aware security alerts": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-02": 0.4892
+        },
+        "id": 10575,
+        "name": "aware security alerts",
+        "typedef": "KEYCONCEPT"
+    },
+    "event management siem system optimization": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-02": 0.4079
+        },
+        "id": 10576,
+        "name": "event management siem system optimization",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident root": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-02": 0.1929
+        },
+        "id": 10577,
+        "name": "incident root",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident trend analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-03": 0.6188
+        },
+        "id": 10578,
+        "name": "incident trend analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive monitoring": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-03": 0.4424
+        },
+        "id": 10579,
+        "name": "comprehensive monitoring",
+        "typedef": "KEYCONCEPT"
+    },
+    "alert triage": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-03": 0.4407
+        },
+        "id": 10580,
+        "name": "alert triage",
+        "typedef": "KEYCONCEPT"
+    },
+    "dynamic playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-03": 0.1566
+        },
+        "id": 10581,
+        "name": "dynamic playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident analytics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.6839
+        },
+        "id": 10582,
+        "name": "incident analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident management plan": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.6462
+        },
+        "id": 10583,
+        "name": "comprehensive incident management plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident response teams": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.5731
+        },
+        "id": 10584,
+        "name": "incident response teams",
+        "typedef": "KEYCONCEPT"
+    },
+    "time incident reporting": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.5279
+        },
+        "id": 10585,
+        "name": "time incident reporting",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic preparedness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.4466
+        },
+        "id": 10586,
+        "name": "forensic preparedness",
+        "typedef": "KEYCONCEPT"
+    },
+    "user behavior analytics uba": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.4463
+        },
+        "id": 10587,
+        "name": "user behavior analytics uba",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced monitoring strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.333
+        },
+        "id": 10588,
+        "name": "advanced monitoring strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaborative information": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.2594
+        },
+        "id": 10589,
+        "name": "collaborative information",
+        "typedef": "KEYCONCEPT"
+    },
+    "compliance requirements": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-04": 0.2182
+        },
+        "id": 10590,
+        "name": "compliance requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber hygiene education": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.5043
+        },
+        "id": 10591,
+        "name": "cyber hygiene education",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - functional team collaboration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.4481
+        },
+        "id": 10592,
+        "name": "cross - functional team collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.3285
+        },
+        "id": 10593,
+        "name": "recovery integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "continual improvement process": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.2893
+        },
+        "id": 10594,
+        "name": "continual improvement process",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive response": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.2818
+        },
+        "id": 10595,
+        "name": "comprehensive response",
+        "typedef": "KEYCONCEPT"
+    },
+    "customizable playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MA-05": 0.1095
+        },
+        "id": 10596,
+        "name": "customizable playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive event log management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-03": 0.4298
+        },
+        "id": 10597,
+        "name": "comprehensive event log management",
+        "typedef": "KEYCONCEPT"
+    },
+    "analysis tools": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-03": 0.3877
+        },
+        "id": 10598,
+        "name": "analysis tools",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - team collaboration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-03": 0.2873
+        },
+        "id": 10599,
+        "name": "cross - team collaboration",
+        "typedef": "KEYCONCEPT"
+    },
+    "data analytics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-06": 0.3822
+        },
+        "id": 10600,
+        "name": "data analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - platform correlation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-06": 0.3513
+        },
+        "id": 10601,
+        "name": "cross - platform correlation",
+        "typedef": "KEYCONCEPT"
+    },
+    "integrative security orchestration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-07": 0.5244
+        },
+        "id": 10602,
+        "name": "integrative security orchestration",
+        "typedef": "KEYCONCEPT"
+    },
+    "adaptive threat identification": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-07": 0.4823
+        },
+        "id": 10603,
+        "name": "adaptive threat identification",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic readiness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-07": 0.2814
+        },
+        "id": 10604,
+        "name": "forensic readiness",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - domain data fusion": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-08": 0.3334
+        },
+        "id": 10606,
+        "name": "cross - domain data fusion",
+        "typedef": "KEYCONCEPT"
+    },
+    "hybrid environment support": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.AN-08": 0.2672
+        },
+        "id": 10607,
+        "name": "hybrid environment support",
+        "typedef": "KEYCONCEPT"
+    },
+    "response plan": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-02": 0.4344
+        },
+        "id": 10610,
+        "name": "response plan",
+        "typedef": "KEYCONCEPT"
+    },
+    "knowledge management": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-02": 0.3492
+        },
+        "id": 10611,
+        "name": "knowledge management",
+        "typedef": "KEYCONCEPT"
+    },
+    "post - incident activity review": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-03": 0.514
+        },
+        "id": 10612,
+        "name": "post - incident activity review",
+        "typedef": "KEYCONCEPT"
+    },
+    "user awareness": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-03": 0.3647
+        },
+        "id": 10613,
+        "name": "user awareness",
+        "typedef": "KEYCONCEPT"
+    },
+    "timely information sharing": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-03": 0.3402
+        },
+        "id": 10614,
+        "name": "timely information sharing",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-03": 0.2936
+        },
+        "id": 10616,
+        "name": "forensic techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "continuous improvement loop": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.CO-03": 0.2352
+        },
+        "id": 10617,
+        "name": "continuous improvement loop",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber incident recovery planning": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.6176
+        },
+        "id": 10618,
+        "name": "cyber incident recovery planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive incident documentation": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.5157
+        },
+        "id": 10619,
+        "name": "comprehensive incident documentation",
+        "typedef": "KEYCONCEPT"
+    },
+    "collaboration platforms": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.2587
+        },
+        "id": 10620,
+        "name": "collaboration platforms",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced correlation techniques": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.2414
+        },
+        "id": 10621,
+        "name": "advanced correlation techniques",
+        "typedef": "KEYCONCEPT"
+    },
+    "time analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.2249
+        },
+        "id": 10622,
+        "name": "time analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "User and Entity Behavior Analytics": {
+        "accronym": "ueba",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-01": 0.178
+        },
+        "id": 10623,
+        "name": "User and Entity Behavior Analytics",
+        "typedef": "KEYCONCEPT"
+    },
+    "forensic analysis integration": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "RS.MI-02": 0.4731,
+            "RC.RP-02": 0.3591
+        },
+        "id": 10624,
+        "name": "forensic analysis integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "cross - functional team coordination": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-02": 0.4641
+        },
+        "id": 10625,
+        "name": "cross - functional team coordination",
+        "typedef": "KEYCONCEPT"
+    },
+    "root cause analysis": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RS.MI-02": 0.3378
+        },
+        "id": 10626,
+        "name": "root cause analysis",
+        "typedef": "KEYCONCEPT"
+    },
+    "cybersecurity insurance": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-01": 0.4926
+        },
+        "id": 10627,
+        "name": "cybersecurity insurance",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery metrics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-01": 0.4512
+        },
+        "id": 10628,
+        "name": "recovery metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "public relations management": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "RC.RP-01": 0.3637,
+            "RC.RP-06": 0.3734,
+            "RC.CO-03": 0.6156,
+            "RC.CO-04": 0.4435
+        },
+        "id": 10629,
+        "name": "public relations management",
+        "typedef": "KEYCONCEPT"
+    },
+    "crisis communication": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-02": 0.5256
+        },
+        "id": 10631,
+        "name": "crisis communication",
+        "typedef": "KEYCONCEPT"
+    },
+    "public relations": {
+        "accronym": "",
+        "occurrence": 2,
+        "controls": {
+            "RC.RP-02": 0.3986,
+            "RC.RP-04": 0.2963
+        },
+        "id": 10632,
+        "name": "public relations",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular recovery testing": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-02": 0.3235
+        },
+        "id": 10633,
+        "name": "regular recovery testing",
+        "typedef": "KEYCONCEPT"
+    },
+    "action review": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-02": 0.2541
+        },
+        "id": 10634,
+        "name": "action review",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive recovery planning": {
+        "accronym": "",
+        "occurrence": 4,
+        "controls": {
+            "RC.RP-03": 0.6358,
+            "RC.RP-04": 0.5554,
+            "RC.RP-06": 0.4611,
+            "RC.CO-04": 0.4492
+        },
+        "id": 10636,
+        "name": "comprehensive recovery planning",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber insurance integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-03": 0.5387
+        },
+        "id": 10637,
+        "name": "cyber insurance integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "resilience metrics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-03": 0.4874
+        },
+        "id": 10638,
+        "name": "resilience metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "post - incident review": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-03": 0.2897
+        },
+        "id": 10639,
+        "name": "post - incident review",
+        "typedef": "KEYCONCEPT"
+    },
+    "recovery processes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-04": 0.4988
+        },
+        "id": 10641,
+        "name": "recovery processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber incident learnings": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-04": 0.4756
+        },
+        "id": 10642,
+        "name": "cyber incident learnings",
+        "typedef": "KEYCONCEPT"
+    },
+    "brand protection": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-04": 0.4107
+        },
+        "id": 10643,
+        "name": "brand protection",
+        "typedef": "KEYCONCEPT"
+    },
+    "external notifications": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-04": 0.2159
+        },
+        "id": 10644,
+        "name": "external notifications",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber resilience metrics": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-05": 0.564
+        },
+        "id": 10646,
+        "name": "cyber resilience metrics",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive communication strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-05": 0.3087
+        },
+        "id": 10647,
+        "name": "comprehensive communication strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "external standards": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-05": 0.1288
+        },
+        "id": 10648,
+        "name": "external standards",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder collaboration enhancement": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-06": 0.499
+        },
+        "id": 10651,
+        "name": "stakeholder collaboration enhancement",
+        "typedef": "KEYCONCEPT"
+    },
+    "impact minimization strategies": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-06": 0.3449
+        },
+        "id": 10652,
+        "name": "impact minimization strategies",
+        "typedef": "KEYCONCEPT"
+    },
+    "advanced analytics integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.RP-06": 0.3198
+        },
+        "id": 10653,
+        "name": "advanced analytics integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "incident communication tools": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.623
+        },
+        "id": 10654,
+        "name": "incident communication tools",
+        "typedef": "KEYCONCEPT"
+    },
+    "comprehensive communications strategy": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.6165
+        },
+        "id": 10655,
+        "name": "comprehensive communications strategy",
+        "typedef": "KEYCONCEPT"
+    },
+    "coordinated disclosure processes": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.5701
+        },
+        "id": 10656,
+        "name": "coordinated disclosure processes",
+        "typedef": "KEYCONCEPT"
+    },
+    "communication templates": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.4892
+        },
+        "id": 10657,
+        "name": "communication templates",
+        "typedef": "KEYCONCEPT"
+    },
+    "stakeholder requirements": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.4536
+        },
+        "id": 10658,
+        "name": "stakeholder requirements",
+        "typedef": "KEYCONCEPT"
+    },
+    "regular updates": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-03": 0.2421
+        },
+        "id": 10659,
+        "name": "regular updates",
+        "typedef": "KEYCONCEPT"
+    },
+    "cyber incident playbooks": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-04": 0.5653
+        },
+        "id": 10660,
+        "name": "cyber incident playbooks",
+        "typedef": "KEYCONCEPT"
+    },
+    "business continuity integration": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-04": 0.5242
+        },
+        "id": 10661,
+        "name": "business continuity integration",
+        "typedef": "KEYCONCEPT"
+    },
+    "non - technical staff training": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-04": 0.3919
+        },
+        "id": 10662,
+        "name": "non - technical staff training",
+        "typedef": "KEYCONCEPT"
+    },
+    "regulatory reporting compliance": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-04": 0.3328
+        },
+        "id": 10663,
+        "name": "regulatory reporting compliance",
+        "typedef": "KEYCONCEPT"
+    },
+    "response coordination": {
+        "accronym": "",
+        "occurrence": 1,
+        "controls": {
+            "RC.CO-04": 0.3181
+        },
+        "id": 10664,
+        "name": "response coordination",
+        "typedef": "KEYCONCEPT"
+    }
+}
