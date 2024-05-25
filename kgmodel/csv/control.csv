@@ -1,210 +1,103 @@
-﻿id,functional_category,name
-1001,IDENTIFY-Asset Management (ID.AM),ID.AM-1
-1002,IDENTIFY-Asset Management (ID.AM),ID.AM-2
-1003,IDENTIFY-Asset Management (ID.AM),ID.AM-3
-1004,IDENTIFY-Asset Management (ID.AM),ID.AM-4
-1005,IDENTIFY-Asset Management (ID.AM),ID.AM-5
-1006,IDENTIFY-Asset Management (ID.AM),ID.AM-6
-1007,IDENTIFY-Business Environment (ID.BE),ID.BE-1
-1008,IDENTIFY-Business Environment (ID.BE),ID.BE-2
-1009,IDENTIFY-Business Environment (ID.BE),ID.BE-3
-1010,IDENTIFY-Business Environment (ID.BE),ID.BE-4
-1011,IDENTIFY-Business Environment (ID.BE),ID.BE-5
-1012,IDENTIFY-Governance (ID.GV),ID.GV-1
-1013,IDENTIFY-Governance (ID.GV),ID.GV-2
-1014,IDENTIFY-Governance (ID.GV),ID.GV-3
-1015,IDENTIFY-Governance (ID.GV),ID.GV-4
-1016,IDENTIFY-Risk Assessment (ID.RA),ID.RA-1
-1017,IDENTIFY-Risk Assessment (ID.RA),ID.RA-2
-1018,IDENTIFY-Risk Assessment (ID.RA),ID.RA-3
-1019,IDENTIFY-Risk Assessment (ID.RA),ID.RA-4
-1020,IDENTIFY-Risk Assessment (ID.RA),ID.RA-5
-1021,IDENTIFY-Risk Assessment (ID.RA),ID.RA-6
-1022,IDENTIFY-Risk Management Strategy (ID.RM),ID.RM-1
-1023,IDENTIFY-Risk Management Strategy (ID.RM),ID.RM-2
-1024,IDENTIFY-Risk Management Strategy (ID.RM),ID.RM-3
-1025,IDENTIFY-Supply Chain Risk Management (ID.SC),ID.SC-1
-1026,IDENTIFY-Supply Chain Risk Management (ID.SC),ID.SC-2
-1027,IDENTIFY-Supply Chain Risk Management (ID.SC),ID.SC-3
-1028,IDENTIFY-Supply Chain Risk Management (ID.SC),ID.SC-4
-1029,IDENTIFY-Supply Chain Risk Management (ID.SC),ID.SC-5
-1030,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-1
-1031,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-2
-1032,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-3
-1033,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-4
-1034,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-5
-1035,PROTECT-Identity Management and Access Control (PR.AC),PR.AC-6
-1036,PROTECT-Awareness and Training (PR.AT),PR.AT-1
-1037,PROTECT-Awareness and Training (PR.AT),PR.AT-2
-1038,PROTECT-Awareness and Training (PR.AT),PR.AT-3
-1039,PROTECT-Awareness and Training (PR.AT),PR.AT-4
-1040,PROTECT-Awareness and Training (PR.AT),PR.AT-5
-1041,PROTECT-Data Security (PR.DS),PR.DS-1
-1042,PROTECT-Data Security (PR.DS),PR.DS-2
-1043,PROTECT-Data Security (PR.DS),PR.DS-3
-1044,PROTECT-Data Security (PR.DS),PR.DS-4
-1045,PROTECT-Data Security (PR.DS),PR.DS-5
-1046,PROTECT-Data Security (PR.DS),PR.DS-6
-1047,PROTECT-Data Security (PR.DS),PR.DS-7
-1048,PROTECT-Data Security (PR.DS),PR.DS-8
-1049,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-1
-1050,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-2
-1051,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-3
-1052,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-4
-1053,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-5
-1054,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-6
-1055,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-7
-1056,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-8
-1057,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-9
-1058,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-10
-1059,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-11
-1060,PROTECT-Information Protection Processes and Procedures (PR.IP),PR.IP-12
-1061,PROTECT-Maintenance (PR.MA),PR.MA-1
-1062,PROTECT-Maintenance (PR.MA),PR.MA-2
-1063,PROTECT-Protective Technology (PRPT),PR.PT-1
-1064,PROTECT-Protective Technology (PR.PT),PR.PT-2
-1065,PROTECT-Protective Technology (PR.PT),PR.PT-3
-1066,PROTECT-Protective Technology (PR.PT),PR.PT-4
-1067,PROTECT-Protective Technology (PR.PT),PR.PT-5
-1068,DETECT-Anomalies and Events (DE.AE),DE.AE-1
-1069,DETECT-Anomalies and Events (DE.AE),DE.AE-2
-1070,DETECT-Anomalies and Events (DE.AE),DE.AE-3
-1071,DETECT-Anomalies and Events (DE.AE),DE.AE-4
-1072,DETECT-Anomalies and Events (DE.AE),DE.AE-5
-1073,DETECT-Anomalies and Events (DE.AE),DE.CM-1
-1074,DETECT-Anomalies and Events (DE.AE),DE.CM-2
-1075,DETECT-Anomalies and Events (DE.AE),DE.CM-3
-1076,DETECT-Anomalies and Events (DE.AE),DE.CM-4
-1077,DETECT-Anomalies and Events (DE.AE),DE.CM-5
-1078,DETECT-Anomalies and Events (DE.AE),DE.CM-6
-1079,DETECT-Anomalies and Events (DE.AE),DE.CM-7
-1080,DETECT-Anomalies and Events (DE.AE),DE.CM-8
-1081,DETECT-Anomalies and Events (DE.AE),DE.DP-1
-1082,DETECT-Anomalies and Events (DE.AE),DE.DP-2
-1083,DETECT-Anomalies and Events (DE.AE),DE.DP-3
-1084,DETECT-Anomalies and Events (DE.AE),DE.DP-4
-1085,DETECT-Anomalies and Events (DE.AE),DE.DP-5
-1086,RESPOND-Response Planning (RS.RP),RS.RP-1
-1087,RESPOND-Communications (RS.CO),RS.CO-1
-1088,RESPOND-Communications (RS.CO),RS.CO-2
-1089,RESPOND-Communications (RS.CO),RS.CO-3
-1090,RESPOND-Communications (RS.CO),RS.CO-4
-1091,RESPOND-Communications (RS.CO),RS.CO-5
-1092,RESPOND-Analysis (RS.AN),RS.AN-1
-1093,RESPOND-Analysis (RS.AN),RS.AN-2
-1094,RESPOND-Analysis (RS.AN),RS.AN-3
-1095,RESPOND-Analysis (RS.AN),RS.AN-4
-1096,RESPOND-Mitigation (RS.MI),RS.MI-1
-1097,RESPOND-Mitigation (RS.MI),RS.MI-2
-1098,RESPOND-Mitigation (RS.MI),RS.MI-3
-1099,RESPOND-Improvements (RS.IM),RS.IM-1
-1100,RESPOND-Improvements (RS.IM),RS.IM-2
-1101,RECOVER-Recovery Planning (RC.RP),RC.RP-1
-1102,RECOVER-Improvements (RC.IM),RC.IM-1
-1103,RECOVER-Improvements (RC.IM),RC.IM-2
-1104,RECOVER-Communications (RC.CO),RC.CO-1
-1105,RECOVER-Communications (RC.CO),RC.CO-2
-1106,RECOVER-Communications (RC.CO),RC.CO-3
-2001,GOVERN-Organizational Context (GV.OC),GV.OC-01
-2002,GOVERN-Organizational Context (GV.OC),GV.OC-02
-2003,GOVERN-Organizational Context (GV.OC),GV.OC-03
-2004,GOVERN-Organizational Context (GV.OC),GV.OC-04
-2005,GOVERN-Organizational Context (GV.OC),GV.OC-05
-2006,GOVERN-Risk Management Strategy (GV.RM),GV.RM-01
-2007,GOVERN-Risk Management Strategy (GV.RM),GV.RM-02
-2008,GOVERN-Risk Management Strategy (GV.RM),GV.RM-03
-2009,GOVERN-Risk Management Strategy (GV.RM),GV.RM-04
-2010,GOVERN-Risk Management Strategy (GV.RM),GV.RM-05
-2011,GOVERN-Risk Management Strategy (GV.RM),GV.RM-06
-2012,GOVERN-Risk Management Strategy (GV.RM),GV.RM-07
-2013,GOVERN-Roles-Responsibilities-Authorities (GV.RR),GV.RR-01
-2014,GOVERN-Roles-Responsibilities-Authorities (GV.RR),GV.RR-02
-2015,GOVERN-Roles-Responsibilities-Authorities (GV.RR),GV.RR-03
-2016,GOVERN-Roles-Responsibilities-Authorities (GV.RR),GV.RR-04
-2017,GOVERN-Policy (GV.PO),GV.PO-01
-2018,GOVERN-Policy (GV.PO),GV.PO-02
-2019,GOVERN-Oversight (GV.OV),GV.OV-01
-2020,GOVERN-Oversight (GV.OV),GV.OV-02
-2021,GOVERN-Oversight (GV.OV),GV.OV-03
-2022,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-01
-2023,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-02
-2024,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-03
-2025,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-04
-2026,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-05
-2027,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-06
-2028,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-07
-2029,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-08
-2030,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-09
-2031,GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC),GV.SC-10
-2032,IDENTIFY-Asset Management (ID.AM),ID.AM-01
-2033,IDENTIFY-Asset Management (ID.AM),ID.AM-02
-2034,IDENTIFY-Asset Management (ID.AM),ID.AM-03
-2035,IDENTIFY-Asset Management (ID.AM),ID.AM-04
-2036,IDENTIFY-Asset Management (ID.AM),ID.AM-05
-2037,IDENTIFY-Asset Management (ID.AM),ID.AM-07
-2038,IDENTIFY-Asset Management (ID.AM),ID.AM-08
-2039,IDENTIFY-Risk Assessment (ID.RA),ID.RA-01
-2040,IDENTIFY-Risk Assessment (ID.RA),ID.RA-02
-2041,IDENTIFY-Risk Assessment (ID.RA),ID.RA-03
-2042,IDENTIFY-Risk Assessment (ID.RA),ID.RA-04
-2043,IDENTIFY-Risk Assessment (ID.RA),ID.RA-05
-2044,IDENTIFY-Risk Assessment (ID.RA),ID.RA-06
-2045,IDENTIFY-Risk Assessment (ID.RA),ID.RA-07
-2046,IDENTIFY-Risk Assessment (ID.RA),ID.RA-08
-2047,IDENTIFY-Risk Assessment (ID.RA),ID.RA-09
-2048,IDENTIFY-Risk Assessment (ID.RA),ID.RA-10
-2049,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-01
-2050,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-02
-2051,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-03
-2052,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-04
-2053,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-05
-2054,PROTECT-Identity Management, Authentication, and Access Control (PR.AA),PR.AA-06
-2055,PROTECT-Awareness and Training (PR.AT),PR.AT-01
-2056,PROTECT-Awareness and Training (PR.AT),PR.AT-02
-2057,PROTECT-Data Security (PR.DS),PR.DS-01
-2058,PROTECT-Data Security (PR.DS),PR.DS-02
-2059,PROTECT-Data Security (PR.DS),PR.DS-10
-2060,PROTECT-Data Security (PR.DS),PR.DS-11
-2061,PROTECT-Platform Security (PR.PS),PR.PS-01
-2062,PROTECT-Platform Security (PR.PS),PR.PS-02
-2063,PROTECT-Platform Security (PR.PS),PR.PS-03
-2064,PROTECT-Platform Security (PR.PS),PR.PS-04
-2065,PROTECT-Platform Security (PR.PS),PR.PS-05
-2066,PROTECT-Platform Security (PR.PS),PR.PS-06
-2067,PROTECT-Technology Infrastructure Resilience (PR.IR),PR.IR-01
-2068,PROTECT-Technology Infrastructure Resilience (PR.IR),PR.IR-02
-2069,PROTECT-Technology Infrastructure Resilience (PR.IR),PR.IR-03
-2070,PROTECT-Technology Infrastructure Resilience (PR.IR),PR.IR-04
-2071,DETECT-Continuous Monitoring (DE.CM),DE.CM-01
-2072,DETECT-Continuous Monitoring (DE.CM),DE.CM-02
-2073,DETECT-Continuous Monitoring (DE.CM),DE.CM-03
-2074,DETECT-Continuous Monitoring (DE.CM),DE.CM-06
-2075,DETECT-Continuous Monitoring (DE.CM),DE.CM-09
-2076,DETECT-Adverse Event Analysis (DE.AE),DE.AE-02
-2077,DETECT-Adverse Event Analysis (DE.AE),DE.AE-03
-2078,DETECT-Adverse Event Analysis (DE.AE),DE.AE-04
-2079,DETECT-Adverse Event Analysis (DE.AE),DE.AE-06
-2080,DETECT-Adverse Event Analysis (DE.AE),DE.AE-07
-2081,DETECT-Adverse Event Analysis (DE.AE),DE.AE-08
-2082,DETECT-Incident Management (RS.MA),RS.MA-01
-2083,DETECT-Incident Management (RS.MA),RS.MA-02
-2084,DETECT-Incident Management (RS.MA),RS.MA-03
-2085,DETECT-Incident Management (RS.MA),RS.MA-04
-2086,DETECT-Incident Management (RS.MA),RS.MA-05
-2087,DETECT-Incident Analysis (RS.AN),RS.AN-03
-2088,DETECT-Incident Analysis (RS.AN),RS.AN-06
-2089,DETECT-Incident Analysis (RS.AN),RS.AN-07
-2090,DETECT-Incident Analysis (RS.AN),RS.AN-08
-2091,DETECT-Incident Response Reporting and Communication (RS.CO),RS.CO-02
-2092,DETECT-Incident Response Reporting and Communication (RS.CO),RS.CO-03
-2093,DETECT-Incident Mitigation (RS.MI),RS.MI-01
-2094,DETECT-Incident Mitigation (RS.MI),RS.MI-02
-2095,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-01
-2096,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-02
-2097,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-03
-2098,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-04
-2099,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-05
-2100,RECOVER-Incident Recovery Plan Execution (RC.RP),RC.RP-06
-2101,RECOVER-Incident Recovery Communication (RC.CO),RC.CO-03
-2102,RECOVER-Incident Recovery Communication (RC.CO),RC.CO-04
-
+"id","functional_category","name"
+2001,"GOVERN-Organizational Context (GV.OC)","GV.OC-01"
+2002,"GOVERN-Organizational Context (GV.OC)","GV.OC-02"
+2003,"GOVERN-Organizational Context (GV.OC)","GV.OC-03"
+2004,"GOVERN-Organizational Context (GV.OC)","GV.OC-04"
+2005,"GOVERN-Organizational Context (GV.OC)","GV.OC-05"
+2006,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-01"
+2007,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-02"
+2008,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-03"
+2009,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-04"
+2010,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-05"
+2011,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-06"
+2012,"GOVERN-Risk Management Strategy (GV.RM)","GV.RM-07"
+2013,"GOVERN-Roles, Responsibilities, and Authorities (GV.RR)","GV.RR-01"
+2014,"GOVERN-Roles, Responsibilities, and Authorities (GV.RR)","GV.RR-02"
+2015,"GOVERN-Roles, Responsibilities, and Authorities (GV.RR)","GV.RR-03"
+2016,"GOVERN-Roles, Responsibilities, and Authorities (GV.RR)","GV.RR-04"
+2017,"GOVERN-Policy (GV.PO)","GV.PO-01"
+2018,"GOVERN-Policy (GV.PO)","GV.PO-02"
+2019,"GOVERN-Oversight (GV.OV)","GV.OV-01"
+2020,"GOVERN-Oversight (GV.OV)","GV.OV-02"
+2021,"GOVERN-Oversight (GV.OV)","GV.OV-03"
+2022,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-01"
+2023,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-02"
+2024,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-03"
+2025,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-04"
+2026,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-05"
+2027,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-06"
+2028,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-07"
+2029,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-08"
+2030,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-09"
+2031,"GOVERN-Cybersecurity Supply Chain Risk Management (GV.SC)","GV.SC-10"
+2032,"IDENTIFY-Asset Management (ID.AM)","ID.AM-01"
+2033,"IDENTIFY-Asset Management (ID.AM)","ID.AM-02"
+2034,"IDENTIFY-Asset Management (ID.AM)","ID.AM-03"
+2035,"IDENTIFY-Asset Management (ID.AM)","ID.AM-04"
+2036,"IDENTIFY-Asset Management (ID.AM)","ID.AM-05"
+2037,"IDENTIFY-Asset Management (ID.AM)","ID.AM-07"
+2038,"IDENTIFY-Asset Management (ID.AM)","ID.AM-08"
+2039,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-01"
+2040,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-02"
+2041,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-03"
+2042,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-04"
+2043,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-05"
+2044,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-06"
+2045,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-07"
+2046,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-08"
+2047,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-09"
+2048,"IDENTIFY-Risk Assessment (ID.RA)","ID.RA-10"
+2049,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-01"
+2050,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-02"
+2051,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-03"
+2052,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-04"
+2053,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-05"
+2054,"PROTECT-Identity Management, Authentication, and Access Control (PR.AA)","PR.AA-06"
+2055,"PROTECT-Awareness and Training (PR.AT)","PR.AT-01"
+2056,"PROTECT-Awareness and Training (PR.AT)","PR.AT-02"
+2057,"PROTECT-Data Security (PR.DS)","PR.DS-01"
+2058,"PROTECT-Data Security (PR.DS)","PR.DS-02"
+2059,"PROTECT-Data Security (PR.DS)","PR.DS-10"
+2060,"PROTECT-Data Security (PR.DS)","PR.DS-11"
+2061,"PROTECT-Platform Security (PR.PS)","PR.PS-01"
+2062,"PROTECT-Platform Security (PR.PS)","PR.PS-02"
+2063,"PROTECT-Platform Security (PR.PS)","PR.PS-03"
+2064,"PROTECT-Platform Security (PR.PS)","PR.PS-04"
+2065,"PROTECT-Platform Security (PR.PS)","PR.PS-05"
+2066,"PROTECT-Platform Security (PR.PS)","PR.PS-06"
+2067,"PROTECT-Technology Infrastructure Resilience (PR.IR)","PR.IR-01"
+2068,"PROTECT-Technology Infrastructure Resilience (PR.IR)","PR.IR-02"
+2069,"PROTECT-Technology Infrastructure Resilience (PR.IR)","PR.IR-03"
+2070,"PROTECT-Technology Infrastructure Resilience (PR.IR)","PR.IR-04"
+2071,"DETECT-Continuous Monitoring (DE.CM)","DE.CM-01"
+2072,"DETECT-Continuous Monitoring (DE.CM)","DE.CM-02"
+2073,"DETECT-Continuous Monitoring (DE.CM)","DE.CM-03"
+2074,"DETECT-Continuous Monitoring (DE.CM)","DE.CM-06"
+2075,"DETECT-Continuous Monitoring (DE.CM)","DE.CM-09"
+2076,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-02"
+2077,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-03"
+2078,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-04"
+2079,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-06"
+2080,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-07"
+2081,"DETECT-Adverse Event Analysis (DE.AE)","DE.AE-08"
+2082,"DETECT-Incident Management (RS.MA)","RS.MA-01"
+2083,"DETECT-Incident Management (RS.MA)","RS.MA-02"
+2084,"DETECT-Incident Management (RS.MA)","RS.MA-03"
+2085,"DETECT-Incident Management (RS.MA)","RS.MA-04"
+2086,"DETECT-Incident Management (RS.MA)","RS.MA-05"
+2087,"DETECT-Incident Analysis (RS.AN)","RS.AN-03"
+2088,"DETECT-Incident Analysis (RS.AN)","RS.AN-06"
+2089,"DETECT-Incident Analysis (RS.AN)","RS.AN-07"
+2090,"DETECT-Incident Analysis (RS.AN)","RS.AN-08"
+2091,"DETECT-Incident Response Reporting and Communication (RS.CO)","RS.CO-02"
+2092,"DETECT-Incident Response Reporting and Communication (RS.CO)","RS.CO-03"
+2093,"DETECT-Incident Mitigation (RS.MI)","RS.MI-01"
+2094,"DETECT-Incident Mitigation (RS.MI)","RS.MI-02"
+2095,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-01"
+2096,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-02"
+2097,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-03"
+2098,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-04"
+2099,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-05"
+2100,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-06"
+2101,"RECOVER-Incident Recovery Communication (RC.CO)","RC.CO-03"
+2102,"RECOVER-Incident Recovery Communication (RC.CO)","RC.CO-04"

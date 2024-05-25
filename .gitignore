@@ -163,3 +163,4 @@ cython_debug/
 .local
 .venv
 corpus
+kgmodel/csv/bak

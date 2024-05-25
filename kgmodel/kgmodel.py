@@ -57,6 +57,24 @@ class StandardNode(ModelBase):
         self.role = role
     def getRole(self):
         return self.role
+    
+
+class QuestionNode(ModelBase):
+    # Constructor
+    def __init__(self, id, name):
+        self.scope = ""
+        self.rationale = ""
+        self.controls = {}
+        ModelBase.__init__(self,id, name, NodeType.ASESSMENTQ.label)
+    
+    def getScope(self):
+        return self.scope
+    def setScope(self, scope):
+        self.scope = scope
+    def getRationale(self):
+        return self.rationale
+    def setRationale(self, rationale):
+        self.rationale = rationale
 
 class KeyConceptNode(ModelBase):
     # Constructor

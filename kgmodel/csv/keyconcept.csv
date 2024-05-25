@@ -1,568 +1,568 @@
-id,name,accronym
-10000,supply chain risk management,
-10001,cybersecurity awareness,
-10002,governance integration,
-10003,comprehensive asset management,
-10004,cyber risk quantification,
-10005,identity management,
-10006,advanced threat intelligence sharing,
-10007,continuous improvement process,
-10008,incident response,
-10009,organizational communication,
-10011,legal compliance,
-10012,remote workforce security,
-10013,governance framework integration,
-10014,data protection prioritization,
-10015,security monitoring,
-10016,regulatory compliance,
-10017,business objectives,
-10018,identity verification,
-10019,geographic data considerations,
-10020,resilience,
-10022,holistic cybersecurity policy development,
-10023,risk management strategy integration,
-10024,governance structure optimization,
-10026,continuous improvement,
-10027,stakeholder engagement,
-10028,performance metrics,
-10032,cybersecurity leadership,
-10033,resilience planning,
-10034,advanced threat intelligence integration,
-10035,proactive threat,
-10036,adaptive risk assessment models,
-10037,proactive asset management,
-10038,adaptive governance frameworks,
-10039,strategic alignment,
-10040,stakeholder communication,
-10041,data protection,
-10042,security awareness,
-10043,continuous security assessment,
-10044,strategic cybersecurity investments,
-10045,threat intelligence integration,
-10046,incident response coordination,
-10047,risk assessment alignment,
-10048,continuous improvement mechanism,
-10049,adaptive protection strategies,
-10050,technology innovation,
-10051,comprehensive risk management lifecycle,
-10052,risk management practices,
-10053,risk assessment,
-10054,cybersecurity,
-10055,incident impact analysis,
-10056,business strategy,
-10057,stakeholder collaboration,
-10058,continuous monitoring,
-10060,threat intelligence incorporation,
-10061,collaborative risk management,
-10062,risk mitigation,
-10063,cybersecurity culture,
-10064,dynamic risk assessment models,
-10065,resilience measures,
-10066,legal compliance integration,
-10067,strategic planning integration,
-10068,risk management,
-10069,risk communication,
-10070,resource allocation,
-10074,enterprise risk management,
-10075,comprehensive risk assessment,
-10076,cybersecurity metrics,
-10077,adaptive risk management frameworks,
-10078,incident preparedness,
-10079,advanced threat intelligence,
-10080,strategic risk appetite alignment,
-10081,regular risk review,
-10082,supply chain risk management integration,
-10083,cybersecurity awareness training,
-10084,threat intelligence sharing,
-10085,cloud security adaptation,
-10086,vulnerability management,
-10087,data privacy,
-10090,comprehensive risk management strategy,
-10091,risk identification,
-10092,regular risk assessment,
-10093,business processes,
-10095,advanced technologies,
-10096,regulatory alignment,
-10097,risk management integration,
-10098,incident recovery planning,
-10099,continuous improvement cycle,
-10102,customizable implementation,
-10104,strategic organizational planning,
-10106,resource prioritization,
-10107,comprehensive incident response,
-10108,cybersecurity events,
-10109,cyber risk,
-10110,threat intelligence platforms,
-10111,supply chain resilience,
-10112,user awareness training,
-10113,stakeholder communication strategies,
-10114,data protection methods,
-10115,external information,
-10117,comprehensive vulnerability management,
-10118,incident readiness,
-10119,quantitative risk metrics,
-10120,cloud security considerations,
-10121,data protection enhancements,
-10122,threat intelligence,
-10123,asset visibility,
-10124,access complexities,
-10127,disaster recovery capabilities,
-10128,risk response strategies,
-10129,business continuity planning,
-10130,cyber insurance considerations,
-10133,governance framework enhancement,
-10134,security culture,
-10135,level involvement,
-10137,governance incorporation,
-10138,strategic planning alignment,
-10139,standard development,
-10140,resource alignment,
-10142,organizational cybersecurity governance,
-10145,cybersecurity risk management integration,
-10146,leadership commitment,
-10147,information sharing,
-10148,civil liberties,
-10149,supply chain security,
-10150,governance scope,
-10151,adaptive risk management,
-10152,privacy controls,
-10153,quantitative risk assessment,
-10154,employee training,
-10155,supply chain risk management enhancement,
-10156,security awareness training,
-10157,vulnerability management program,
-10158,cloud security focus,
-10159,comprehensive identity verification,
-10160,asset management refinement,
-10161,cyber supply chain risk management,
-10162,vulnerability management integration,
-10163,cybersecurity role,
-10164,asset inventory accuracy,
-10165,asset management visibility,
-10166,asset decommissioning,
-10167,data security,
-10168,external dependencies management,
-10169,resource classification,
-10170,asset association,
-10171,supply chain transparency,
-10172,vendor risk assessments,
-10173,security requirements,
-10174,suppliers,
-10176,party security performance,
-10179,cybersecurity standards,
-10180,cybersecurity activities,
-10181,resilience frameworks,
-10182,supply chain risk,
-10183,asset management,
-10184,cross - organizational communication,
-10186,identity verification methods,
-10190,cloud security enhancement,
-10191,continuous security monitoring,
-10192,robust encryption standards,
-10193,party security,
-10195,strategy integration,
-10197,comprehensive cyber incident preparedness,
-10198,cloud security strategy,
-10199,systematic security control reviews,
-10200,advanced endpoint detection,
-10201,privacy considerations,
-10204,comprehensive security awareness,
-10205,strategic cybersecurity investment,
-10206,cloud security,
-10207,project management,
-10208,trust architecture,
-10209,access management iam,
-10211,cloud security emphasis,
-10212,incident detection,
-10213,access management,
-10215,regular update,
-10216,cloud services security considerations,
-10217,systematic risk assessments,
-10218,adaptive security,
-10219,party vendor assessment,
-10221,proactive vulnerability management,
-10222,incident coordination,
-10223,systemic risk identification,
-10224,stakeholder engagement enhancement,
-10225,customizable framework application,
-10227,virtual asset inventory,
-10228,lifecycle management,
-10229,asset prioritization,
-10230,party service asset management,
-10231,asset discovery,
-10232,organizational risk management,
-10235,business impact,
-10237,asset classification,
-10238,software inventory management,
-10239,iot,
-10240,external information system,
-10241,mobile considerations,
-10243,security orchestration automation,
-10244,security information management,
-10245,cybersecurity training,
-10246,risk assessment integration,
-10247,external information system inventory,
-10248,entity behavior analytics,
-10249,hardware approvals,
-10250,response soar,
-10251,asset decommissioning procedures,
-10252,software assets,
-10253,lifecycle management emphasis,
-10254,asset risk assessment,
-10255,inventory accuracy,
-10256,physical systems,
-10260,asset management integration,
-10261,dynamic asset categorization,
-10262,configuration management,
-10263,information systems,
-10264,vulnerability identification,
-10265,party services management,
-10267,asset management automation,
-10268,comprehensive asset inventory,
-10269,external asset management,
-10272,asset vulnerability management,
-10273,lifecycle management integration,
-10274,things iot security,
-10275,comprehensive software inventory,
-10276,secure configuration management,
-10277,disposal policies,
-10279,risk assessment expansion,
-10280,asset vulnerability identification,
-10281,regulatory compliance considerations,
-10283,vulnerability management lifecycle,
-10284,geopolitical risk awareness,
-10285,quantitative risk analysis,
-10288,privacy impact,
-10289,comprehensive threat intelligence,
-10290,qualitative risk analysis,
-10291,risk assessment frequency,
-10292,organizational changes,
-10295,continuous risk assessment cycle,
-10296,risk frameworks,
-10297,advanced vulnerability management,
-10298,risk reporting,
-10299,dynamic threat,
-10300,regulatory compliance integration,
-10302,risk management frameworks,
-10303,quantitative risk analysis techniques,
-10304,privacy risk considerations,
-10305,risk appetite,
-10308,risk assessment automation,
-10309,collaborative security framework,
-10310,cyber resilience,
-10311,threat intelligence utilization,
-10312,regulatory compliance consideration,
-10313,impact analysis enhancement,
-10314,risk appetite alignment,
-10315,incident response plan integration,
-10316,supply chain security considerations,
-10317,regular cybersecurity training,
-10318,risk assessment documentation,
-10319,comprehensive monitoring strategy,
-10320,collaborative incident analysis,
-10321,advanced predictive capabilities,
-10322,regulatory compliance alignment,
-10323,incident response preparedness,
-10324,advanced incident response,
-10325,data confidentiality,
-10326,segmentation policies,
-10327,secure access,
-10328,access authorization procedures,
-10329,access control policies,
-10330,access provisioning,
-10331,secure credential management,
-10332,data protection measures,
-10333,regular access reviews,
-10334,user identity verification,
-10336,secure authentication protocols,
-10337,contextual access control,
-10338,user behavior analytics,
-10339,least privilege access,
-10340,time access,
-10345,access control procedures,
-10346,access control automation,
-10347,privileged user management,
-10348,user authentication enhancements,
-10349,account management,
-10350,access decommissioning,
-10351,secure remote access,
-10352,access activities,
-10353,identity management systems,
-10354,cloud access security,
-10355,advanced identity verification,
-10356,access anomaly detection,
-10357,access authorization,
-10358,policy enforcement,
-10359,periodic access reviews,
-10360,remote access management,
-10361,comprehensive access control policies,
-10362,privileged account management,
-10363,identity verification processes,
-10364,user access review,
-10365,information flow enforcement,
-10366,service idaas,
-10367,mobile devices,
-10368,network segmentation,
-10369,backups,
-10370,data recovery capabilities,
-10371,version control,
-10372,rapid recovery objectives,
-10374,remote networks,
-10375,user activity,
-10376,external parties,
-10377,geographical diversity,
-10378,security culture building,
-10379,cybersecurity policies,
-10380,secure software development training,
-10381,data protection education,
-10382,comprehensive awareness training,
-10383,threats briefing,
-10384,security champions program,
-10385,incident response team,
-10386,training effectiveness,
-10387,content refinement,
-10388,comprehensive security awareness training,
-10389,attack scenarios,
-10390,continuous education programs,
-10391,secure software development practices,
-10392,cross - functional team,
-10394,personal devices,
-10396,data sovereignty compliance,
-10397,data breaches,
-10398,data loss prevention strategies,
-10399,geographic data transfer compliance,
-10400,data lifecycle management,
-10401,public key infrastructure pki,
-10402,privacy impact assessments,
-10403,global standards alignment,
-10404,incident response plans,
-10406,regular data classification,
-10407,data integrity protection mechanisms,
-10408,data loss prevention,
-10409,secure data disposal,
-10410,data retention policies,
-10411,secure data transfer protocols,
-10412,data masking,
-10413,data backup,
-10414,anonymization,
-10415,business continuity,
-10416,dlp technologies,
-10417,supply chain data security,
-10418,data protection approaches,
-10419,public cloud data security,
-10420,data governance framework,
-10421,advanced threat protection,
-10423,Artificial Intelligence,ai
-10424,data integrity protection,
-10425,secure data destruction,
-10426,regular data integrity audits,
-10427,access control,
-10428,advanced encryption techniques,
-10429,authorization,
-10430,data minimization principles,
-10433,personnel security policies,
-10434,information protection processes,
-10435,vendor risk management,
-10436,insider threat mitigation strategies,
-10437,secure development lifecycle integration,
-10438,access control implementation,
-10439,comprehensive background verification,
-10440,insider threat programs,
-10441,security role definition,
-10442,physical security measures,
-10443,role sensitivity,
-10444,hr practices,
-10445,party risk management,
-10446,screening prioritization,
-10447,termination process security,
-10448,background checks,
-10449,workforce security awareness,
-10450,physical security integration,
-10451,secure development lifecycle,
-10452,data protection policies,
-10453,regular security assessments,
-10454,access control measures,
-10455,party vendor risk management,
-10456,advanced encryption standards,
-10457,non - traditional environments,
-10458,comprehensive personnel security,
-10459,security training,
-10460,privacy coordination,
-10461,policy development,
-10463,cross - domain security collaboration,
-10464,comprehensive cyber hygiene practices,
-10465,supply chain risk management expansion,
-10466,advanced identity verification techniques,
-10467,artificial intelligence,
-10468,global regulatory alignment,
-10470,cloud security posture management,
-10471,incident response automation,
-10472,data privacy protections,
-10473,endpoint detection,
-10474,proactive incident planning,
-10475,cyber resilience integration,
-10476,security alerts,
-10477,agile response playbooks,
-10478,authorization techniques,
-10479,forensic capabilities,
-10480,cross - departmental collaboration,
-10482,incident management,
-10484,comprehensive impact assessment,
-10485,comprehensive incident response plan,
-10486,stakeholder training,
-10487,regular simulation exercises,
-10488,communication protocols,
-10489,log aggregation,
-10490,continuous learning,
-10491,comprehensive incident preparedness,
-10492,incident response playbooks,
-10493,proactive threat intelligence sharing,
-10494,data protection strategies,
-10495,ddos attacks,
-10496,log management,
-10497,forensic capabilities enhancement,
-10498,detection processes,
-10499,network traffic analysis,
-10500,advanced persistent threats identification,
-10501,cloud security monitoring,
-10502,collaborative incident response,
-10503,security information,
-10504,configurable alert thresholds,
-10505,forensic data preservation,
-10507,advanced persistent threat,
-10508,incident data sharing,
-10509,custom detection algorithm development,
-10510,hybrid environment,
-10514,cross - domain security event correlation,
-10515,multi - factor anomaly detection,
-10516,incident response plan,
-10517,apt detection,
-10518,vulnerability detection integration,
-10519,forensic analysis support,
-10520,entity behavior analysis ueba,
-10521,intelligence feeds,
-10522,cloud environment,
-10523,incident correlation,
-10524,detection criteria,
-10526,aware security analytics,
-10527,supply chain security monitoring,
-10528,advanced anomaly detection techniques,
-10529,incident response capabilities,
-10530,trust integration,
-10531,end data lifecycle security,
-10532,incident simulation,
-10534,time threat intelligence integration,
-10535,detection tools,
-10536,custom detection playbooks,
-10537,incident prioritization,
-10538,security controls,
-10539,comprehensive log management,
-10540,machine learning,
-10542,collaborative threat defense,
-10543,incident classification,
-10544,detection capabilities,
-10545,proactive hunting,
-10546,contextual analysis,
-10548,incident impact assessment,
-10549,incident analysis,
-10550,collaborative event investigation,
-10551,event correlation techniques,
-10552,alert prioritization,
-10553,cross - domain detection capabilities,
-10556,security orchestration,
-10557,event correlation,
-10558,cross - platform security visibility,
-10561,Security Information and Event Management,siem
-10562,cross - platform detection capabilities,
-10563,proactive detection strategies,
-10564,adaptive detection technologies,
-10565,holistic incident analysis,
-10566,sophisticated analytics,
-10567,comprehensive coverage,
-10568,comprehensive incident analysis,
-10569,apt preparedness,
-10570,adaptive response protocols,
-10571,recovery planning,
-10572,private sector collaboration,
-10573,incident response integration,
-10574,security automation,
-10575,aware security alerts,
-10576,event management siem system optimization,
-10577,incident root,
-10578,incident trend analysis,
-10579,comprehensive monitoring,
-10580,alert triage,
-10581,dynamic playbooks,
-10582,incident analytics,
-10583,comprehensive incident management plan,
-10584,incident response teams,
-10585,time incident reporting,
-10586,forensic preparedness,
-10587,user behavior analytics uba,
-10588,advanced monitoring strategies,
-10589,collaborative information,
-10590,compliance requirements,
-10591,cyber hygiene education,
-10592,cross - functional team collaboration,
-10593,recovery integration,
-10594,continual improvement process,
-10595,comprehensive response,
-10596,customizable playbooks,
-10597,comprehensive event log management,
-10598,analysis tools,
-10599,cross - team collaboration,
-10600,data analytics,
-10601,cross - platform correlation,
-10602,integrative security orchestration,
-10603,adaptive threat identification,
-10604,forensic readiness,
-10606,cross - domain data fusion,
-10607,hybrid environment support,
-10610,response plan,
-10611,knowledge management,
-10612,post - incident activity review,
-10613,user awareness,
-10614,timely information sharing,
-10616,forensic techniques,
-10617,continuous improvement loop,
-10618,cyber incident recovery planning,
-10619,comprehensive incident documentation,
-10620,collaboration platforms,
-10621,advanced correlation techniques,
-10622,time analysis,
-10623,User and Entity Behavior Analytics,ueba
-10624,forensic analysis integration,
-10625,cross - functional team coordination,
-10626,root cause analysis,
-10627,cybersecurity insurance,
-10628,recovery metrics,
-10629,public relations management,
-10631,crisis communication,
-10632,public relations,
-10633,regular recovery testing,
-10634,action review,
-10636,comprehensive recovery planning,
-10637,cyber insurance integration,
-10638,resilience metrics,
-10639,post - incident review,
-10641,recovery processes,
-10642,cyber incident learnings,
-10643,brand protection,
-10644,external notifications,
-10646,cyber resilience metrics,
-10647,comprehensive communication strategies,
-10648,external standards,
-10651,stakeholder collaboration enhancement,
-10652,impact minimization strategies,
-10653,advanced analytics integration,
-10654,incident communication tools,
-10655,comprehensive communications strategy,
-10656,coordinated disclosure processes,
-10657,communication templates,
-10658,stakeholder requirements,
-10659,regular updates,
-10660,cyber incident playbooks,
-10661,business continuity integration,
-10662,non - technical staff training,
-10663,regulatory reporting compliance,
-10664,response coordination,
+"id","name","accronym"
+10000,"supply chain risk management",""
+10001,"cybersecurity awareness",""
+10002,"governance integration",""
+10003,"comprehensive asset management",""
+10004,"cyber risk quantification",""
+10005,"identity management",""
+10006,"advanced threat intelligence sharing",""
+10007,"continuous improvement process",""
+10008,"incident response",""
+10009,"organizational communication",""
+10011,"legal compliance",""
+10012,"remote workforce security",""
+10013,"governance framework integration",""
+10014,"data protection prioritization",""
+10015,"security monitoring",""
+10016,"regulatory compliance",""
+10017,"business objectives",""
+10018,"identity verification",""
+10019,"geographic data considerations",""
+10020,"resilience",""
+10022,"holistic cybersecurity policy development",""
+10023,"risk management strategy integration",""
+10024,"governance structure optimization",""
+10026,"continuous improvement",""
+10027,"stakeholder engagement",""
+10028,"performance metrics",""
+10032,"cybersecurity leadership",""
+10033,"resilience planning",""
+10034,"advanced threat intelligence integration",""
+10035,"proactive threat",""
+10036,"adaptive risk assessment models",""
+10037,"proactive asset management",""
+10038,"adaptive governance frameworks",""
+10039,"strategic alignment",""
+10040,"stakeholder communication",""
+10041,"data protection",""
+10042,"security awareness",""
+10043,"continuous security assessment",""
+10044,"strategic cybersecurity investments",""
+10045,"threat intelligence integration",""
+10046,"incident response coordination",""
+10047,"risk assessment alignment",""
+10048,"continuous improvement mechanism",""
+10049,"adaptive protection strategies",""
+10050,"technology innovation",""
+10051,"comprehensive risk management lifecycle",""
+10052,"risk management practices",""
+10053,"risk assessment",""
+10054,"cybersecurity",""
+10055,"incident impact analysis",""
+10056,"business strategy",""
+10057,"stakeholder collaboration",""
+10058,"continuous monitoring",""
+10060,"threat intelligence incorporation",""
+10061,"collaborative risk management",""
+10062,"risk mitigation",""
+10063,"cybersecurity culture",""
+10064,"dynamic risk assessment models",""
+10065,"resilience measures",""
+10066,"legal compliance integration",""
+10067,"strategic planning integration",""
+10068,"risk management",""
+10069,"risk communication",""
+10070,"resource allocation",""
+10074,"enterprise risk management",""
+10075,"comprehensive risk assessment",""
+10076,"cybersecurity metrics",""
+10077,"adaptive risk management frameworks",""
+10078,"incident preparedness",""
+10079,"advanced threat intelligence",""
+10080,"strategic risk appetite alignment",""
+10081,"regular risk review",""
+10082,"supply chain risk management integration",""
+10083,"cybersecurity awareness training",""
+10084,"threat intelligence sharing",""
+10085,"cloud security adaptation",""
+10086,"vulnerability management",""
+10087,"data privacy",""
+10090,"comprehensive risk management strategy",""
+10091,"risk identification",""
+10092,"regular risk assessment",""
+10093,"business processes",""
+10095,"advanced technologies",""
+10096,"regulatory alignment",""
+10097,"risk management integration",""
+10098,"incident recovery planning",""
+10099,"continuous improvement cycle",""
+10102,"customizable implementation",""
+10104,"strategic organizational planning",""
+10106,"resource prioritization",""
+10107,"comprehensive incident response",""
+10108,"cybersecurity events",""
+10109,"cyber risk",""
+10110,"threat intelligence platforms",""
+10111,"supply chain resilience",""
+10112,"user awareness training",""
+10113,"stakeholder communication strategies",""
+10114,"data protection methods",""
+10115,"external information",""
+10117,"comprehensive vulnerability management",""
+10118,"incident readiness",""
+10119,"quantitative risk metrics",""
+10120,"cloud security considerations",""
+10121,"data protection enhancements",""
+10122,"threat intelligence",""
+10123,"asset visibility",""
+10124,"access complexities",""
+10127,"disaster recovery capabilities",""
+10128,"risk response strategies",""
+10129,"business continuity planning",""
+10130,"cyber insurance considerations",""
+10133,"governance framework enhancement",""
+10134,"security culture",""
+10135,"level involvement",""
+10137,"governance incorporation",""
+10138,"strategic planning alignment",""
+10139,"standard development",""
+10140,"resource alignment",""
+10142,"organizational cybersecurity governance",""
+10145,"cybersecurity risk management integration",""
+10146,"leadership commitment",""
+10147,"information sharing",""
+10148,"civil liberties",""
+10149,"supply chain security",""
+10150,"governance scope",""
+10151,"adaptive risk management",""
+10152,"privacy controls",""
+10153,"quantitative risk assessment",""
+10154,"employee training",""
+10155,"supply chain risk management enhancement",""
+10156,"security awareness training",""
+10157,"vulnerability management program",""
+10158,"cloud security focus",""
+10159,"comprehensive identity verification",""
+10160,"asset management refinement",""
+10161,"cyber supply chain risk management",""
+10162,"vulnerability management integration",""
+10163,"cybersecurity role",""
+10164,"asset inventory accuracy",""
+10165,"asset management visibility",""
+10166,"asset decommissioning",""
+10167,"data security",""
+10168,"external dependencies management",""
+10169,"resource classification",""
+10170,"asset association",""
+10171,"supply chain transparency",""
+10172,"vendor risk assessments",""
+10173,"security requirements",""
+10174,"suppliers",""
+10176,"party security performance",""
+10179,"cybersecurity standards",""
+10180,"cybersecurity activities",""
+10181,"resilience frameworks",""
+10182,"supply chain risk",""
+10183,"asset management",""
+10184,"cross - organizational communication",""
+10186,"identity verification methods",""
+10190,"cloud security enhancement",""
+10191,"continuous security monitoring",""
+10192,"robust encryption standards",""
+10193,"party security",""
+10195,"strategy integration",""
+10197,"comprehensive cyber incident preparedness",""
+10198,"cloud security strategy",""
+10199,"systematic security control reviews",""
+10200,"advanced endpoint detection",""
+10201,"privacy considerations",""
+10204,"comprehensive security awareness",""
+10205,"strategic cybersecurity investment",""
+10206,"cloud security",""
+10207,"project management",""
+10208,"trust architecture",""
+10209,"access management iam",""
+10211,"cloud security emphasis",""
+10212,"incident detection",""
+10213,"access management",""
+10215,"regular update",""
+10216,"cloud services security considerations",""
+10217,"systematic risk assessments",""
+10218,"adaptive security",""
+10219,"party vendor assessment",""
+10221,"proactive vulnerability management",""
+10222,"incident coordination",""
+10223,"systemic risk identification",""
+10224,"stakeholder engagement enhancement",""
+10225,"customizable framework application",""
+10227,"virtual asset inventory",""
+10228,"lifecycle management",""
+10229,"asset prioritization",""
+10230,"party service asset management",""
+10231,"asset discovery",""
+10232,"organizational risk management",""
+10235,"business impact",""
+10237,"asset classification",""
+10238,"software inventory management",""
+10239,"iot",""
+10240,"external information system",""
+10241,"mobile considerations",""
+10243,"security orchestration automation",""
+10244,"security information management",""
+10245,"cybersecurity training",""
+10246,"risk assessment integration",""
+10247,"external information system inventory",""
+10248,"entity behavior analytics",""
+10249,"hardware approvals",""
+10250,"response soar",""
+10251,"asset decommissioning procedures",""
+10252,"software assets",""
+10253,"lifecycle management emphasis",""
+10254,"asset risk assessment",""
+10255,"inventory accuracy",""
+10256,"physical systems",""
+10260,"asset management integration",""
+10261,"dynamic asset categorization",""
+10262,"configuration management",""
+10263,"information systems",""
+10264,"vulnerability identification",""
+10265,"party services management",""
+10267,"asset management automation",""
+10268,"comprehensive asset inventory",""
+10269,"external asset management",""
+10272,"asset vulnerability management",""
+10273,"lifecycle management integration",""
+10274,"things iot security",""
+10275,"comprehensive software inventory",""
+10276,"secure configuration management",""
+10277,"disposal policies",""
+10279,"risk assessment expansion",""
+10280,"asset vulnerability identification",""
+10281,"regulatory compliance considerations",""
+10283,"vulnerability management lifecycle",""
+10284,"geopolitical risk awareness",""
+10285,"quantitative risk analysis",""
+10288,"privacy impact",""
+10289,"comprehensive threat intelligence",""
+10290,"qualitative risk analysis",""
+10291,"risk assessment frequency",""
+10292,"organizational changes",""
+10295,"continuous risk assessment cycle",""
+10296,"risk frameworks",""
+10297,"advanced vulnerability management",""
+10298,"risk reporting",""
+10299,"dynamic threat",""
+10300,"regulatory compliance integration",""
+10302,"risk management frameworks",""
+10303,"quantitative risk analysis techniques",""
+10304,"privacy risk considerations",""
+10305,"risk appetite",""
+10308,"risk assessment automation",""
+10309,"collaborative security framework",""
+10310,"cyber resilience",""
+10311,"threat intelligence utilization",""
+10312,"regulatory compliance consideration",""
+10313,"impact analysis enhancement",""
+10314,"risk appetite alignment",""
+10315,"incident response plan integration",""
+10316,"supply chain security considerations",""
+10317,"regular cybersecurity training",""
+10318,"risk assessment documentation",""
+10319,"comprehensive monitoring strategy",""
+10320,"collaborative incident analysis",""
+10321,"advanced predictive capabilities",""
+10322,"regulatory compliance alignment",""
+10323,"incident response preparedness",""
+10324,"advanced incident response",""
+10325,"data confidentiality",""
+10326,"segmentation policies",""
+10327,"secure access",""
+10328,"access authorization procedures",""
+10329,"access control policies",""
+10330,"access provisioning",""
+10331,"secure credential management",""
+10332,"data protection measures",""
+10333,"regular access reviews",""
+10334,"user identity verification",""
+10336,"secure authentication protocols",""
+10337,"contextual access control",""
+10338,"user behavior analytics",""
+10339,"least privilege access",""
+10340,"time access",""
+10345,"access control procedures",""
+10346,"access control automation",""
+10347,"privileged user management",""
+10348,"user authentication enhancements",""
+10349,"account management",""
+10350,"access decommissioning",""
+10351,"secure remote access",""
+10352,"access activities",""
+10353,"identity management systems",""
+10354,"cloud access security",""
+10355,"advanced identity verification",""
+10356,"access anomaly detection",""
+10357,"access authorization",""
+10358,"policy enforcement",""
+10359,"periodic access reviews",""
+10360,"remote access management",""
+10361,"comprehensive access control policies",""
+10362,"privileged account management",""
+10363,"identity verification processes",""
+10364,"user access review",""
+10365,"information flow enforcement",""
+10366,"service idaas",""
+10367,"mobile devices",""
+10368,"network segmentation",""
+10369,"backups",""
+10370,"data recovery capabilities",""
+10371,"version control",""
+10372,"rapid recovery objectives",""
+10374,"remote networks",""
+10375,"user activity",""
+10376,"external parties",""
+10377,"geographical diversity",""
+10378,"security culture building",""
+10379,"cybersecurity policies",""
+10380,"secure software development training",""
+10381,"data protection education",""
+10382,"comprehensive awareness training",""
+10383,"threats briefing",""
+10384,"security champions program",""
+10385,"incident response team",""
+10386,"training effectiveness",""
+10387,"content refinement",""
+10388,"comprehensive security awareness training",""
+10389,"attack scenarios",""
+10390,"continuous education programs",""
+10391,"secure software development practices",""
+10392,"cross - functional team",""
+10394,"personal devices",""
+10396,"data sovereignty compliance",""
+10397,"data breaches",""
+10398,"data loss prevention strategies",""
+10399,"geographic data transfer compliance",""
+10400,"data lifecycle management",""
+10401,"public key infrastructure pki",""
+10402,"privacy impact assessments",""
+10403,"global standards alignment",""
+10404,"incident response plans",""
+10406,"regular data classification",""
+10407,"data integrity protection mechanisms",""
+10408,"data loss prevention",""
+10409,"secure data disposal",""
+10410,"data retention policies",""
+10411,"secure data transfer protocols",""
+10412,"data masking",""
+10413,"data backup",""
+10414,"anonymization",""
+10415,"business continuity",""
+10416,"dlp technologies",""
+10417,"supply chain data security",""
+10418,"data protection approaches",""
+10419,"public cloud data security",""
+10420,"data governance framework",""
+10421,"advanced threat protection",""
+10423,"Artificial Intelligence","ai"
+10424,"data integrity protection",""
+10425,"secure data destruction",""
+10426,"regular data integrity audits",""
+10427,"access control",""
+10428,"advanced encryption techniques",""
+10429,"authorization",""
+10430,"data minimization principles",""
+10433,"personnel security policies",""
+10434,"information protection processes",""
+10435,"vendor risk management",""
+10436,"insider threat mitigation strategies",""
+10437,"secure development lifecycle integration",""
+10438,"access control implementation",""
+10439,"comprehensive background verification",""
+10440,"insider threat programs",""
+10441,"security role definition",""
+10442,"physical security measures",""
+10443,"role sensitivity",""
+10444,"hr practices",""
+10445,"party risk management",""
+10446,"screening prioritization",""
+10447,"termination process security",""
+10448,"background checks",""
+10449,"workforce security awareness",""
+10450,"physical security integration",""
+10451,"secure development lifecycle",""
+10452,"data protection policies",""
+10453,"regular security assessments",""
+10454,"access control measures",""
+10455,"party vendor risk management",""
+10456,"advanced encryption standards",""
+10457,"non - traditional environments",""
+10458,"comprehensive personnel security",""
+10459,"security training",""
+10460,"privacy coordination",""
+10461,"policy development",""
+10463,"cross - domain security collaboration",""
+10464,"comprehensive cyber hygiene practices",""
+10465,"supply chain risk management expansion",""
+10466,"advanced identity verification techniques",""
+10467,"artificial intelligence",""
+10468,"global regulatory alignment",""
+10470,"cloud security posture management",""
+10471,"incident response automation",""
+10472,"data privacy protections",""
+10473,"endpoint detection",""
+10474,"proactive incident planning",""
+10475,"cyber resilience integration",""
+10476,"security alerts",""
+10477,"agile response playbooks",""
+10478,"authorization techniques",""
+10479,"forensic capabilities",""
+10480,"cross - departmental collaboration",""
+10482,"incident management",""
+10484,"comprehensive impact assessment",""
+10485,"comprehensive incident response plan",""
+10486,"stakeholder training",""
+10487,"regular simulation exercises",""
+10488,"communication protocols",""
+10489,"log aggregation",""
+10490,"continuous learning",""
+10491,"comprehensive incident preparedness",""
+10492,"incident response playbooks",""
+10493,"proactive threat intelligence sharing",""
+10494,"data protection strategies",""
+10495,"ddos attacks",""
+10496,"log management",""
+10497,"forensic capabilities enhancement",""
+10498,"detection processes",""
+10499,"network traffic analysis",""
+10500,"advanced persistent threats identification",""
+10501,"cloud security monitoring",""
+10502,"collaborative incident response",""
+10503,"security information",""
+10504,"configurable alert thresholds",""
+10505,"forensic data preservation",""
+10507,"advanced persistent threat",""
+10508,"incident data sharing",""
+10509,"custom detection algorithm development",""
+10510,"hybrid environment",""
+10514,"cross - domain security event correlation",""
+10515,"multi - factor anomaly detection",""
+10516,"incident response plan",""
+10517,"apt detection",""
+10518,"vulnerability detection integration",""
+10519,"forensic analysis support",""
+10520,"entity behavior analysis ueba",""
+10521,"intelligence feeds",""
+10522,"cloud environment",""
+10523,"incident correlation",""
+10524,"detection criteria",""
+10526,"aware security analytics",""
+10527,"supply chain security monitoring",""
+10528,"advanced anomaly detection techniques",""
+10529,"incident response capabilities",""
+10530,"trust integration",""
+10531,"end data lifecycle security",""
+10532,"incident simulation",""
+10534,"time threat intelligence integration",""
+10535,"detection tools",""
+10536,"custom detection playbooks",""
+10537,"incident prioritization",""
+10538,"security controls",""
+10539,"comprehensive log management",""
+10540,"machine learning",""
+10542,"collaborative threat defense",""
+10543,"incident classification",""
+10544,"detection capabilities",""
+10545,"proactive hunting",""
+10546,"contextual analysis",""
+10548,"incident impact assessment",""
+10549,"incident analysis",""
+10550,"collaborative event investigation",""
+10551,"event correlation techniques",""
+10552,"alert prioritization",""
+10553,"cross - domain detection capabilities",""
+10556,"security orchestration",""
+10557,"event correlation",""
+10558,"cross - platform security visibility",""
+10561,"Security Information and Event Management","siem"
+10562,"cross - platform detection capabilities",""
+10563,"proactive detection strategies",""
+10564,"adaptive detection technologies",""
+10565,"holistic incident analysis",""
+10566,"sophisticated analytics",""
+10567,"comprehensive coverage",""
+10568,"comprehensive incident analysis",""
+10569,"apt preparedness",""
+10570,"adaptive response protocols",""
+10571,"recovery planning",""
+10572,"private sector collaboration",""
+10573,"incident response integration",""
+10574,"security automation",""
+10575,"aware security alerts",""
+10576,"event management siem system optimization",""
+10577,"incident root",""
+10578,"incident trend analysis",""
+10579,"comprehensive monitoring",""
+10580,"alert triage",""
+10581,"dynamic playbooks",""
+10582,"incident analytics",""
+10583,"comprehensive incident management plan",""
+10584,"incident response teams",""
+10585,"time incident reporting",""
+10586,"forensic preparedness",""
+10587,"user behavior analytics uba",""
+10588,"advanced monitoring strategies",""
+10589,"collaborative information",""
+10590,"compliance requirements",""
+10591,"cyber hygiene education",""
+10592,"cross - functional team collaboration",""
+10593,"recovery integration",""
+10594,"continual improvement process",""
+10595,"comprehensive response",""
+10596,"customizable playbooks",""
+10597,"comprehensive event log management",""
+10598,"analysis tools",""
+10599,"cross - team collaboration",""
+10600,"data analytics",""
+10601,"cross - platform correlation",""
+10602,"integrative security orchestration",""
+10603,"adaptive threat identification",""
+10604,"forensic readiness",""
+10606,"cross - domain data fusion",""
+10607,"hybrid environment support",""
+10610,"response plan",""
+10611,"knowledge management",""
+10612,"post - incident activity review",""
+10613,"user awareness",""
+10614,"timely information sharing",""
+10616,"forensic techniques",""
+10617,"continuous improvement loop",""
+10618,"cyber incident recovery planning",""
+10619,"comprehensive incident documentation",""
+10620,"collaboration platforms",""
+10621,"advanced correlation techniques",""
+10622,"time analysis",""
+10623,"User and Entity Behavior Analytics","ueba"
+10624,"forensic analysis integration",""
+10625,"cross - functional team coordination",""
+10626,"root cause analysis",""
+10627,"cybersecurity insurance",""
+10628,"recovery metrics",""
+10629,"public relations management",""
+10631,"crisis communication",""
+10632,"public relations",""
+10633,"regular recovery testing",""
+10634,"action review",""
+10636,"comprehensive recovery planning",""
+10637,"cyber insurance integration",""
+10638,"resilience metrics",""
+10639,"post - incident review",""
+10641,"recovery processes",""
+10642,"cyber incident learnings",""
+10643,"brand protection",""
+10644,"external notifications",""
+10646,"cyber resilience metrics",""
+10647,"comprehensive communication strategies",""
+10648,"external standards",""
+10651,"stakeholder collaboration enhancement",""
+10652,"impact minimization strategies",""
+10653,"advanced analytics integration",""
+10654,"incident communication tools",""
+10655,"comprehensive communications strategy",""
+10656,"coordinated disclosure processes",""
+10657,"communication templates",""
+10658,"stakeholder requirements",""
+10659,"regular updates",""
+10660,"cyber incident playbooks",""
+10661,"business continuity integration",""
+10662,"non - technical staff training",""
+10663,"regulatory reporting compliance",""
+10664,"response coordination",""

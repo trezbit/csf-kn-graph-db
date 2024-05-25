@@ -26,7 +26,7 @@ class RelationType(Enum):
         self.modelpath = modelpath
         self.arraykey = arraykey
 
-    HAS_CONTROL='HAS_CONTROL', cypher.LOAD_HAS_CONTROL, includes.MODEL_JSON_RELATIONS + "/has_control.json", 'has_control'
+    HAS_CONTROL='HAS_CONTROL', cypher.LOAD_HAS_CONTROL, includes.MODEL_JSON_RELATIONS + "/has_control.json", 'standard_controls'
     MAPS_TO='MAPS_TO',  cypher.LOAD_MAPS_TO, includes.MODEL_JSON_RELATIONS + "/control_map.json", 'maps_to'
     CAPTURES='CONTROL_CAPTURES',  cypher.LOAD_CONTROL_CAPTURES, includes.MODEL_JSON_RELATIONS + "/capture.json", 'captures'
     ASSESSES='ASSESSES',  cypher.LOAD_ASSESSES_CONTROL, includes.MODEL_JSON_RELATIONS + "/assesses.json", 'assesses'

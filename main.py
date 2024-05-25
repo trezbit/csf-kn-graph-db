@@ -69,11 +69,27 @@ def generate_key_concept_graph(params):
     
     print("Completed running generate_key_concept_graph.")
 
-def export_key_concept_graph_to_csv(params):
+def generate_assess_questionnaire_graph(params):
+    '''Generate assessment questionnaire with question nodes and econtrol dges in JSON'''
+    print("Generate Assessment Questionnaire Graph - Config:", params)
+
+    process.GraphProcessor().build_assessment_questionnaire_subgraph(params)
+
+    if os.path.exists(kgtypes.NodeType.ASESSMENTQ.modelpath):
+        print("Assessment questionnaire nodes and edges created at:", kgtypes.NodeType.ASESSMENTQ.modelpath)
+    
+    print("Completed running generate_assess_questionnaire_graph.")
+
+def export_kggraph_to_csv(params):
     '''Export CSF key concept nodes and edges to CSV'''
+    process.GraphProcessor().export_standard_control_subgraph(params)
+    print("Completed running export_standard_control_subgraph.")
     print("Export CSF key concept nodes and edges to CSV - Params:", params)
     process.GraphProcessor().export_keyconcept_subgraph(params)
     print("Completed running export_key_concept_graph_to_csv.")
+    process.GraphProcessor().export_assessment_questionnaire_subgraph(params)
+    print("Completed running export_assessment_questionnaire_graph_to_csv.")
+
 
 def parse_args():
     '''CLI Argument parser for the application'''
@@ -106,6 +122,10 @@ def parse_args():
     convertgroup3.add_argument('--keyconcept'
                                , help='Generate CSF key concept nodes and edges in JSON with optional parameters'
                                , nargs='?', const='{}', type=str)
+    convertgroup3.add_argument('--assess'
+                               , help='Generate assessment questionnaire with question nodes and econtrol dges in JSON with optional parameters'
+                               , nargs='?', const='{}', type=str)
+    
     convertgroup3.add_argument('--tocsv', help='Dump JSON CSF nodes and edges to CSV with optional parameters'
                                , nargs='?', const='{}', type=str)
     csfmod.add_argument('--outdir', help='File written to directory', type=str, required=False)
@@ -124,9 +144,11 @@ def run_session (args):
         extract_keyphrase(args.file, args.keyphrase)
     elif (args.command == 'csfmod' and args.keyconcept is not None):
         generate_key_concept_graph(args.keyconcept)
+    elif (args.command == 'csfmod' and args.assess is not None):
+        generate_assess_questionnaire_graph(args.assess)
     elif (args.command == 'csfmod' and args.tocsv is not None):
         # csf2csv(args.file, args.txt)
-        export_key_concept_graph_to_csv(args.tocsv)
+        export_kggraph_to_csv(args.tocsv)
     elif (args.command == 'tester' and args.neo4j is not None):
         test_neo4j(args.neo4j)
     elif (args.command == 'tester' and args.openai is not None):

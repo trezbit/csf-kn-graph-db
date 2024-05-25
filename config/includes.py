@@ -30,7 +30,7 @@ class CorpusType(Enum):
         self.type = ctype
         self.path = path
 
-    ASSESS='assessment-questionnaire', MODEL_CORPUS_BASE + '/assess'
+    ASSESS='assessment-questionnaire', MODEL_CORPUS_BASE + '/assess/questions'
     CORE='core-csf', MODEL_CORPUS_BASE + '/csf-core/keys'
     MAPS_2_0='mappings-v2-0', MODEL_CORPUS_BASE + '/map-v2.0'
     MAPS_1_1='mappings-v1-1', MODEL_CORPUS_BASE + '/map-v1.1'

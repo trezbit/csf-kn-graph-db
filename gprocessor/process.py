@@ -7,6 +7,7 @@ import extractor.nlputils as nlputils
 
 from kgmodel.kgtypes import NodeType, RelationType
 from kgmodel.kgmodel import KeyConceptNode
+from kgmodel.kgmodel import QuestionNode
 
 from connector.graphdb import NEO4JConnector
 from kgmodel.cypher import *
@@ -187,3 +188,87 @@ class GraphProcessor():
         ioutil.graph_jsondata_to_csv(RelationType.CAPTURES.arraykey, RelationType.CAPTURES.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.CAPTURES.label.lower() + ".csv")
         return
     
+    def batch_questionnaire_extract(self, controldict):
+        '''Main method for batch load of scoped questions from the corpus to build the graph'''
+        print("Batch Extract - Corpus Path:", includes.CorpusType.CORE.path)
+
+        assessquestionaire = {}
+        baseid = 50000
+
+        # for every control in csf v2.0, extract questions from OpenAI generated assessment questionaires
+        # populate the dictionary with questions
+        for control in controldict:
+            # iterate through the JSON files in the corpus directory beginning with the control name
+            # compile core considerations from the assessment corpus
+            assessqfile = includes.CorpusType.ASSESS.path + "/" + control + ".json"
+            # check if the file exists
+            if os.path.isfile(assessqfile):
+                questiondict = ioutil.load_json_to_dict("results", "question", assessqfile)
+            else:
+                print("Assessment Questionnaire file: ", assessqfile, " not found for control: ", control)
+                return
+            #print ("Assessment Questionnaire for Control: ", control, "via file: ", assessqfile)
+            for quest in questiondict:
+                # print("Assessment Question: ", quest)
+                if quest in assessquestionaire:                    
+                    assessquestionaire[quest]['controls'][control]=1
+                else:
+                    newquest = QuestionNode(baseid + len(assessquestionaire), quest)
+                    newquest.setScope(questiondict[quest]['scope'])
+                    newquest.setRationale(questiondict[quest]['rationale'])
+                    newquest.controls[control]=1
+                    assessquestionaire[quest]=vars(newquest)
+
+        return assessquestionaire
+    
+    def build_assessment_questionnaire_subgraph (self,params={}):
+        '''Main method for building the assessment questionnaire subgraph'''
+        print("Build Assessment Questionnaire Subgraph")
+
+        # load the json file with an array of csf controls
+        controldict = ioutil.load_json_to_dict(NodeType.CONTROL.arraykey, "name", NodeType.CONTROL.modelpath)
+        print(len(controldict.keys()), " keys loaded from ", NodeType.CONTROL.modelpath)
+        assessmentqdict = self.batch_questionnaire_extract(controldict)
+        ioutil.write_dict_to_json(assessmentqdict, includes.MODEL_BASE + "/assess.subgraph.json")
+
+        #build the question nodes
+        questionnodedict = {NodeType.ASESSMENTQ.arraykey:[]}
+        questionedgedict = {RelationType.ASSESSES.arraykey:[]}
+        for quest in assessmentqdict:
+            node = {"id":assessmentqdict[quest]['id']
+                    , "name":assessmentqdict[quest]['name']
+                    , "scope":assessmentqdict[quest]['scope']
+                    , "rationale":assessmentqdict[quest]['rationale']}
+            questionnodedict[NodeType.ASESSMENTQ.arraykey].append(node)
+            for control in assessmentqdict[quest]['controls']:
+                edge = {"from_id": assessmentqdict[quest]['id']
+                        , "to_id":controldict[control]['id']
+                        , "strength":assessmentqdict[quest]['controls'][control]}
+                questionedgedict[RelationType.ASSESSES.arraykey].append(edge)
+
+        ioutil.write_dict_to_json(questionnodedict, NodeType.ASESSMENTQ.modelpath)
+        ioutil.write_dict_to_json(questionedgedict, RelationType.ASSESSES.modelpath)
+        return
+    
+    def export_assessment_questionnaire_subgraph(self, params={}):
+        '''Main method for exporting the assessment questionnaire subgraph to csv for upload to cloud graph db'''
+        print("Export Assessment Questionnaire nodes and edges to CSV")
+        # export the key concept subgraph (node) to a cloud storage
+        ioutil.graph_jsondata_to_csv(NodeType.ASESSMENTQ.arraykey, NodeType.ASESSMENTQ.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.ASESSMENTQ.label.lower() + ".csv")
+        
+        # export the key concept subgraph (edge) to a cloud storage
+        ioutil.graph_jsondata_to_csv(RelationType.ASSESSES.arraykey, RelationType.ASSESSES.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.ASSESSES.label.lower() + ".csv")
+        
+        return
+    def export_standard_control_subgraph(self, params={}):
+        '''Main method for exporting the assessment questionnaire subgraph to csv for upload to cloud graph db'''
+        print("Export Assessment Questionnaire nodes and edges to CSV")
+        # export the standard and control (nodes) to a cloud storage
+        ioutil.graph_jsondata_to_csv(NodeType.STANDARD.arraykey, NodeType.STANDARD.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.STANDARD.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(NodeType.CONTROL.arraykey, NodeType.CONTROL.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.CONTROL.label.lower() + ".csv")
+        
+        # export the standard and control (edges) to a cloud storage
+        ioutil.graph_jsondata_to_csv(RelationType.HAS_CONTROL.arraykey, RelationType.HAS_CONTROL.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.HAS_CONTROL.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(RelationType.MAPS_TO.arraykey, RelationType.MAPS_TO.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.MAPS_TO.label.lower() + ".csv")
+        
+        return
