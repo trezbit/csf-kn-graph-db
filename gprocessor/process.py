@@ -40,10 +40,11 @@ class GraphProcessor():
         self.build_relation(RelationType.HAS_CONTROL)
         self.build_relation(RelationType.MAPS_TO)
 
-        # self.build_node(NodeType.KEYCONCEPT)
-        # self.build_node(NodeType.QUESTION)
-        # self.build_relation(RelationType.CAPTURES_CONTROL.reltype, RelationType.CAPTURES_CONTROL.from_node, RelationType.CAPTURES_CONTROL.to_node, RelationType.CAPTURES_CONTROL.props)
-        # self.build_relation(RelationType.ASSESSES_CONTROL.reltype, RelationType.ASSESSES_CONTROL.from_node, RelationType.ASSESSES_CONTROL.to_node, RelationType.ASSESSES_CONTROL.props)
+        self.build_node(NodeType.KEYCONCEPT)
+        self.build_node(NodeType.ASESSMENTQ)
+        self.build_relation(RelationType.CAPTURES)
+        self.build_relation(RelationType.ASSESSES)
+        
         return
     
     def build_node(self, nodetype:NodeType):
@@ -254,21 +255,23 @@ class GraphProcessor():
         '''Main method for exporting the assessment questionnaire subgraph to csv for upload to cloud graph db'''
         print("Export Assessment Questionnaire nodes and edges to CSV")
         # export the key concept subgraph (node) to a cloud storage
-        ioutil.graph_jsondata_to_csv(NodeType.ASESSMENTQ.arraykey, NodeType.ASESSMENTQ.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.ASESSMENTQ.label.lower() + ".csv")
-        
-        # export the key concept subgraph (edge) to a cloud storage
-        ioutil.graph_jsondata_to_csv(RelationType.ASSESSES.arraykey, RelationType.ASSESSES.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.ASSESSES.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(NodeType.ASESSMENTQ.arraykey, NodeType.ASESSMENTQ.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + NodeType.ASESSMENTQ.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(RelationType.ASSESSES.arraykey, RelationType.ASSESSES.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + RelationType.ASSESSES.label.lower() + ".csv")
         
         return
     def export_standard_control_subgraph(self, params={}):
         '''Main method for exporting the assessment questionnaire subgraph to csv for upload to cloud graph db'''
         print("Export Assessment Questionnaire nodes and edges to CSV")
         # export the standard and control (nodes) to a cloud storage
-        ioutil.graph_jsondata_to_csv(NodeType.STANDARD.arraykey, NodeType.STANDARD.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.STANDARD.label.lower() + ".csv")
-        ioutil.graph_jsondata_to_csv(NodeType.CONTROL.arraykey, NodeType.CONTROL.modelpath, includes.MODEL_CSV_BASE + "/" + NodeType.CONTROL.label.lower() + ".csv")
-        
-        # export the standard and control (edges) to a cloud storage
-        ioutil.graph_jsondata_to_csv(RelationType.HAS_CONTROL.arraykey, RelationType.HAS_CONTROL.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.HAS_CONTROL.label.lower() + ".csv")
-        ioutil.graph_jsondata_to_csv(RelationType.MAPS_TO.arraykey, RelationType.MAPS_TO.modelpath, includes.MODEL_CSV_BASE + "/" + RelationType.MAPS_TO.label.lower() + ".csv")
-        
+        ioutil.graph_jsondata_to_csv(NodeType.STANDARD.arraykey, NodeType.STANDARD.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + NodeType.STANDARD.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(NodeType.CONTROL.arraykey, NodeType.CONTROL.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + NodeType.CONTROL.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(RelationType.HAS_CONTROL.arraykey, RelationType.HAS_CONTROL.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + RelationType.HAS_CONTROL.label.lower() + ".csv")
+        ioutil.graph_jsondata_to_csv(RelationType.MAPS_TO.arraykey, RelationType.MAPS_TO.modelpath, includes.MODEL_CSV_BASE 
+                                     + "/" + RelationType.MAPS_TO.label.lower() + ".csv")    
         return
+    

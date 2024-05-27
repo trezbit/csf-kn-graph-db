@@ -101,3 +101,90 @@
 2100,"RECOVER-Incident Recovery Plan Execution (RC.RP)","RC.RP-06"
 2101,"RECOVER-Incident Recovery Communication (RC.CO)","RC.CO-03"
 2102,"RECOVER-Incident Recovery Communication (RC.CO)","RC.CO-04"
+1020,"IDENTIFY-Risk Assessment (ID.RA)",ID.RA-5
+1021,"IDENTIFY-Risk Assessment (ID.RA)",ID.RA-6
+1022,"IDENTIFY-Risk Management Strategy (ID.RM)",ID.RM-1
+1023,"IDENTIFY-Risk Management Strategy (ID.RM)",ID.RM-2
+1024,"IDENTIFY-Risk Management Strategy (ID.RM)",ID.RM-3
+1025,"IDENTIFY-Supply Chain Risk Management (ID.SC)",ID.SC-1
+1026,"IDENTIFY-Supply Chain Risk Management (ID.SC)",ID.SC-2
+1027,"IDENTIFY-Supply Chain Risk Management (ID.SC)",ID.SC-3
+1028,"IDENTIFY-Supply Chain Risk Management (ID.SC)",ID.SC-4
+1029,"IDENTIFY-Supply Chain Risk Management (ID.SC)",ID.SC-5
+1030,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-1
+1031,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-2
+1032,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-3
+1033,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-4
+1034,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-5
+1035,"PROTECT-Identity Management and Access Control (PR.AC)",PR.AC-6
+1036,"PROTECT-Awareness and Training (PR.AT)",PR.AT-1
+1037,"PROTECT-Awareness and Training (PR.AT)",PR.AT-2
+1038,"PROTECT-Awareness and Training (PR.AT)",PR.AT-3
+1039,"PROTECT-Awareness and Training (PR.AT)",PR.AT-4
+1040,"PROTECT-Awareness and Training (PR.AT)",PR.AT-5
+1041,"PROTECT-Data Security (PR.DS)",PR.DS-1
+1042,"PROTECT-Data Security (PR.DS)",PR.DS-2
+1043,"PROTECT-Data Security (PR.DS)",PR.DS-3
+1044,"PROTECT-Data Security (PR.DS)",PR.DS-4
+1045,"PROTECT-Data Security (PR.DS)",PR.DS-5
+1046,"PROTECT-Data Security (PR.DS)",PR.DS-6
+1047,"PROTECT-Data Security (PR.DS)",PR.DS-7
+1048,"PROTECT-Data Security (PR.DS)",PR.DS-8
+1049,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-1
+1050,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-2
+1051,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-3
+1052,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-4
+1053,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-5
+1054,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-6
+1055,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-7
+1056,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-8
+1057,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-9
+1058,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-10
+1059,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-11
+1060,"PROTECT-Information Protection Processes and Procedures (PR.IP)",PR.IP-12
+1061,"PROTECT-Maintenance (PR.MA)",PR.MA-1
+1062,"PROTECT-Maintenance (PR.MA)",PR.MA-2
+1063,"PROTECT-Protective Technology (PRPT)",PR.PT-1
+1064,"PROTECT-Protective Technology (PR.PT)",PR.PT-2
+1065,"PROTECT-Protective Technology (PR.PT)",PR.PT-3
+1066,"PROTECT-Protective Technology (PR.PT)",PR.PT-4
+1067,"PROTECT-Protective Technology (PR.PT)",PR.PT-5
+1068,"DETECT-Anomalies and Events (DE.AE)",DE.AE-1
+1069,"DETECT-Anomalies and Events (DE.AE)",DE.AE-2
+1070,"DETECT-Anomalies and Events (DE.AE)",DE.AE-3
+1071,"DETECT-Anomalies and Events (DE.AE)",DE.AE-4
+1072,"DETECT-Anomalies and Events (DE.AE)",DE.AE-5
+1073,"DETECT-Anomalies and Events (DE.AE)",DE.CM-1
+1074,"DETECT-Anomalies and Events (DE.AE)",DE.CM-2
+1075,"DETECT-Anomalies and Events (DE.AE)",DE.CM-3
+1076,"DETECT-Anomalies and Events (DE.AE)",DE.CM-4
+1077,"DETECT-Anomalies and Events (DE.AE)",DE.CM-5
+1078,"DETECT-Anomalies and Events (DE.AE)",DE.CM-6
+1079,"DETECT-Anomalies and Events (DE.AE)",DE.CM-7
+1080,"DETECT-Anomalies and Events (DE.AE)",DE.CM-8
+1081,"DETECT-Anomalies and Events (DE.AE)",DE.DP-1
+1082,"DETECT-Anomalies and Events (DE.AE)",DE.DP-2
+1083,"DETECT-Anomalies and Events (DE.AE)",DE.DP-3
+1084,"DETECT-Anomalies and Events (DE.AE)",DE.DP-4
+1085,"DETECT-Anomalies and Events (DE.AE)",DE.DP-5
+1086,"RESPOND-Response Planning (RS.RP)",RS.RP-1
+1087,"RESPOND-Communications (RS.CO)",RS.CO-1
+1088,"RESPOND-Communications (RS.CO)",RS.CO-2
+1089,"RESPOND-Communications (RS.CO)",RS.CO-3
+1090,"RESPOND-Communications (RS.CO)",RS.CO-4
+1091,"RESPOND-Communications (RS.CO)",RS.CO-5
+1092,"RESPOND-Analysis (RS.AN)",RS.AN-1
+1093,"RESPOND-Analysis (RS.AN)",RS.AN-2
+1094,"RESPOND-Analysis (RS.AN)",RS.AN-3
+1095,"RESPOND-Analysis (RS.AN)",RS.AN-4
+1096,"RESPOND-Mitigation (RS.MI)",RS.MI-1
+1097,"RESPOND-Mitigation (RS.MI)",RS.MI-2
+1098,"RESPOND-Mitigation (RS.MI)",RS.MI-3
+1099,"RESPOND-Improvements (RS.IM)",RS.IM-1
+1100,"RESPOND-Improvements (RS.IM)",RS.IM-2
+1101,"RECOVER-Recovery Planning (RC.RP)",RC.RP-1
+1102,"RECOVER-Improvements (RC.IM)",RC.IM-1
+1103,"RECOVER-Improvements (RC.IM)",RC.IM-2
+1104,"RECOVER-Communications (RC.CO)",RC.CO-1
+1105,"RECOVER-Communications (RC.CO)",RC.CO-2
+1106,"RECOVER-Communications (RC.CO)",RC.CO-3
