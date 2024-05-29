@@ -17,12 +17,12 @@ The goal of the prototyping effort is to seamlessly address ever evolving compli
 
 ---
 ### KG Model
-![**Graph Database Model**](./docs/KGModel.png)
+<img src="./docs/KGModel.png" alt="drawing" width="500"/>
 
 ---
 
 ### Model Build, Processing and RAG Pipelines
-![**Build Pipeline: Key Concept Generation**](./docs/Flows-graph-db.jpg)
+<img src="./docs/Flows-graph-db.jpg" alt="drawing" width="900"/>
 
 ## Runtime Env and Dependencies
 *Tested on*: Ubuntu 22.04 - *Python Version*: 3.10.12 
