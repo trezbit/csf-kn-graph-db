@@ -15,8 +15,14 @@ The goal of the prototyping effort is to seamlessly address ever evolving compli
 
 **Status**:  Baseline version 1.0
 
-![**Graph Database Model**](./docs/Flows.drawio.png)
-![**Build Pipeline: Key Concept Generation**](./docs/Flows.drawio.png)
+---
+### KG Model
+![**Graph Database Model**](./docs/KGModel.png)
+
+---
+
+### Model Build, Processing and RAG Pipelines
+![**Build Pipeline: Key Concept Generation**](./docs/Flows-graph-db.jpg)
 
 ## Runtime Env and Dependencies
 *Tested on*: Ubuntu 22.04 - *Python Version*: 3.10.12 
@@ -41,7 +47,6 @@ export NEO4J_USER='neo4j'
 export NEO4J_PASSWORD=<YOUR_AURADB_PWD>
 
 export OPEN_API_SECRET=<YOUR_OPEN_API_SECRET>
-export OPEN_API_ORGID=<YOUR_OPEN_API_ORGID>
 ```
 
 ###### Graph Build Settings
@@ -55,7 +60,34 @@ For graph model and CSV/JSON extraction paths, constants and enumerations, refer
 + Model build 
 + KeyPhrase extraction 
 + Neo4J Access
-+ Inference demo 
++ Inference + RAG demo
+
+> Node properties:
+>
+> STANDARD {id: INTEGER, name: STRING, display_name: STRING, role: STRING}
+>
+> CONTROL {id: INTEGER, name: STRING, functional_category: STRING}
+>
+> KEYCONCEPT {id: INTEGER, name: STRING, accronym: STRING}
+>
+> QUESTION {id: INTEGER, name: STRING, scope: STRING, rationale: STRING, aqtext_embedding: LIST}
+>
+> Relationship properties:
+>
+> CAPTURES {from_id: INTEGER, to_id: INTEGER, confidence: FLOAT}
+>
+> ASSESSES {from_id: INTEGER, to_id: INTEGER, strength: BOOLEAN}
+>
+> The relationships:
+>
+> (:STANDARD)-[:HAS_CONTROL]->(:CONTROL)
+>
+> (:CONTROL)-[:CAPTURES]->(:KEYCONCEPT)
+>
+> (:CONTROL)-[:MAPS_TO]->(:CONTROL)
+>
+> (:QUESTION)-[:ASSESSES]->(:CONTROL)
+ 
 
 ## Testing
 

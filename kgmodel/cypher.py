@@ -8,7 +8,14 @@ CLEANUP_GRAPH = """
 
 CREATE_CONSTRAINT ="""CREATE CONSTRAINT id___LABEL___uniq IF NOT EXISTS FOR (n: __LABEL__) REQUIRE (n.`id`) IS UNIQUE;"""
 
-'''Node Load CYBHER Queries'''
+CREATE_FULLTEXT_INDEX ="""
+CREATE FULLTEXT INDEX name___LABEL___fulltext_index
+  IF NOT EXISTS
+  FOR (n:__LABEL__) 
+  ON EACH [n.`name`]
+"""
+
+
 LOAD_STANDARD="""
     LOAD CSV WITH HEADERS FROM '""" +  PUBLIC_GRAPH_DATA_ROOT + """/standard.csv'
     AS row WITH row

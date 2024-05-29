@@ -7,6 +7,7 @@ import config.includes as includes
 import connector.graphdb as graphdb
 import gprocessor.process as process
 import kgmodel.kgtypes as kgtypes
+import infer.raggraph as raggraph
 
 def extract_keyphrase(file,config):
     '''Extract keyphrases from a text file using KeyBERT'''
@@ -56,6 +57,8 @@ def test_neo4j(params):
         neocl.cleanup_full()
     elif params == 'loadcsv':
         process.GraphProcessor().build_graph()
+    elif params == 'preprag':
+        raggraph.GraphInference().graph_rag_prep()
     neocl.close()
 
 def generate_key_concept_graph(params):

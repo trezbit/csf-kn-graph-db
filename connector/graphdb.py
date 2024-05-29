@@ -4,15 +4,30 @@ from neo4j import GraphDatabase
 from neo4j.exceptions import Neo4jError
 from kgmodel.cypher import CLEANUP_GRAPH
 
+NEO4J_URI = os.environ.get("NEO4J_URI")
+NEO4J_USER = os.environ.get("NEO4J_USER", "neo4j")
+NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD")
+
 
 class NEO4JConnector(object):
     '''Neo4j connector class'''
     def __init__(self):
-        self.uri = os.environ.get("NEO4J_URI")
-        self.auth = (os.environ.get("NEO4J_USER", "neo4j")
-                     , os.environ.get("NEO4J_PASSWORD", "password"))
+        self.uri = NEO4J_URI
+        self.auth = (NEO4J_USER, NEO4J_PASSWORD)
         self.driver = GraphDatabase.driver(self.uri, auth=self.auth)
 
+    def getAuthUser(self):
+        '''Get the authentication user'''
+        return self.auth[0]
+    
+    def getAuthPassword(self):
+        '''Get the authentication password'''
+        return self.auth[1]
+    
+    def getUri(self):
+        '''Get the URI'''
+        return self.uri
+    
     def close(self):
         '''Close the driver'''
         self.driver.close()

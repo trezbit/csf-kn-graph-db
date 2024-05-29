@@ -52,7 +52,10 @@ class GraphProcessor():
         print("Build Nodes - Label:", nodetype.load)
         newconst = CREATE_CONSTRAINT.replace("__LABEL__", nodetype.label)
         self.connector.run_query(newconst)
+        newfulltext = CREATE_FULLTEXT_INDEX.replace("__LABEL__", nodetype.label)
+        self.connector.run_query(newfulltext)
         self.connector.run_query(nodetype.load)
+        
         
         return
     

@@ -16,7 +16,7 @@ class NodeType(Enum):
     STANDARD='STANDARD', cypher.LOAD_STANDARD, includes.MODEL_JSON_NODES + "/standard.json", 'standards'
     CONTROL='CONTROL', cypher.LOAD_CONTROL, includes.MODEL_JSON_NODES + "/csf-v2.0-controls.json", 'controls'
     KEYCONCEPT='KEYCONCEPT', cypher.LOAD_KEYCONCEPT, includes.MODEL_JSON_NODES + "/keyconcept.json", 'keyconcepts'
-    ASESSMENTQ='ASESSMENTQ', cypher.LOAD_ASSESSMENTQ, includes.MODEL_JSON_NODES + "/question.json", 'questions'
+    ASESSMENTQ='QUESTION', cypher.LOAD_ASSESSMENTQ, includes.MODEL_JSON_NODES + "/question.json", 'questions'
 
 class RelationType(Enum):
     '''Model relation type enumeration'''
