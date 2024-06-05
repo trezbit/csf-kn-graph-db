@@ -1,6 +1,6 @@
 # CSF Knowledge Graph (KG)
 
-Organizations transitioning from NIST CSF version 1.1 to version 2.0 must address new and expanded requirements. With this prototype, we are attempting to explore the complexities and challenges of such transitioning efforts through use cases, leveraging LLM, Knowledge Graphs (KG) and RAG approaches. 
+Organizations transitioning from NIST CSF version 1.1 to version 2.0 must address new and expanded requirements. With this prototype, we are attempting to explore and address the complexities and challenges of such transitioning efforts through use cases, leveraging LLM, Knowledge Graphs (KG) and RAG approaches. 
 
 Some of the high-level use-cases considered in the process include:
 
