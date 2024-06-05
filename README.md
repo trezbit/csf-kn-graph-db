@@ -84,31 +84,38 @@ Following AuraDB [Neo4J] Cypher and command line utilities are built to demonstr
     | ------------------------------------------------------- | ------------------------------------------------------- |
     | <img src="./docs/sample-direct.KG-tbl.png" width="500"> | <img src="./docs/sample-direct.KG-viz.png" width="400"> |
     
-    * Compare the *Key Concept* relevance and quality for the CSF vs 2.0 control **GV.OC-01**:
-    
-      &#8594; Resulting from the processing pipeline with an intermediary Open AI extraction layer -> PatternRank (w KeyBERT)
-    
-      &#8594; To a sampling of key-term extracted with KeyBERT alone, directly working with the Open-AI generated corpus:
+    * Compare the *Key Concept* relevance and quality for the CSF vs 2.0 control **GV.OC-01** resulting from the processing pipeline with an intermediary Open AI extraction layer -> PatternRank (w KeyBERT)
+      to the following sampling of key-terms extracted with KeyBERT alone, directly working with the Open-AI generated corpus:
     
       > `python main.py extract --keyphrase --file corpus/csf-core/GV.OC-01.txt`
+      > 
       > Extract Key Phrase - File: corpus/csf-core/GV.OC-01.txt , config:  {}
+      >
       > Key phrase:  ('**nist cybersecurity framework**', 0.6294)
+      >
       > Key phrase:  (**'impacted cybersecurity risks**', 0.5425)
+      >
       > Key phrase:  ('**csf version released**', 0.4583)
+      >
       > Key phrase:  ('**controls risk assessments**', 0.3998)
+      >
       > Key phrase:  ('**continuous improvement ensure**', 0.3597)
+      >
       > Key phrase:  ('**trends implementation policy**', 0.3334)
+      >
       > Key phrase:  ('**organizational mission broader**', 0.3212)
+      >
       > Key phrase:  ('**revisions new control**', 0.3164)
+      >
       > Key phrase:  ('**gv oc hypothetical**', 0.1893)
     
     
 
 
--  *Key Concept*  Subgraph: cross-control/standard mapping exploration via AuraDB [Neo4J] (Cypher)
+-  *Key Concept Subgraph*: cross-control/standard mapping exploration via AuraDB [Neo4J] (Cypher)
 
 
-  - All CSF v 2.0  and the (explicitly and by association) mapped v 1.1 controls clustered around the *Key Concept*: `incident response`
+    - All CSF v 2.0  and the (explicitly and by association) mapped v 1.1 controls clustered around the *Key Concept*: `incident response`
 
   ```cypher
   MATCH (keyc:KEYCONCEPT {name: "incident response"})<-[rels:CAPTURES]-(ctrl2:CONTROL)-[map:MAPS_TO]-(ctrl1:CONTROL)<-[stdc:HAS_CONTROL]-(std1:STANDARD)
