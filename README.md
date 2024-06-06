@@ -153,17 +153,17 @@ Two additional inference options have been implemented (`./infer/raggraph.py`) t
   - > `python main.py infer --rag`
     >
     > Infer with question KG augmentation for LLM - Question: What are some example questions for me to assess my organization for NIST CSF version 2.0 controls in GOVERN functional category?
+    >
     > ChatGPT rag-inference result: 
     > Some example questions to assess your organization for NIST CSF version 2.0 controls in the GOVERN functional category are:
     >
     > 1. Do you have documented policies and procedures for managing cybersecurity risks?
     > 2. Does your organization have documented policies and procedures that support cybersecurity governance?
-    > 3. What processes are in place for *evaluating the effectiveness of allocated resources* for governance of cybersecurity?
+    > 3. What processes are in place for evaluating the effectiveness of allocated resources for governance of cybersecurity?
     > 4. How does your organization align its cybersecurity policies and processes with established frameworks?
     > 5. Do you have documented cybersecurity policies and procedures aligned with organizational objectives?
-    > 6. How do you integrate *lessons learned from past incidents into your current incident response* strategies?
-    > 7. Do you have formal policies and *procedures for monitoring network traffic and data flows*?
-    > 8. Has your organization defined and documented policies and procedures for managing cyber risk?
+    > 6. How do you integrate lessons learned from past incidents into your current incident response strategies?
+    > 7. Do you have formal policies and procedures for monitoring network traffic and data flows?
 
 
 
@@ -254,17 +254,28 @@ If you have questions, concerns, bug reports, etc, please file an issue in this 
 1. [LICENSE](LICENSE)
 
 ----
-## Credits and references
+## Credits and References
 
 #### [CSF Tools](https://csf.tools/) 
 
 Exploration and Visualization Tools by NIST Cybersecurity Framework (CSF) and Privacy Framework (PF)
 
-#### PatternRank
+#### [PatternRank](https://towardsdatascience.com/unsupervised-keyphrase-extraction-with-patternrank-28ec3ca737f0)
 
-#### KeyBERT
+Ref: Leveraging Pretrained Language Models and Part of Speech for Unsupervised Keyphrase Extraction - By *Tim Schopf, Simon Klimek, Florian Matthes*
 
-#### LangChain
+#### [KeyBERT](https://maartengr.github.io/KeyBERT/)
 
-#### Neo4J
+A minimal and easy-to-use keyword extraction technique that leverages BERT embeddings for the creation of keywords and keyphrases that are most similar to a document.
 
+#### [Deeplearning.AI](https://community.deeplearning.ai/c/short-course-q-a/knowledge-graphs-for-rag/437)
+
+Knowledge Graphs and RAG and other leaning and community resources
+
+#### [LangChain](https://python.langchain.com/v0.2/docs/introduction/)
+
+A framework for developing applications powered by large language models (LLMs).
+
+#### [Neo4J](https://neo4j.com/developer-blog/advanced-rag-strategies-neo4j/)
+
+Neo4J RAG and LLM support, resources and templates [e.g. future KG+RAG use case extensions: https://github.com/langchain-ai/langchain/tree/master/templates/neo4j-advanced-rag]

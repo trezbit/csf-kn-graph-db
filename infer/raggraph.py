@@ -112,7 +112,7 @@ class GraphInference:
             " is primarily concerned with the core concept of " + keyc.name + " hence the question: '" + node.name + "' is part of the compliance assessment checks. " + node.rationale 
         ) AS control_context_statements, keyc, node
         RETURN apoc.text.join(control_context_statements, "\n") + 
-            "\n" + node.name AS text, node, 0.1 as score,
+            "\n" + node.name AS text, node, 0.9 as score,
             { 
             source: node.source
             } as metadata
