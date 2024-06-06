@@ -93,16 +93,42 @@ def export_kggraph_to_csv(params):
     process.GraphProcessor().export_assessment_questionnaire_subgraph(params)
     print("Completed running export_assessment_questionnaire_graph_to_csv.")
 
+def demo_infer_plain(question):
+    '''Infer assessment questionnaire -- no augmentation for LLM'''
+    if question is None:
+        question = "What are some example questions for me to assess my organization for NIST CSF version 2.0 controls in GOVERN functional category?"
+    print("Infer with question no augmentation for LLM - Question:", question)
+    res = raggraph.GraphInference().infer_plain(question)
+    reslist = res['answer'].split('\n')
+    print("ChatGPT inference result: ")
+    for r in reslist:
+        print(r)
+
+def demo_infer_rag(question):
+    '''Infer assessment questionnaire -- with KG augmentation for LLM'''
+    if question is None:
+        question = "What are some example questions for me to assess my organization for NIST CSF version 2.0 controls in GOVERN functional category?"
+    print("Infer with question KG augmentation for LLM - Question:", question)
+    res = raggraph.GraphInference().infer_rag(question)
+    # print json result with newlines as a list
+    reslist = res['answer'].split('\n')
+    print("ChatGPT rag-inference result: ")
+    for r in reslist:
+        print(r)
+    
+
 
 def parse_args():
     '''CLI Argument parser for the application'''
-    parser = argparse.ArgumentParser(description='CSF knowledge graph build utilities')
+    parser = argparse.ArgumentParser(description='CSF knowledge graph KG build utilities and query demos')
     subparser = parser.add_subparsers(dest='command')
 
-    kwext = subparser.add_parser('extract', help='KeyPhrase(from text) Extraction')
-    csfmod = subparser.add_parser('csfmod', help='CSF key concept extraction for graph model')
+    kwext = subparser.add_parser('extract', help='KeyPhrase(from text) extraction testing: KeyBERT vs KeyBERT+PatternRank')
+    csfmod = subparser.add_parser('csfmod', help='CSF KG build utilities for Assessment Questionnaire, Key Concept and Control/Standard Subgraphs')
 
-    tester = subparser.add_parser('tester', help='Graph database utilities')
+    tester = subparser.add_parser('tester', help='KG tester utilities for Neo4j and other LLM connectivity testing')
+    inferer = subparser.add_parser('infer', help='Graph + RAG inference demonstrations')
+
 
     convertgroup1 = kwext.add_mutually_exclusive_group(required=True)
     convertgroup1.add_argument('--patternrank'
@@ -131,8 +157,17 @@ def parse_args():
     
     convertgroup3.add_argument('--tocsv', help='Dump JSON CSF nodes and edges to CSV with optional parameters'
                                , nargs='?', const='{}', type=str)
+
     csfmod.add_argument('--outdir', help='File written to directory', type=str, required=False)
 
+    convertgroup4 = inferer.add_mutually_exclusive_group(required=True)
+    convertgroup4.add_argument('--plain', help='Issue a plain LLM chain query'
+                               , nargs='?', const='{}', type=str)
+    convertgroup4.add_argument('--rag', help='Issue a retrieval augmented LLM chain query'
+                               , nargs='?', const='{}', type=str)
+    
+    inferer.add_argument('--question', help='Question for LLM', type=str, required=False)
+    
     args = parser.parse_args()
     return args
 
@@ -155,8 +190,11 @@ def run_session (args):
     elif (args.command == 'tester' and args.neo4j is not None):
         test_neo4j(args.neo4j)
     elif (args.command == 'tester' and args.openai is not None):
-        # csf2csv(args.file, args.txt)
         print("Open AI connectivity tester not implemented.")
+    elif (args.command == 'infer' and args.plain is not None):
+        demo_infer_plain(args.question)
+    elif (args.command == 'infer' and args.rag is not None):
+        demo_infer_rag(args.question)
     else:
         print("Unknown utility test command option for: "    , args.command)
     print("\nEnd of demo session...", args.command)
